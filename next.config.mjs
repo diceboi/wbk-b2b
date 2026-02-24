@@ -8,7 +8,7 @@ const nextConfig = {
         has: [
           { type: "host", value: "wallbedking-pro.de" },
         ],
-        destination: "https://wallbedking-pro.com/de-re/:path*",
+        destination: "https://wallbedking-pro.com/de/:path*",
         permanent: true, // 301
       },
       // www.wallbedking-pro.de -> wallbedking-pro.com/de-re
@@ -17,7 +17,7 @@ const nextConfig = {
         has: [
           { type: "host", value: "www.wallbedking-pro.de" },
         ],
-        destination: "https://wallbedking-pro.com/de-re/:path*",
+        destination: "https://wallbedking-pro.com/de/:path*",
         permanent: true,
       },
     ];

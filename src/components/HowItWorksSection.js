@@ -1,37 +1,34 @@
-export default function HowItWorksSection() {
+export default function HowItWorksSection({ dict }) {
   return (
     <>
-  <section className="section" id="how-it-works">
-    <div className="section-header">
-      <div className="section-tag">Getting started</div>
-      <div className="section-title">Four steps to your first wall bed project</div>
-    </div>
-    <div className="steps-grid">
-      <div className="step">
-        <div className="step-num">01</div>
-        <div className="step-title">Apply</div>
-        <p className="step-desc">Fill in the form below — takes 2 minutes. We review every application within 24 hours.</p>
-      </div>
-      <div className="step">
-        <div className="step-num">02</div>
-        <div className="step-title">Get Approved</div>
-        <p className="step-desc">We'll contact you to discuss pricing, territory, and answer your questions. Most accounts
-          approved same day.</p>
-      </div>
-      <div className="step">
-        <div className="step-num">03</div>
-        <div className="step-title">Order Your First Mechanism</div>
-        <p className="step-desc">No minimum quantity. Try it risk-free with our 60-day money-back guarantee — yes, it
-          applies to trade customers too.</p>
-      </div>
-      <div className="step">
-        <div className="step-num">04</div>
-        <div className="step-title">Build, Install, Profit</div>
-        <p className="step-desc">Use our designs, install guides, and technical support. Then watch the customer referrals
-          start coming in.</p>
-      </div>
-    </div>
-  </section>
+      <section className="section" id="how-it-works">
+        <div className="section-header">
+          <div className="section-tag">{dict.how.tag}</div>
+          <div className="section-title">{dict.how.title}</div>
+        </div>
+        <div className="steps-grid">
+          <div className="step">
+            <div className="step-num">{dict.how.steps[0].num}</div>
+            <div className="step-title">{dict.how.steps[0].title}</div>
+            <p className="step-desc">{dict.how.steps[0].desc}</p>
+          </div>
+          <div className="step">
+            <div className="step-num">{dict.how.steps[1].num}</div>
+            <div className="step-title">{dict.how.steps[1].title}</div>
+            <p className="step-desc">{dict.how.steps[1].desc}</p>
+          </div>
+          <div className="step">
+            <div className="step-num">{dict.how.steps[2].num}</div>
+            <div className="step-title">{dict.how.steps[2].title}</div>
+            <p className="step-desc">{dict.how.steps[2].desc}</p>
+          </div>
+          <div className="step">
+            <div className="step-num">{dict.how.steps[3].num}</div>
+            <div className="step-title">{dict.how.steps[3].title}</div>
+            <p className="step-desc">{dict.how.steps[3].desc}</p>
+          </div>
+        </div>
+      </section>
 
     </>
   );

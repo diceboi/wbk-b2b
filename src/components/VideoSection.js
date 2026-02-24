@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect, useRef } from 'react';
 
-export default function VideoSection() {
+export default function VideoSection({ dict }) {
   const [isVisible, setIsVisible] = useState(false);
   const videoRef = useRef(null);
 
@@ -33,7 +33,7 @@ export default function VideoSection() {
             <iframe
               width="100%"
               height="100%"
-              src="https://www.youtube.com/embed/VJba8mH8WTk?autoplay=1&mute=1&controls=1"
+              src="https://www.youtube.com/embed/VJba8mH8WTk"
               title="Wall Bed King — See It In Action"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

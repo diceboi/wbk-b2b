@@ -31,11 +31,11 @@ export default function Home() {
       <PartnershipBenefitsSection />
       <UspsSection />
       <ProductRangesSection />
-      <CompetitiveComparisonSection />
+      {/* <CompetitiveComparisonSection /> */}
       <WhoWeWorkWithSection />
       <LogisticsSection />
       <HowItWorksSection />
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <GuaranteeSection />
       <MarketOpportunitySection />
       <ComingSoonSection />

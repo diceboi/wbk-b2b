@@ -13,15 +13,15 @@ export default function Navbar({ dict, lang }) {
                 <a href="#profit">{dict.nav.profit}</a>
                 <a href="#products">{dict.nav.products}</a>
                 <a href="#how-it-works">{dict.nav.how}</a>
-                <div className="nav-lang-dropdown">
+                <div className="nav-lang-dropdown" tabIndex="0">
                     <button className="nav-lang-btn">
-                        {lang.toUpperCase()}
+                        {(lang || 'en').toUpperCase()}
                         <svg className="nav-lang-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                             <polyline points="6 9 12 15 18 9"></polyline>
                         </svg>
                     </button>
                     <div className="nav-lang-menu">
-                        <a href="/en" className={`nav-lang-item ${lang === 'en' ? 'active' : ''}`}>English (EN)</a>
+                        <a href="/en" className={`nav-lang-item ${(!lang || lang === 'en') ? 'active' : ''}`}>English (EN)</a>
                         <a href="/de" className={`nav-lang-item ${lang === 'de' ? 'active' : ''}`}>Deutsch (DE)</a>
                     </div>
                 </div>

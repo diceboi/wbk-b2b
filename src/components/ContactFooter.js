@@ -1,4 +1,4 @@
-export default function ContactFooter({ dict }) {
+export default function ContactFooter({ dict, lang }) {
   return (
     <>
       <section className="contact">
@@ -13,10 +13,10 @@ export default function ContactFooter({ dict }) {
         <div className="footer-inner">
           <div>{dict.footer.copyright}</div>
           <div className="footer-links">
-            <a href="/privacy" className="footer-link" style={{ color: '#888', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.privacy}</a>
-            <span style={{ color: '#ccc' }}>|</span>
-            <a href="/impressum" className="footer-link" style={{ color: '#888', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.contact}</a>
-            <span style={{ color: '#ccc' }}>|</span>
+            <a href={lang ? `/${lang}/privacy` : "/privacy"} className="footer-link" style={{ color: '#888', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.privacy}</a>
+            <span className="footer-separator" style={{ color: '#ccc' }}>|</span>
+            <a href={lang ? `/${lang}/impressum` : "/impressum"} className="footer-link" style={{ color: '#888', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.impressum}</a>
+            <span className="footer-separator" style={{ color: '#ccc' }}>|</span>
             <span>wallbedking.com</span>
           </div>
         </div>

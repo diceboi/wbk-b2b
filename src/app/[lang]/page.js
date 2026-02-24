@@ -46,7 +46,7 @@ export default async function Home(props) {
       <ComingSoonSection dict={dict} />
       {/* <FaqSection dict={dict} /> */}
       <ApplicationFormSection dict={dict} />
-      <ContactFooter dict={dict} />
+      <ContactFooter dict={dict} lang={lang} />
     </>
   );
 }

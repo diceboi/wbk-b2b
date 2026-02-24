@@ -15,7 +15,7 @@ export async function POST(request) {
 
         await transporter.sendMail({
             from: `"Wall Bed King B2B" <${process.env.GMAIL_USER}>`,
-            to: 'szabolcs.szasz@wallbedking.com',
+            to: 'info@wallbedking.com',
             replyTo: email,
             subject: `New B2B Application - ${company}`,
             html: `

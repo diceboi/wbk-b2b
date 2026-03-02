@@ -9,6 +9,7 @@ export default function CookieBanner({ dict }) {
         // Check if consent has already been given or declined
         const consent = localStorage.getItem('wbk_cookie_consent');
         if (!consent) {
+            // eslint-disable-next-line react-hooks/set-state-in-effect
             setIsVisible(true);
         }
     }, []);

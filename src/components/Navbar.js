@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Navbar({ dict, lang }) {
     return (
         <nav className="nav">
@@ -21,9 +23,9 @@ export default function Navbar({ dict, lang }) {
                         </svg>
                     </button>
                     <div className="nav-lang-menu">
-                        <a href="/en" className={`nav-lang-item ${(!lang || lang === 'en') ? 'active' : ''}`}>English (EN)</a>
-                        <a href="/de" className={`nav-lang-item ${lang === 'de' ? 'active' : ''}`}>Deutsch (DE)</a>
-                        <a href="/fr" className={`nav-lang-item ${lang === 'fr' ? 'active' : ''}`}>Français (FR)</a>
+                        <Link href="/en" className={`nav-lang-item ${(!lang || lang === 'en') ? 'active' : ''}`}>English (EN)</Link>
+                        <Link href="/de" className={`nav-lang-item ${lang === 'de' ? 'active' : ''}`}>Deutsch (DE)</Link>
+                        <Link href="/fr" className={`nav-lang-item ${lang === 'fr' ? 'active' : ''}`}>Français (FR)</Link>
                     </div>
                 </div>
                 <a href="#apply" className="nav-cta">{dict.nav.apply}</a>

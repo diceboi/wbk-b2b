@@ -1,0 +1,414 @@
+{
+    "nav": {
+        "brand": "Wall Bed King",
+        "portal": "PARTENAIRES COMMERCIAUX",
+        "why": "Pourquoi Des Lits Escamotables",
+        "profit": "Vos Marges",
+        "products": "Produits",
+        "how": "Comment Ça Marche",
+        "apply": "Ouvrir Un Compte Pro",
+        "sub": "Partenaires Commerciaux"
+    },
+    "stats": {
+        "years": {
+            "num": "30+",
+            "label": "Années de Fabrication"
+        },
+        "sold": {
+            "num": "40 000+",
+            "label": "Mécanismes Vendus"
+        },
+        "sizes": {
+            "num": "18",
+            "label": "Tailles Standards + Sur-mesure"
+        },
+        "countries": {
+            "num": "15",
+            "label": "Pays Desservis"
+        }
+    },
+    "hero": {
+        "badge": "Nous recrutons actuellement des partenaires à travers l'Europe",
+        "h1": "Nous fournissons le mécanisme,<br />le design et les clients.<br /><span>Vous encaissez les marges.</span>",
+        "sub": "Wall Bed King est le spécialiste européen des mécanismes de lits escamotables. Nous travaillons avec des menuisiers, des revendeurs de meubles et des architectes d'intérieur — en fournissant les armatures, les plans d'ébénisterie et même des clients de votre région. Vous fabriquez, vous installez, vous profitez.",
+        "proof": "Plus de <strong>40 000 mécanismes vendus</strong> dans <strong>15 pays</strong>. Fabriquant depuis <strong>1994</strong>. <strong>Garantie à vie</strong> sur chaque mécanisme.",
+        "btnApply": "Demander Un Compte Pro",
+        "btnProfit": "Simuler Vos Profits"
+    },
+    "opportunity": {
+        "title": "Si vous fabriquez déjà des meubles sur-mesure, vous avez tout pour vendre nos lits.",
+        "p1": "Le lit escamotable est l'une des solutions les plus rentables qu'un menuisier ou un revendeur puisse ajouter à son catalogue. Les clients n'achètent pas seulement un lit ; ils rachètent de l'espace précieux dans leur logement — une chambre en plus, un bureau fonctionnel à la maison, ou une façon de rendre un petit appartement vivable.",
+        "p2": "Si vous installez du mobilier sur-mesure, vous avez déjà ce qu'il faut : les mêmes outils, les mêmes compétences, les mêmes matériaux. En ajoutant nos mécanismes de lit escamotable à votre offre, vous débloquez une nouvelle source de revenus à fort taux de marge, avec un minimum d'investissement.",
+        "p3": "Beaucoup de nos partenaires signalent des marges bénéficiaires de 30 à 60 % supérieures sur les projets de lits escamotables par rapport aux travaux de menuiserie standards."
+    },
+    "profit": {
+        "tag": "Vos Marges",
+        "title": "Un projet type de lit escamotable",
+        "sub": "Vrais chiffres. Pas de suppositions.",
+        "calcs": [
+            {
+                "label": "Coût du Mécanisme",
+                "value": "dès 448 €",
+                "desc": "Prix net, départ usine<br />Directement de notre usine"
+            },
+            {
+                "label": "Vos Matériaux & Main-d'œuvre",
+                "value": "~200–400 €",
+                "desc": "Matériaux + installation<br />Une demi-journée à une journée"
+            },
+            {
+                "label": "Le Client Paie",
+                "value": "jusqu'à 2 200 €",
+                "desc": "Standard du marché pour un<br />lit escamotable sur-mesure"
+            }
+        ],
+        "gross_label": "Votre profit brut par projet",
+        "gross_value": "plus de 1 700 €",
+        "gross_sub": "Avec seulement 2 projets par mois, cela représente plus de 40 000 € de revenus supplémentaires par an — avec un produit que vous ne proposez peut-être pas encore.",
+        "note": "Et n'oubliez pas : <strong>chaque client qui vous commande un lit escamotable est un client qui serait sinon allé chez un concurrent.</strong><br />Vous souhaitez voir une estimation pour un projet précis ?",
+        "note_cta": "Contactez-nous"
+    },
+    "benefits": {
+        "tag": "Ce que nous apportons à la relation",
+        "title": "Nous fournissons bien plus qu'un simple mécanisme",
+        "sub": "Nos clients recherchent souvent de l'ébénisterie sur-mesure. Nous fournissons le mécanisme, les plans et les demandes clients de votre secteur. Vous fournissez le savoir-faire.",
+        "items": [
+            {
+                "title": "Direct Usine — Aucun Intermédiaire",
+                "desc": "Nous possédons l'usine. Vous achetez directement au prix départ usine. Aucun importateur ou distributeur, pas de marge supplémentaire entre nous. Votre profit est protégé d'emblée."
+            },
+            {
+                "title": "Plans de Meubles Inclus",
+                "desc": "Nous fournissons des dessins techniques et plans de coupe pour chaque dimension de mécanisme — à utiliser tels quels ou comme base pour un projet sur-mesure. Vous avancez plus vite, avec un résultat professionnel."
+            },
+            {
+                "title": "Nous Vous Envoyons Des Clients",
+                "desc": "Nous recevons régulièrement des demandes de propriétaires, architectes et designers cherchant des installateurs de leur région. Nous ne vendons pas les meubles – nous dirigeons ces clients directement vers nos artisans partenaires locaux."
+            },
+            {
+                "title": "Territoire Exclusif",
+                "desc": "Nous n'acceptons qu'un nombre limité de partenaires par région. Selon l'endroit où vous vous trouvez, il est possible d'avoir une exclusivité locale — protégeant ainsi votre activité face à la concurrence."
+            },
+            {
+                "title": "Support Vente & Marketing",
+                "desc": "Photos haute qualité, spécifications techniques, fiches commerciales pour votre showroom, votre site web ou vos devis. Nous vous listons également comme partenaire agréé sur notre site officiel."
+            },
+            {
+                "title": "Assistance Technique",
+                "desc": "Ligne de support dédiée pour les pros, guides d'installation détaillés, et vidéos pas à pas. Nous sommes prêts à vous assister au téléphone lors de votre première installation. Vous ne serez jamais seul."
+            }
+        ]
+    },
+    "why": {
+        "title": "Pourquoi Choisir Les Mécanismes Wall Bed King ?",
+        "sub": "Nous construisons nos armatures pour qu'elles survivent aux meubles qui les entourent. Lorsque votre réputation est en jeu, vous avez besoin de pièces en lesquelles vous pouvez avoir totalement confiance.",
+        "features": [
+            {
+                "title": "Garantie à Vie",
+                "desc": "Le seul constructeur proposant une véritable garantie à vie sur la structure métallique. Installez-le l'esprit tranquille."
+            },
+            {
+                "title": "Vérins à Gaz Stabilus",
+                "desc": "Propulsé par des verins à gaz allemands Stabilus haut de gamme pour une manipulation douce, sécurisée et d'un seul doigt."
+            },
+            {
+                "title": "Système TypeFlex",
+                "desc": "Le même mécanisme peut être installé à la verticale OU à l'horizontale. Moins de stock à gérer, plus d'options d'installation."
+            },
+            {
+                "title": "La Liberté SizeFlex",
+                "desc": "Disponible en 18 tailles. Un mécanisme unique couvre les lits super-kids, simples, doubles et king size (matelas jusqu'à 30 cm d'épaisseur)."
+            }
+        ],
+        "tag": "L'opportunité commerciale"
+    },
+    "ranges": {
+        "tag": "Nos gammes de produits",
+        "title": "Une solution pour chaque besoin",
+        "sub": "Trois gammes, mais un même système mécanique. Toutes nos gammes utilisent la même plateforme compatible TypeFlex, équipée par Stabilus, garantie à vie.",
+        "classic": {
+            "name": "Gamme Classique",
+            "tagline": "Le mécanisme seul",
+            "desc": "Construction en acier de très haute résistance, fabriqué en Europe. Prêt à s'intégrer dans vos meubles sur-mesure ou pouvant être installé de manière indépendante – fixé au mur ou au sol, aucun meuble l'entourant n'est obligatoire.",
+            "trade": "<strong>Opportunité Pro :</strong> Une marge commerciale modeste via votre remise pro (~30%) sur le mécanisme nu — mais la véritable plus-value est dans l'installation. Concevez ou commandez des panneaux frontaux localement pour transformer le produit, et dégagez un gros profit."
+        },
+        "studio": {
+            "name": "Gamme Studio",
+            "tagline": "Mécanisme + Panneau Frontal",
+            "desc": "La base du lit complète, prête à l'emploi. Esthétique épurée et moderne. Arrive à fleur de mur une fois refermé. Idéal pour les petits espaces minimalistes ou comme objet de démonstration en magasin / showroom.",
+            "trade": "<strong>Opportunité Pro :</strong> Valeur de commande initiale plus élevée. Un excellent produit “clé en main” facile à installer et à vendre."
+        },
+        "integrated": {
+            "name": "Gamme Intégrée",
+            "tagline": "Mécanisme + Meuble Entier",
+            "desc": "La solution d'ameublement complète. Panneaux de revêtement haut de gamme usinés avec précision en Europe. Plusieurs finitions disponibles. Livré en kit plat avec toute la quincaillerie.",
+            "trade": "<strong>Opportunité Pro :</strong> La façon la plus rapide de livrer un produit complet. Une solution pré-calculée qui demande du montage, mais aucune compétence de menuiserie poussée."
+        }
+    },
+    "who": {
+        "title": "Pensé pour votre entreprise",
+        "tabs": [
+            "Menuisiers & Ébénistes",
+            "Revendeurs De Meubles",
+            "Designers & Architectes"
+        ],
+        "joiners": {
+            "p1": "Ajoutez un produit très demandé, peu proposé et à forte marge. Nos plans de découpe détaillés garantissent que votre premier montage sera aussi rapide que le cinquantième.",
+            "p2": "Nous envoyons régulièrement les leads (demandes de particuliers) se trouvant dans la région de nos menuisiers partenaires de confiance. Un client veut un lit chez vous, c'est pour vous.",
+            "subtitle": "Du travail haut de gamme dans votre atelier, avec vos propres outils",
+            "items": [
+                "Si vous installez des cuisines ou des placards sur-mesure, vous savez déjà installer nos lits — aucune nouvelle compétence n'est requise",
+                "Nous livrons le système mécanique, les croquis techniques, et vous focalisez sur l'habillage et l'installation",
+                "Valeur typique : de 1 500 € à plus de 4 000 € selon la finition et l'étendue du meuble",
+                "Nous redirigeons vers vous les clients locaux nous contactant – une source de leads en constante évolution",
+                "Offrez une solution quasi introuvable chez vos concurrents traditionnels — et facturez-la à sa juste valeur"
+            ]
+        },
+        "retailers": {
+            "p1": "Mettez un lit Studio exposé dans votre magasin et regardez-le se vendre tout seul. Le lit escamotable attire les passants intrigués et apporte de vraies solutions gain de place.",
+            "p2": "Parce que notre système TypeFlex tolère l'installation verticale ET horizontale, un seul produit stocké répond à plusieurs demandes sans avoir besoin d'engorger vos entrepôts.",
+            "subtitle": "Une forte demande, d'excellentes marges, se vend tout seul via démo",
+            "items": [
+                "La gamme Studio arrive prête à l'emploi, dès sortie de boîte. Les clients le manipulent, et s'auto-convainquent",
+                "Le système TypeFlex limite vos frais d'inventaires — chaque module supporte deux sens de montage (vertical et horizontal)",
+                "Pas de commande minimum, livraison très réactive depuis nos centres de distribution basés en Europe (Allemagne, Royaume-Uni, et bientôt Espagne)",
+                "Photos HD et documentation commerciale fournis pour votre usage",
+                "Places régionales limitées pour empêcher les pratiques massives et protéger nos partenaires"
+            ]
+        },
+        "designers": {
+            "p1": "Recommandez un matériel solide, robuste et de grande distribution qui convaincra sans problème vos équipes. L'idéal pour les micro-appartements, réhabilitations hôtelières ou salles polyvalentes.",
+            "p2": "Utilisez notre base de données CAO (fichiers CAD), nos fiches de charge et spécifications techniques afin d'incorporer Wall Bed King en toute sécurité de conception.",
+            "subtitle": "Intégrez les lits escamotables en toute sérénité sur chacun de vos projets",
+            "items": [
+                "Gagnez des mètres carrés de vie grâce à ces systèmes conçus pour durer et garantis purement et simplement à vie",
+                "Fichiers DAO, modèles architecturaux, visuels de meubles 3D fournis",
+                "Envoyez-nous les coordonnées de votre menuisier et nous réglerons la mécanique avec lui, ou utilisez l'un de nos partenaires agréés",
+                "18 formats par défaut, possibilités de modifications sur la ligne de fabrication, modules flex...",
+                "Accompagnement de nos équipes avec votre conception — pour chaque besoin tertiaire (hôtels, bases de loisir) ou luxe résidentiel"
+            ]
+        },
+        "btn": "Devenir Partenaire Professionnel",
+        "tag": "Avec qui voulons-nous travailler ?",
+        "cta1": "Devenir Partenaire Installateur",
+        "cta2": "Devenir Revendeur Premium",
+        "cta3": "Devenir Partenaire Concepteur"
+    },
+    "logistics": {
+        "tag": "Stocks & Expéditions",
+        "title": "Livraisons rapides, à l'unité sans minimum",
+        "items": [
+            {
+                "title": "Commandez de 1 à 100",
+                "desc": "Commencez petit : achetez-en un. Nous vendons à l'unité. Nos partenaires qui vendent le plus aujourd'hui ont souvent commencé par installer un seul prototype. Zéro pression."
+            },
+            {
+                "title": "Livraison Express Européenne",
+                "desc": "Retrait direct ou livraison classique au départ de Passau (Allemagne), Londres (Royaume-Uni), et très bientôt Alicante (Espagne). Réception sous quelques jours dans la majorité des cas."
+            },
+            {
+                "title": "Ultra Protégé",
+                "desc": "Emballage multiplis en carton solide pour éviter le moindre impact logistique. Si cela arrivait, pièces de rechanges immédiates via garantie."
+            }
+        ]
+    },
+    "how": {
+        "title": "Comment démarrer l'aventure",
+        "steps": [
+            {
+                "num": "01",
+                "title": "Soumettez une Demande",
+                "desc": "Remplissez le petit formulaire — 2 minutes suffisent. Vérification complète de la majorité en moins de 24h."
+            },
+            {
+                "num": "02",
+                "title": "Validation du Profil",
+                "desc": "Nous prenons contact afin de comprendre l'espace de collaboration prévu, et discutons remises pros."
+            },
+            {
+                "num": "03",
+                "title": "Commander un Modèle",
+                "desc": "Pas d'engagement, pas de commande de lots. Essayez en condition réelle avec nos 60 Jours Satisfait ou Remboursé — Oui, valable aussi pour les Pros."
+            },
+            {
+                "num": "04",
+                "title": "Posez. Concevez. Proliférez.",
+                "desc": "Exploitez nos astuces d'ébénisterie, profitez de nos plans, et laissez la clientèle commencer à se fidéliser."
+            }
+        ],
+        "tag": "Premiers pas"
+    },
+    "guarantee": {
+        "title": "Les 60 Jours Garantis À l'Essai",
+        "sub": "Parce qu'intégrer une solution mécanique dans vos productions reste un investissement réfléchi.",
+        "p1": "Tester du nouveau matériel pour ses créations n'est pas censé être un saut dans l'inconnu. Prenez le kit, recevez-le. Testez la pression du verin Stabilus. Vérifiez le poids et la composition acier.",
+        "p2": "S'il ne s'agit pas du lit escamotable le plus durable et le plus qualitatif de votre carrière, ou vous êtes insatisfait : remballez, contactez-nous, et en soixante jours il sera retourné (frais logistiques maîtrisés/remboursés)."
+    },
+    "market": {
+        "title": "Mais qui souhaite s'équiper de lits escamotables ?",
+        "sub": "L'immense majorité des clients cherchent frénétiquement ces solutions près de chez eux – sans jamais trouver le menuisier adéquat. Comblons un manque, ensemble.",
+        "cards": [
+            {
+                "title": "Les Propriétaires",
+                "desc": "Rendre la chambre d'ami utile en télétravail toute la semaine."
+            },
+            {
+                "title": "Investisseurs & AirBnB",
+                "desc": "Ajouter du couchage certifié, multiplier les profits locatifs."
+            },
+            {
+                "title": "Dessinateurs/Décorateurs",
+                "desc": "Des appartements toujours plus petits cherchant des solutions esthétiques complètes."
+            },
+            {
+                "title": "Amis du Grenier & Locaux Vides",
+                "desc": "Transformez l'ancien garage ou les combles en studio d'hébergement performant."
+            },
+            {
+                "title": "Aménageurs Vans / Plaisanciers",
+                "desc": "Utilisation pointue de nos modèles de sommiers dans le milieu maritime et caravaning."
+            },
+            {
+                "title": "Projets Tiny House",
+                "desc": "Quand micro-logement oblige l'apparition et l'escamotage par roulement du sommier fixe."
+            }
+        ],
+        "tag": "Les profils cibles"
+    },
+    "coming": {
+        "title": "Prochainement : La Banquette Modulable",
+        "desc": "Outil suprême. Un système de canapé intégré qui accompagne directement le mouvement et le rangement frontal de votre lit basculant."
+    },
+    "apply": {
+        "title": "Demander l'Ouverture de Compte Pro",
+        "sub": "Prend 2 minutes - Retour aux demandes sous 24h. 60 Jours de phase de Test.",
+        "labels": {
+            "name": "Votre Nom Complet *",
+            "company": "Nom de L'entreprise *",
+            "email": "Adresse Email *",
+            "phone": "Téléphone de Contact",
+            "type": "Mon activité est... *",
+            "country": "Région et Pays *",
+            "message": "Parlez-nous des synergies et capacités voulues..."
+        },
+        "placeholders": {
+            "name": "Prénom et Nom",
+            "company": "Sasu, EURL...",
+            "email": "pro@mon-entreprise.com",
+            "phone": "+33 6 12 34 56 78",
+            "country": "ex: Île-de-France, France",
+            "message": "ex: Notre équipe de menuisiers chercherait des structures standards..."
+        },
+        "types": [
+            "Artisan Ébéniste / Menuisier",
+            "Charpentier",
+            "Distributeur (Magasin d'ameublement)",
+            "Décoration & Design d'Intérieur",
+            "Cabinet d'architectes",
+            "Autre"
+        ],
+        "btn": "Envoyer Les Informations",
+        "btnSubmitting": "Envoi en cours...",
+        "note": "Nous validons avec soin la capacité du demandeur afin d'obtenir des marges pérennes. Aucun spam.",
+        "errorFill": "Merci de contrôler les champs obligatoires.",
+        "errorGen": "Une erreur réseau est survenue. Veuillez réessayer ultérieurement.",
+        "successTitle": "La demande est envoyée",
+        "successDesc": "Excellent. Les équipes chargées du BtoB évaluent déjà vos données. Nous échangerons avec vous dans les prochaines 24 heures pour valider un statut potentiel et discuter l'intégration à votre secteur exclusif."
+    },
+    "contact": {
+        "title": "Encore une hésitation ?",
+        "desc": "Rencontrez du conseil chez trade@wallbedking.com et posez toutes vos questions logistiques."
+    },
+    "footer": {
+        "copyright": "© 2025 Wall Bed King. Tous Droits Réservés.",
+        "desc": "Le fabricant de renommée des lits escamotables.",
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions d'utilisation",
+        "contact": "Nous contacter",
+        "impressum": "Mentions Légales"
+    },
+    "usps": {
+        "tag": "Pourquoi nos modèles",
+        "title": "Meilleur Produit. Bon positionnement Prix.",
+        "desc": "Concevez sur des budgets imbattables qui respectent le professionnel de bout en bout de la file (assemblage & revente).",
+        "features": [
+            {
+                "title": "Garantie à Vie",
+                "desc": "Pour le client de la rue, il s'agit d'un déclic automatique. C'est l'argument numéro un au moment d'arriver au panier."
+            },
+            {
+                "title": "Gaz et Amortisseurs Stabilus",
+                "desc": "Puits certifiés issus de la branche automobile pour descendre de l'imposant par 2 doigts. Bloque et équilibre en temps réel."
+            },
+            {
+                "title": "Sens TypeFlex (Brevet En Cours)",
+                "desc": "Un achat de mécanique vous permet un lit en Vertical, comme en Horizontal. Moins de logistique."
+            },
+            {
+                "title": "Cibles Flexibles + 18 tailles",
+                "desc": "L'équipement le plus complet de tous vos projets – même à retoucher par outillages très complexes pour l'insérer sur-mesure."
+            }
+        ]
+    },
+    "cookie_banner": {
+        "message": "Nous utilisons des cookies pour analyser le trafic web et améliorer votre expérience. En cliquant sur 'Accepter', vous consentez à notre utilisation des cookies.",
+        "accept": "Accepter",
+        "decline": "Refuser"
+    },
+    "legal": {
+        "privacy": {
+            "title": "Politique de confidentialité",
+            "updated": "Dernière mise à jour : 11 septembre 2023.",
+            "overview": "Aperçu général",
+            "p1": "Ce site web est exploité par IZN Limited (société enregistrée en Angleterre et au Pays de Galles sous le numéro 08141005), dont le siège social est situé à Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT.",
+            "p2": "Toute référence à \"Wall Bed King\", \"notre\", \"nos\", \"nous\" dans cette politique fait référence à IZN Limited, ou à toute autre société de notre groupe, ainsi qu'aux prestataires nous fournissant des services.",
+            "p3": "Cette politique de confidentialité s'applique à nos sites web sur lesquels elle est affichée.",
+            "p4": "La présente politique explique comment Wall Bed King utilise et protège les informations que vous lui transmettez lorsque vous utilisez ce site web. Wall Bed King s'engage à garantir la protection de votre vie privée. Si nous vous demandons de fournir certaines informations permettant de vous identifier, soyez assuré qu'elles ne seront utilisées que conformément au présent texte. Nous pouvons modifier cette politique de manière ponctuelle en mettant à jour cette page. Nous vous invitons à la consulter régulièrement pour vous assurer de votre accord avec ces éventuels changements.",
+            "controlling": "Contrôle de vos informations personnelles",
+            "c1": "Vous pouvez choisir de restreindre la collecte ou l'utilisation de vos informations de différentes manières :",
+            "c2": "Chaque fois qu'il vous est demandé de remplir un formulaire sur le site, repérez la case à cocher pour indiquer que vous ne souhaitez pas que l'information soit utilisée par qui que ce soit à des fins de marketing direct.",
+            "c3": "Si vous avez précédemment accepté que nous utilisions vos informations personnelles à des fins de marketing direct, vous pouvez changer d'avis à tout moment en nous envoyant un e-mail à contact@wallbedking.co.uk.",
+            "c4": "Nous ne vendons, ni ne louons, ni ne distribuons vos informations personnelles à des tiers à moins d'avoir votre permission ou d'y être obligés par la loi. Nous pourrons utiliser vos informations pour vous envoyer des offres promotionnelles de tiers susceptibles de vous intéresser, si vous le souhaitez.",
+            "c5": "Vous pouvez demander les détails des informations personnelles que nous détenons à votre sujet en vertu du Data Protection Act de 1998. Une petite participation financière pourra être demandée. Pour en obtenir une copie, veuillez écrire à contact@wallbedking.co.uk.",
+            "c6": "Si vous estimez que des informations en notre possession sont inexactes ou incomplètes, veuillez nous écrire ou nous envoyer un e-mail à l'adresse ci-dessus dans les plus brefs délais. Nous corrigerons rapidement toute information trouvée inexacte.",
+            "what": "Ce que nous faisons des informations recueillies",
+            "w1": "Nous avons besoin de ces informations pour comprendre vos besoins et vous fournir un meilleur service, et en particulier pour les raisons suivantes :",
+            "w2": "Tenue de dossiers internes.",
+            "w3": "Amélioration de nos biens et services.",
+            "w4": "Nous pourrons périodiquement envoyer des e-mails promotionnels sur nos nouveaux produits, nos offres spéciales ou d'autres informations qui pourraient vous intéresser, en utilisant l'adresse électronique que vous avez fournie.",
+            "w5": "Ponctuellement, nous pourrons également utiliser vos données pour vous contacter à des fins d'études de marché (par e-mail, téléphone ou par courrier) afin d'adapter notre site en fonction de vos centres d'intérêt.",
+            "security": "Sécurité",
+            "s1": "Nous nous engageons à sécuriser vos informations. Afin de prévenir un accès non autorisé ou leur divulgation, nous avons mis en place un ensemble de procédures physiques, électroniques et de gestion appropriées, visant à garantir l'intégrité de la collecte de données en ligne.",
+            "links": "Liens vers d'autres sites web",
+            "l1": "Notre site peut contenir des liens vers d'autres sites intéressants. Mais notez que dès lors que vous cliquez sur ces liens vous menant hors de notre domaine, nous n'exerçons aucun contrôle. Dès lors, nous déclinons toute responsabilité concernant la protection et la confidentialité des informations partagées en visitant d'autres sites qui échapperaient à la présente déclaration. Adoptez la prudence et lisez toujours la charte de confidentialité des pages web ou autres applicatifs visités.",
+            "personal": "Données Personnelles",
+            "p_collect": "Ce que nous récoltons",
+            "p_collect_1": "Nous pourrons recueillir les éléments suivants :",
+            "p_collect_2": "nom et fonction professionnelle",
+            "p_collect_3": "vos informations de liaison, incluant l'adresse électronique",
+            "p_collect_4": "des rapports démographiques ciblés (code postal, thèmes d'intérêt, etc)",
+            "p_collect_5": "tout paramètre nécessaire à nos études clientèles et/ou le calcul des offres",
+            "cookies": "Cookies et Tracking",
+            "cookies_h": "Notre usage des cookies",
+            "cookies_1": "Un cookie est un petit fichier qui demande à résider sur le disque dur de votre ordinateur. Une fois accordé, ce fichier participe à l'estimation globale du rapport au trafic web et vous identifie par signalement, que vous connaissiez un site bien précis ou que l'application de tracking permette au serveur web en cause d'agir. Nous stockons uniquement vos éléments pour mieux cerner et valider les actions, en considérant toujours à priori une démarche de personnalisation de vos désirs de navigation."
+        },
+        "impressum": {
+            "title": "Mentions Légales",
+            "company_name": "IZN Limited",
+            "registered_office": "Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT, Royaume-Uni",
+            "company_number": "N° de société : 08141005 (Enregistrée en Angleterre et au Pays de Galles)",
+            "contact": "Contact",
+            "email": "Email: contact@wallbedking.co.uk",
+            "phone": "Téléphone : +44 123 456 7890",
+            "represented_by": "Représenté par",
+            "director": "Dirigeant responsable : Imre Zsolt Nagy",
+            "vat": "Numéro de TVA",
+            "vat_id": "GB138486383"
+        }
+    },
+    "coming_soon": {
+        "tag": "Disponible au 3e Trimestre 2025",
+        "title": "Canapés Modulables",
+        "desc": "Un canapé indépendant conçu précisément pour venir s'insérer en un tout avec les lits armoires Wall Bed King. En attente avec des partenaires commerciaux sélectionnés."
+    }
+}

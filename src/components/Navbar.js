@@ -23,6 +23,7 @@ export default function Navbar({ dict, lang }) {
                     <div className="nav-lang-menu">
                         <a href="/en" className={`nav-lang-item ${(!lang || lang === 'en') ? 'active' : ''}`}>English (EN)</a>
                         <a href="/de" className={`nav-lang-item ${lang === 'de' ? 'active' : ''}`}>Deutsch (DE)</a>
+                        <a href="/fr" className={`nav-lang-item ${lang === 'fr' ? 'active' : ''}`}>Français (FR)</a>
                     </div>
                 </div>
                 <a href="#apply" className="nav-cta">{dict.nav.apply}</a>

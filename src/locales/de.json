@@ -1,0 +1,414 @@
+{
+  "nav": {
+    "brand": "Wall Bed King",
+    "portal": "HANDELSPARTNER",
+    "why": "Warum Schrankbetten",
+    "profit": "Ihr Gewinn",
+    "products": "Produkte",
+    "how": "So funktioniert’s",
+    "apply": "Handelspartner werden",
+    "sub": "Handelspartner"
+  },
+  "stats": {
+    "years": {
+      "num": "30+",
+      "label": "Jahre Fertigung"
+    },
+    "sold": {
+      "num": "40.000+",
+      "label": "verkaufte Beschläge"
+    },
+    "sizes": {
+      "num": "18",
+      "label": "Standardgrößen + Sondermaße"
+    },
+    "countries": {
+      "num": "15",
+      "label": "belieferte Länder"
+    }
+  },
+  "hero": {
+    "badge": "Jetzt Handelspartner für Schrankbett-Beschlagsysteme in Europa werden",
+    "h1": "Wir liefern das Beschlagsystem,<br />die technische Grundlage und auf Wunsch Kundenanfragen.<br /><span>Sie fertigen das Möbel und erzielen Ihre Marge.</span>",
+    "sub": "Wall Bed King ist ein europäischer Hersteller von Schrankbett-Beschlagsystemen. Wir arbeiten mit Tischlern, Schreinern, Möbelhändlern und qualifizierten Fachbetrieben zusammen. Sie erhalten unsere Beschläge, technische Korpuszeichnungen und Unterstützung für Ihre Projekte.",
+    "proof": "Über <strong>40.000 verkaufte Beschläge</strong> in <strong>15 Ländern</strong>. Eigene Fertigung seit <strong>1994</strong>. <strong>Lebenslange Herstellergarantie</strong> auf jeden Beschlag.",
+    "btnApply": "Handelspartner werden",
+    "btnProfit": "Gewinnpotenzial berechnen"
+  },
+  "opportunity": {
+    "title": "Bieten Sie bereits Schrankbetten an? Dann kennen Sie das Potenzial.",
+    "p1": "Schrankbetten ermöglichen Fachbetrieben eine deutlich höhere Wertschöpfung als klassische Einbaumöbel. Kunden investieren in funktionale Lösungen, die wertvollen Wohnraum zurückgewinnen – ob Homeoffice, Gästezimmer oder kompakte Wohnungen.",
+    "p2": "Wenn Sie bereits Möbel fertigen, verfügen Sie über alle Voraussetzungen: dieselben Werkzeuge, dieselben Fähigkeiten und dieselbe Fertigung. Mit Schrankbett-Beschlägen erschließen Sie ein zusätzliches, margenstarkes Geschäftsfeld.",
+    "p3": "Viele unserer Handelspartner erzielen bei Schrankbett-Projekten 30–60 % höhere Margen als bei vergleichbaren Möbelprojekten."
+  },
+  "profit": {
+    "tag": "Ihr Gewinn",
+    "title": "Ein typisches Schrankbett-Projekt",
+    "sub": "Praxisnahe Kalkulation für Ihren Fachbetrieb:",
+    "calcs": [
+      {
+        "label": "Beschlagskosten",
+        "value": "ab 448 €",
+        "desc": "Ab Werk, Nettopreis<br />Direkt von unserer Fabrik"
+      },
+      {
+        "label": "Ihr Material & Arbeitszeit",
+        "value": "~200–400 €",
+        "desc": "Schrankmaterial + Installation<br />Halber bis ganzer Tag"
+      },
+      {
+        "label": "Kunde zahlt",
+        "value": "bis zu 2.200 €",
+        "desc": "Marktstandard für ein<br />maßgeschneidertes Schrankbett"
+      }
+    ],
+    "gross_label": "Ihr Bruttogewinn pro Projekt",
+    "gross_value": "über 1.700 €",
+    "gross_sub": "Mit nur 2 Projekten pro Monat bedeutet das über 40.000 € zusätzlicher Umsatz pro Jahr – mit einem Produkt, das Sie vielleicht noch gar nicht anbieten.",
+    "note": "Plus: <strong>Jeder Kunde, der ein Schrankbett bei Ihnen bestellt, ist ein Kunde, der sonst zur Konkurrenz gehen würde.</strong><br />Möchten Sie eine Kalkulation für ein bestimmtes Projekt sehen?",
+    "note_cta": "Kontakt aufnehmen"
+  },
+  "benefits": {
+    "tag": "Was wir in die Partnerschaft einbringen",
+    "title": "Mehr als nur ein Beschlag – ein komplettes System für Fachbetriebe",
+    "sub": "Sie fertigen das Möbel – wir liefern das Beschlagsystem, technische Unterlagen und Unterstützung.",
+    "items": [
+      {
+        "title": "Direkt vom Hersteller – Ohne Zwischenhändler",
+        "desc": "Da wir die Fabrik besitzen, beziehen Sie zu günstigen Ab-Werk-Preisen, ohne Aufschläge für Importeure oder Distributoren. Ihre Marge bleibt geschützt."
+      },
+      {
+        "title": "Möbeldesigns Inklusive",
+        "desc": "Nutzen Sie unsere bewährten Möbeldesigns und technischen Zeichnungen für jede Beschlagsgröße als Basis für Ihre individuellen Projekte. So liefern Sie schneller Ergebnisse in Profi-Qualität."
+      },
+      {
+        "title": "Kundenvermittlung",
+        "desc": "Wir vermitteln qualifizierte Anfragen von Hausbesitzern, Architekten und Raumplanern, die einen lokalen Montagepartner suchen, direkt an Sie in Ihrer Region."
+      },
+      {
+        "title": "Exklusiver Gebietsschutz",
+        "desc": "Wir nehmen nur eine begrenzte Anzahl von Handelspartnern pro Region auf. Abhängig von Ihrem Standort besteht die Möglichkeit zur Exklusivität – so schützen wir Ihr Geschäft vor lokaler Konkurrenz."
+      },
+      {
+        "title": "Marketing & Verkaufsunterstützung",
+        "desc": "Wir stellen professionelle Produktfotos, Spezifikationen und Marketingmaterialien für Ihren Showroom und Ihre Website bereit und listen Sie als anerkannten Partner."
+      },
+      {
+        "title": "Technischer Support",
+        "desc": "Eine dedizierte Händler-Support-Hotline, detaillierte Montageanleitungen und Video-Tutorials stehen Ihnen zur Verfügung. Wir begleiten Sie bei Ihrem ersten Einbau – Sie sind nie auf sich allein gestellt."
+      }
+    ]
+  },
+  "why": {
+    "title": "Hochwertige Beschlagtechnik für professionelle Möbelprojekte",
+    "sub": "Unsere Schrankbett-Beschläge bieten eine Kombination aus Qualität, Zuverlässigkeit und langfristiger Sicherheit.",
+    "features": [
+      {
+        "title": "Lebenslange Herstellergarantie",
+        "desc": "Lebenslange Garantie auf die Funktion unserer Schrankbett-Beschläge für maximale Sicherheit."
+      },
+      {
+        "title": "Stabilus-Gasdruckfedern",
+        "desc": "Premium-Gasdruckfedern aus deutscher Fertigung für kontrollierte und sichere Bedienung."
+      },
+      {
+        "title": "TypeFlex-System",
+        "desc": "Ein Beschlagsystem für vertikale und horizontale Einbausituationen – flexibel und effizient für Ihre Fertigung."
+      },
+      {
+        "title": "18 Größen + Sondermaße",
+        "desc": "Breites Größenspektrum für unterschiedlichste Möbelprojekte und individuelle Anforderungen."
+      }
+    ],
+    "tag": "Das Potenzial"
+  },
+  "ranges": {
+    "tag": "Produktlinien",
+    "title": "Eine Lösung für jede Anforderung",
+    "sub": "Drei Serien, ein Beschlagsystem. Alle Serien nutzen die gleiche Stabilus-angetriebene, TypeFlex-kompatible Plattform mit lebenslanger Garantie.",
+    "classic": {
+      "name": "Classic Serie",
+      "tagline": "Nur das Beschlagsystem",
+      "desc": "Stahlkonstruktion, hergestellt in Europa. Bereit zur Integration in maßgefertigte Schränke oder zur eigenständigen Installation – an Wand oder Boden befestigt, keine umgebenden Möbel erforderlich.",
+      "trade": "<strong>Chancen für Handelspartner:</strong> Angemessene Einzelhandelsmarge bei ~30% Handelsrabatt nur auf den Beschlag – aber die wahre Chance ist das Upgrade. Besorgen Sie eine Frontplatte lokal, verwandeln Sie sie in ein Studio-Äquivalent und steigern Sie Ihren Aufschlag deutlich."
+    },
+    "studio": {
+      "name": "Studio Serie",
+      "tagline": "Beschlag + Frontplatte",
+      "desc": "Die komplette Bettplattform, sofort einsatzbereit. Klares, modernes Design. Schließt bündig mit der Wand ab, wenn hochgeklappt. Perfekt für minimalistische Räume oder als Ausstellungsstück in Showrooms.",
+      "trade": "<strong>Chancen für Handelspartner:</strong> Höherer Bestellwert pro Einheit und hervorragendes eigenständiges Einzelhandelsprodukt für Ausstellungsräume."
+    },
+    "integrated": {
+      "name": "Integrated Serie",
+      "tagline": "Beschlag + Kompletter Schrank",
+      "desc": "Die komplette Möbellösung. Hochwertigste Plattenmaterialien, präzise in Europa gefertigt. Erhältlich in verschiedenen Oberflächen. Wird flach verpackt mit allen Beschlägen geliefert.",
+      "trade": "<strong>Chancen für Handelspartner:</strong> Der schnellste Weg zu einem fertigen Produkt. Vorkonstruierte Lösung, die Montage, aber keine Tischlerarbeiten erfordert."
+    }
+  },
+  "who": {
+    "title": "Entwickelt für Ihr Geschäft",
+    "tabs": [
+      "Tischler & Schreiner",
+      "Möbelhändler",
+      "Designer & Architekten"
+    ],
+    "joiners": {
+      "p1": "Ein margenstarkes Produkt mit hoher Nachfrage und langfristigem Potenzial für Ihren Betrieb.",
+      "p2": "Keine Mindestbestellmenge und schnelle Lieferung aus unseren europäischen Logistikzentren.",
+      "subtitle": "Margenstarke Aufträge aus Ihrer bestehenden Werkstatt, mit den Werkzeugen, die Sie bereits haben",
+      "items": [
+        "Wenn Sie Einbauschränke oder Küchen bauen, haben Sie bereits die Fähigkeiten für ein Schrankbett – keine Umschulung erforderlich",
+        "Wir liefern Beschläge, Schrankdesigns und technische Zeichnungen – Sie konzentrieren sich auf den Bau und die Installation",
+        "Typischer Auftragswert: 1.500 € – 4.000 €+ je nach Ausführung und Komplexität der Schränke",
+        "Wir leiten Kundenanfragen in Ihrer Region direkt an Sie weiter – eine wachsende Quelle qualifizierter Leads",
+        "Bieten Sie Ihren Kunden etwas, das die meisten lokalen Tischler nicht können – und verlangen Sie dafür einen Aufpreis"
+      ]
+    },
+    "retailers": {
+      "p1": "Die Studio-Line ist sofort einsatzbereit für Ausstellung und Kundenpräsentation.",
+      "p2": "Das TypeFlex-System reduziert Lagerbedarf und erhöht Ihre Flexibilität.",
+      "subtitle": "Ein margenstarkes Produkt mit hoher Nachfrage, das sich bei der Vorführung von selbst verkauft",
+      "items": [
+        "Die Studio-Serie ist sofort für Ihren Showroom einsatzbereit – Kunden probieren es aus und verkaufen es sich selbst",
+        "TypeFlex bedeutet weniger Lagerbestand – dasselbe Modul deckt vertikale und horizontale Ausrichtungen ab",
+        "Keine Mindestbestellmenge und schnelle Lieferung aus unseren Vertriebszentren in Deutschland, Großbritannien und Spanien (demnächst)",
+        "Professionelle Fotografie und Marketingmaterialien für Ihre Website und Ladenpräsentationen",
+        "Begrenzte Partner pro Region – wir schützen Ihr Gebiet vor Übersättigung"
+      ]
+    },
+    "designers": {
+      "p1": "Marketingmaterialien und technische Unterlagen für Ihre Kundenberatung.",
+      "p2": "Begrenzte Partnerzahl pro Region für eine nachhaltige Zusammenarbeit.",
+      "subtitle": "Planen Sie Schrankbetten mit Zuversicht in jedem platzsparenden Projekt",
+      "items": [
+        "Lösen Sie die Platzprobleme Ihrer Kunden mit einer Lösung, die auf Langlebigkeit ausgelegt ist und durch eine lebenslange Garantie abgesichert wird",
+        "Wir stellen CAD-Dateien, technische Spezifikationen und Möbeldesigns für Ihre Projekte bereit",
+        "Verbinden Sie Ihren bevorzugten Tischler mit unserem Handelsteam oder empfehlen Sie unsere anerkannten lokalen Installateure",
+        "18 Standardgrößen, Sondermaße verfügbar und TypeFlex-Ausrichtungsflexibilität für komplexe Grundrisse",
+        "Maßgeschneiderte Konfigurationen für hochwertige Wohn- und Gewerbeprojekte – wir erarbeiten mit Ihnen die Details"
+      ]
+    },
+    "btn": "Als Handelspartner bewerben",
+    "tag": "Für wen wir arbeiten",
+    "cta1": "Als Montagepartner bewerben",
+    "cta2": "Als Handelspartner bewerben",
+    "cta3": "Als Designpartner bewerben"
+  },
+  "logistics": {
+    "tag": "Lager & Lieferung",
+    "title": "Schnell, flexibel, keine Mindestbestellmengen",
+    "items": [
+      {
+        "title": "Beginnen Sie mit 1 Einheit",
+        "desc": "Starten Sie mit einem einzigen Beschlagsystem. Viele unserer aktivsten Partner begannen mit genau einer Einheit. Kein Druck, sich im Voraus auf große Mengen festzulegen."
+      },
+      {
+        "title": "Schnelle europaweite Lieferung",
+        "desc": "Verfügbar zur Abholung oder Lieferung ab Passau (Deutschland), London (Großbritannien) und Alicante (Spanien, in Kürze). Lieferung in den meisten Fällen innerhalb weniger Tage."
+      },
+      {
+        "title": "Gut verpackt & geschützt",
+        "desc": "Mehrlagige Kartonverpackung. Geringes Beschädigungsrisiko beim Transport. Ersatzteile verfügbar und die meisten Probleme sind von der Garantie abgedeckt."
+      }
+    ]
+  },
+  "how": {
+    "title": "In vier Schritten zum ersten Schrankbett-Projekt",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Bewerbung senden",
+        "desc": "Füllen Sie das Formular aus. Wir prüfen jede Anfrage kurzfristig."
+      },
+      {
+        "num": "02",
+        "title": "Freigabe erhalten",
+        "desc": "Wir kontaktieren Sie und besprechen Preise, Region und Details."
+      },
+      {
+        "num": "03",
+        "title": "Erstes Beschlagsystem bestellen",
+        "desc": "Starten Sie ohne Risiko mit Ihrer ersten Bestellung."
+      },
+      {
+        "num": "04",
+        "title": "Möbel fertigen und Umsatz erzielen",
+        "desc": "Nutzen Sie unsere Beschläge, Zeichnungen und Unterstützung für Ihre Projekte."
+      }
+    ],
+    "tag": "So funktioniert’s"
+  },
+  "guarantee": {
+    "title": "60-Tage-Geld-zurück-Garantie für Handelspartner",
+    "sub": "Testen Sie unsere Beschlagtechnik ohne Risiko.",
+    "p1": "Bestellen Sie Ihr erstes Beschlagsystem und testen Sie es in Ihrer Fertigung. Wenn Sie nicht zufrieden sind, können Sie es innerhalb von 60 Tagen zurückgeben und erhalten eine vollständige Rückerstattung.",
+    "p2": "Diese Garantie gilt für Handelspartner und Fachbetriebe."
+  },
+  "market": {
+    "title": "Wer kauft Schrankbetten?",
+    "sub": "Ihre Zielkunden sind bereits vorhanden – und benötigen qualifizierte Fachbetriebe für Planung und Fertigung.",
+    "cards": [
+      {
+        "title": "Privatkunden",
+        "desc": "Für Gästezimmer, kleine Wohnungen und multifunktionale Räume."
+      },
+      {
+        "title": "Ferienwohnungen und Immobilien",
+        "desc": "Effiziente Raumnutzung für Mietobjekte und Apartments."
+      },
+      {
+        "title": "Designer und Architekten",
+        "desc": "Planen regelmäßig Schrankbetten in Wohn- und Gewerbeprojekten."
+      },
+      {
+        "title": "Umbauten und Renovierungen",
+        "desc": "Ideal für Dachausbau, Keller und kompakte Wohnräume."
+      },
+      {
+        "title": "Mobile Anwendungen",
+        "desc": "Wohnmobile, Boote und flexible Wohnkonzepte."
+      },
+      {
+        "title": "Tiny Houses",
+        "desc": "Ein wachsender Markt mit hoher Nachfrage nach platzsparenden Lösungen."
+      }
+    ],
+    "tag": "Der Markt"
+  },
+  "coming": {
+    "title": "Demnächst verfügbar: Modulares Sofa-System",
+    "desc": "Ein modulares System, das optimal mit unseren Schrankbett-Beschlägen kombiniert werden kann und zusätzliche Möglichkeiten für Ihre Projekte bietet."
+  },
+  "apply": {
+    "title": "Handelspartner werden",
+    "sub": "Bewerbung in wenigen Minuten. Rückmeldung kurzfristig. 60-Tage-Geld-zurück-Garantie.",
+    "labels": {
+      "name": "Ihr Name *",
+      "company": "Firmenname *",
+      "email": "E-Mail-Adresse *",
+      "phone": "Telefonnummer",
+      "type": "Ich bin: *",
+      "country": "Land & Region *",
+      "message": "Nachricht (optional)"
+    },
+    "placeholders": {
+      "name": "Ihr Name",
+      "company": "Firmenname",
+      "email": "email@firma.de",
+      "phone": "+49 123 456 7890",
+      "country": "z.B. Bayern, Deutschland",
+      "message": "z.B. Wir bieten bereits Möbel an und möchten unsere Auswahl um Schrankbetten erweitern."
+    },
+    "types": [
+      "Tischler / Schreiner",
+      "Zimmerer",
+      "Möbelhändler",
+      "Innenarchitekt / Planer",
+      "Architekt",
+      "Sonstiges"
+    ],
+    "btn": "Bewerbung absenden",
+    "btnSubmitting": "Sende...",
+    "note": "Wir prüfen Ihre Anfrage sofort. Kein Spam, keine Verpflichtung.",
+    "errorFill": "Bitte füllen Sie alle erforderlichen Felder aus.",
+    "errorGen": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
+    "successTitle": "Bewerbung erhalten",
+    "successDesc": "Vielen Dank! Wir haben Ihre Bewerbung erhalten und werden diese innerhalb von 24 Stunden prüfen. Unser Team wird sich mit Ihnen in Verbindung setzen, um Preise, Regionen und nächste Schritte zu besprechen."
+  },
+  "contact": {
+    "title": "Fragen vor der Bewerbung?",
+    "desc": "Kontaktieren Sie unser Partner-Team per E-Mail oder Telefon. Wir beraten Sie gerne."
+  },
+  "footer": {
+    "copyright": "© 2025 Wall Bed King. Europäischer Hersteller von Schrankbett-Beschlagsystemen seit 1994",
+    "desc": "",
+    "privacy": "Datenschutzerklärung",
+    "terms": "AGB",
+    "contact": "Kontakt",
+    "impressum": "Impressum"
+  },
+  "usps": {
+    "tag": "Warum Wall Bed King",
+    "title": "Ein besseres Produkt. Zum gleichen Preis.",
+    "desc": "Unsere Beschläge sind preislich wettbewerbsfähig – bieten jedoch Funktionen, Verarbeitungsqualität und eine Garantie, die kein Wettbewerber erreicht. Sie verkaufen über den Wert, nicht über den Preis.",
+    "features": [
+      {
+        "title": "Lebenslange Garantie",
+        "desc": "Kein anderer Schrankbetthersteller bietet das. Für Ihre Kunden beseitigt es alle Zweifel. Für Sie ist es das stärkste Verkaufsargument."
+      },
+      {
+        "title": "Stabilus Gasdruckfedern",
+        "desc": "Die gleichen Premium-Gasdruckfedern aus Deutschland, die auch im Automobilbau verwendet werden. Reibungslose, kontrollierte Einhandbedienung. Doppelkolbensicherheit – das Bett fällt nie unerwartet herunter."
+      },
+      {
+        "title": "TypeFlex (Patent ausstehend)",
+        "desc": "Dasselbe Beschlagsystem kann vertikal oder horizontal installiert werden. Exklusiv bei Wall Bed King. Weniger Lagerbestand, flexiblere Einbauoptionen. Kein Wettbewerber bietet dies."
+      },
+      {
+        "title": "18 Größen + Sondermaße",
+        "desc": "Das größte Größenspektrum auf dem Markt. Plus Sondermaße ab Werk oder Anpassung vor Ort mit einfachem Werkzeug. Kein anderer Hersteller bietet diese Flexibilität."
+      }
+    ]
+  },
+  "cookie_banner": {
+    "message": "Wir verwenden Cookies, um den Web-Traffic zu analysieren und Ihr Erlebnis zu verbessern. Wenn Sie auf 'Zustimmen' klicken, stimmen Sie unserer Verwendung von Cookies zu.",
+    "accept": "Zustimmen",
+    "decline": "Ablehnen"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "updated": "Zuletzt aktualisiert am 11. September 2023.",
+      "overview": "Übersicht zur Datenschutzerklärung",
+      "p1": "Diese Website wird betrieben von IZN Limited (einem in England und Wales eingetragenen Unternehmen unter der Firmennummer 08141005), dessen eingetragener Firmensitz sich in Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT befindet.",
+      "p2": "Alle Verweise auf „Wall Bed King“, „unser“, „uns“ oder „wir“ in dieser Richtlinie beziehen sich, soweit zutreffend, entweder auf IZN Limited oder auf unsere Konzerngesellschaften und Lieferanten, die Dienstleistungen für uns oder Sie erbringen.",
+      "p3": "Diese Datenschutzerklärung gilt für die von uns betriebenen Websites, auf denen sie angezeigt wird.",
+      "p4": "Diese Datenschutzerklärung legt fest, wie Wall Bed King alle Informationen verwendet und schützt, die Sie bei der Nutzung dieser Website angeben. Wall Bed King verpflichtet sich sicherzustellen, dass Ihre Privatsphäre geschützt bleibt. Sollten wir Sie bitten, bestimmte Informationen bereitzustellen, durch die Sie bei der Nutzung dieser Website identifiziert werden können, können Sie sicher sein, dass diese nur in Übereinstimmung mit dieser Datenschutzerklärung verwendet werden. Wall Bed King kann diese Richtlinie von Zeit zu Zeit durch Aktualisierung dieser Seite ändern. Sie sollten diese Seite von Zeit zu Zeit überprüfen, um sicherzustellen, dass Sie mit etwaigen Änderungen einverstanden sind.",
+      "controlling": "Kontrolle über Ihre persönlichen Daten",
+      "c1": "Sie können die Erfassung oder Verwendung Ihrer persönlichen Daten auf folgende Weise einschränken:",
+      "c2": "Wenn Sie gebeten werden, ein Formular auf der Website auszufüllen, suchen Sie nach dem Kästchen, das Sie anklicken können, um anzugeben, dass die Informationen von niemandem für Direktmarketingzwecke verwendet werden sollen.",
+      "c3": "Wenn Sie zuvor zugestimmt haben, dass wir Ihre persönlichen Daten für Direktmarketingzwecke verwenden dürfen, können Sie Ihre Meinung jederzeit ändern, indem Sie uns schreiben oder uns eine E-Mail an contact@wallbedking.co.uk senden.",
+      "c4": "Wir werden Ihre persönlichen Daten nicht an Dritte verkaufen, vertreiben oder vermieten, es sei denn, wir haben Ihre Erlaubnis oder sind gesetzlich dazu verpflichtet. Wir können Ihre persönlichen Daten verwenden, um Ihnen Werbeinformationen über Dritte zuzusenden, von denen wir glauben, dass sie für Sie interessant sein könnten, wenn Sie uns mitteilen, dass Sie dies wünschen.",
+      "c5": "Sie können gemäß dem Data Protection Act 1998 Einzelheiten zu den persönlichen Daten anfordern, die wir über Sie gespeichert haben. Hierfür wird eine geringe Gebühr fällig. Wenn Sie eine Kopie der über Sie gespeicherten Informationen wünschen, schreiben Sie bitte an contact@wallbedking.co.uk.",
+      "c6": "Wenn Sie der Meinung sind, dass Informationen, die wir über Sie gespeichert haben, falsch oder unvollständig sind, schreiben oder mailen Sie uns bitte so schnell wie möglich an die oben genannte Adresse. Wir werden alle Informationen, die sich als falsch erweisen, umgehend korrigieren.",
+      "what": "Was wir mit den gesammelten Informationen tun",
+      "w1": "Wir benötigen diese Informationen, um Ihre Bedürfnisse zu verstehen und Ihnen einen besseren Service zu bieten, insbesondere aus folgenden Gründen:",
+      "w2": "Interne Aufbewahrung von Aufzeichnungen.",
+      "w3": "Wir können die Informationen verwenden, um unsere Produkte und Dienstleistungen zu verbessern.",
+      "w4": "Wir können von Zeit zu Zeit Werbe-E-Mails über neue Produkte, Sonderangebote oder andere Informationen senden, von denen wir glauben, dass sie für Sie interessant sein könnten, unter Verwendung der E-Mail-Adresse, die Sie angegeben haben.",
+      "w5": "Von Zeit zu Zeit können wir Ihre Informationen auch verwenden, um Sie zu Marktforschungszwecken zu kontaktieren. Wir können Sie per E-Mail, Telefon, Fax oder Post kontaktieren. Wir können die Informationen verwenden, um die Website nach Ihren Interessen anzupassen.",
+      "security": "Sicherheit",
+      "s1": "Web-Sicherheit: Wir setzen uns dafür ein, sicherzustellen, dass Ihre Informationen sicher sind. Um unbefugten Zugriff oder Offenlegung zu verhindern, haben wir geeignete physische, elektronische und Verwaltungsverfahren eingerichtet, um die Informationen, die wir online sammeln, zu schützen und zu sichern.",
+      "links": "Links zu anderen Websites",
+      "l1": "Unsere Website kann Links zu anderen interessanten Websites enthalten. Sobald Sie diese Links verwendet haben, um unsere Seite zu verlassen, sollten Sie jedoch beachten, dass wir keine Kontrolle über diese andere Website haben. Daher können wir nicht für den Schutz und die Privatsphäre von Informationen verantwortlich gemacht werden, die Sie beim Besuch solcher Seiten angeben, und solche Seiten unterliegen nicht dieser Datenschutzerklärung. Sie sollten Vorsicht walten lassen und die Datenschutzerklärung für die fragliche Website prüfen.",
+      "personal": "Persönliche Informationen",
+      "p_collect": "Was wir sammeln",
+      "p_collect_1": "Wir können folgende Informationen sammeln:",
+      "p_collect_2": "Name und Berufsbezeichnung",
+      "p_collect_3": "Kontaktinformationen einschließlich E-Mail-Adresse",
+      "p_collect_4": "demografische Informationen wie Postleitzahl, Vorlieben und Interessen",
+      "p_collect_5": "weitere Informationen, die für Kundenumfragen und/oder Angebote relevant sind",
+      "cookies": "Cookies",
+      "cookies_h": "Wie wir Cookies verwenden",
+      "cookies_1": "Ein Cookie ist eine kleine Datei, die um Erlaubnis bittet, auf der Festplatte Ihres Computers abgelegt zu werden. Sobald Sie zustimmen, wird die Datei hinzugefügt und das Cookie hilft, den Web-Traffic zu analysieren oder informiert Sie, wenn Sie eine bestimmte Website besuchen. Cookies ermöglichen es Webanwendungen, auf Sie als Individuum zu reagieren. Die Webanwendung kann ihren Betrieb auf Ihre Bedürfnisse, Vorlieben und Abneigungen abstimmen, indem sie Informationen über Ihre Präferenzen sammelt und speichert."
+    },
+    "impressum": {
+      "title": "Impressum",
+      "company_name": "IZN Limited",
+      "registered_office": "Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT, Vereinigtes Königreich",
+      "company_number": "Firmennummer: 08141005 (Registriert in England und Wales)",
+      "contact": "Kontakt",
+      "email": "E-Mail: contact@wallbedking.co.uk",
+      "phone": "Telefon: +44 123 456 7890",
+      "represented_by": "Vertreten durch",
+      "director": "Geschäftsführer: Imre Zsolt Nagy",
+      "vat": "Umsatzsteuer-Identifikationsnummer",
+      "vat_id": "GB138486383"
+    }
+  },
+  "coming_soon": {
+    "tag": "Erscheint Q3 2025",
+    "title": "Modulares Sofasystem",
+    "desc": "Ein komplettes, freistehendes modulares Sofasystem, das speziell für unsere Schrankbetten entwickelt wurde. Bald für ausgewählte Handelspartner verfügbar."
+  }
+}

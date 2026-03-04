@@ -1,0 +1,414 @@
+{
+  "nav": {
+    "brand": "Wall Bed King",
+    "portal": "TRADE PARTNERS",
+    "why": "Why Wall Beds",
+    "profit": "Your Profit",
+    "products": "Products",
+    "how": "How It Works",
+    "apply": "Apply for Trade Account",
+    "sub": "Trade Partners"
+  },
+  "stats": {
+    "years": {
+      "num": "30+",
+      "label": "Years Manufacturing"
+    },
+    "sold": {
+      "num": "40,000+",
+      "label": "Mechanisms Sold"
+    },
+    "sizes": {
+      "num": "18",
+      "label": "Standard Sizes + Custom"
+    },
+    "countries": {
+      "num": "15",
+      "label": "Countries Served"
+    }
+  },
+  "hero": {
+    "badge": "Now recruiting trade partners across Europe",
+    "h1": "We supply the mechanism,<br />the design, and the customers.<br /><span>You keep the margin.</span>",
+    "sub": "Wall Bed King is Europe's specialist wall bed mechanism manufacturer. We partner with joiners, cabinet makers, furniture retailers, and interior designers — supplying the hardware, the cabinet designs, and even the customer referrals. You build, install, and profit.",
+    "proof": "Over <strong>40,000 mechanisms sold</strong> across <strong>15 countries</strong>. Manufacturing since <strong>1994</strong>. <strong>Lifetime warranty</strong> on every mechanism.",
+    "btnApply": "Apply for a Trade Account",
+    "btnProfit": "See Your Profit Potential"
+  },
+  "opportunity": {
+    "title": "If you already sell fitted furniture, you already have the setup to sell Wall Beds.",
+    "p1": "Wall beds are one of the most profitable additions a joiner or furniture retailer can make to their range. Customers aren't just buying a bed; they are buying back valuable floor space in their homes — an extra bedroom, a functional home office, or a way to make a small apartment livable.",
+    "p2": "If you build fitted furniture, you already have exactly what is needed: the same tools, the same skills, and the same materials. By adding our wall bed mechanisms to your offering, you open up a high-margin revenue stream with minimal setup.",
+    "p3": "Many of our trade partners report achieving profit margins 30-60% higher on wall bed installations compared to standard cabinetry projects."
+  },
+  "profit": {
+    "tag": "Your profit",
+    "title": "A typical wall bed project",
+    "sub": "Real numbers. No guesswork.",
+    "calcs": [
+      {
+        "label": "Mechanism cost",
+        "value": "from €448",
+        "desc": "Ex-works, net price<br />Direct from our factory"
+      },
+      {
+        "label": "Your materials & labour",
+        "value": "~€200–400",
+        "desc": "Cabinet material + installation<br />Half day to one day"
+      },
+      {
+        "label": "Client pays",
+        "value": "up to €2,200",
+        "desc": "Market standard for a<br />custom wall bed"
+      }
+    ],
+    "gross_label": "Your gross profit per project",
+    "gross_value": "over €1,700",
+    "gross_sub": "With just 2 projects per month, that's over €40,000 in additional revenue per year — from a product you probably don't offer yet.",
+    "note": "Plus: <strong>every customer who orders a wall bed is a customer that would otherwise go to a competitor.</strong><br />Want to see calculations for a specific project?",
+    "note_cta": "Get in touch"
+  },
+  "benefits": {
+    "tag": "What we bring to the partnership",
+    "title": "We supply more than just the mechanism",
+    "sub": "Most of our customers are looking for custom-made cabinetry. We supply the mechanism, the cabinet designs, and the customer enquiries. You supply the craftsmanship.",
+    "items": [
+      {
+        "title": "Factory Direct — No Middlemen",
+        "desc": "We own the factory. You buy direct at ex-works pricing. No importers, no distributors, no markups between us and you. Your margin is protected from the start."
+      },
+      {
+        "title": "Cabinet Designs Included",
+        "desc": "We supply furniture designs and technical drawings for every mechanism size — use them as-is or as a starting point for bespoke projects. Your clients get a professional result, faster."
+      },
+      {
+        "title": "We Send You Customers",
+        "desc": "We receive regular enquiries from homeowners, architects, and designers looking for local installation. We don't supply cabinetry — we refer these customers directly to our trade partners in their area."
+      },
+      {
+        "title": "Exclusive Territory",
+        "desc": "We only accept a limited number of trade partners per region. Depending on your location, there may be an opportunity for exclusivity — protecting your business from local competition."
+      },
+      {
+        "title": "Marketing & Sales Support",
+        "desc": "Professional product photography, technical specifications, and marketing materials for your showroom, website, and sales process. We also list you as an approved partner on our website."
+      },
+      {
+        "title": "Technical Support",
+        "desc": "Dedicated trade support line, detailed installation guides, and video walkthroughs. We'll talk you through your first build if you need it. You're never on your own."
+      }
+    ]
+  },
+  "why": {
+    "title": "Why Choose Wall Bed King Hardware?",
+    "sub": "We build mechanisms designed to outlast the furniture they are installed in. When your reputation is on the line, you need hardware you can trust.",
+    "features": [
+      {
+        "title": "Lifetime Warranty",
+        "desc": "The only manufacturer offering a true lifetime warranty on the mechanism. Fit with total confidence."
+      },
+      {
+        "title": "Stabilus Gas Struts",
+        "desc": "Powered by premium German-engineered Stabilus gas pistons for smooth, safe, fingertip operation."
+      },
+      {
+        "title": "TypeFlex System",
+        "desc": "The same mechanism can be installed vertically OR horizontally. Less stock to hold, more build options."
+      },
+      {
+        "title": "Ultimate SizeFlex",
+        "desc": "Available in 18 sizes. A single mechanism works for single, double, king, and super king mattresses (up to 30cm thick)."
+      }
+    ],
+    "tag": "The opportunity"
+  },
+  "ranges": {
+    "tag": "Product ranges",
+    "title": "A solution for every situation",
+    "sub": "Three ranges, one mechanism system. Every range uses the same Stabilus-powered, TypeFlex-compatible platform with lifetime warranty.",
+    "classic": {
+      "name": "Classic Range",
+      "tagline": "The mechanism only",
+      "desc": "Steel construction, European manufactured. Ready to integrate into bespoke cabinetry or install independently — fixed to wall or floor, no surrounding furniture required.",
+      "trade": "<strong>Trade opportunity:</strong> Modest retail margin at ~30% trade discount on the mechanism alone — but the real opportunity is the upgrade. Source a front panel locally, convert it into a Studio-equivalent finish, and significantly increase your markup with minimal effort."
+    },
+    "studio": {
+      "name": "Studio Range",
+      "tagline": "Mechanism + Front Panel",
+      "desc": "The complete bed platform, ready to use. Clean, modern aesthetic. Sits flush against the wall when closed. Perfect for minimalist spaces or as a display unit in showrooms.",
+      "trade": "<strong>Trade opportunity:</strong> Higher initial order value and excellent standalone retail product for showrooms."
+    },
+    "integrated": {
+      "name": "Integrated Range",
+      "tagline": "Mechanism + Full Cabinetry",
+      "desc": "The complete furniture solution. Highest quality board material, precision manufactured in Europe. Available in multiple finishes. Arrives flat-packed with all hardware.",
+      "trade": "<strong>Trade opportunity:</strong> The fastest way to deliver a finished product. Pre-engineered solution that requires assembly but no joinery work."
+    }
+  },
+  "who": {
+    "title": "Built for your business",
+    "tabs": [
+      "Joiners & Cabinet Makers",
+      "Furniture Retailers",
+      "Designers & Architects"
+    ],
+    "joiners": {
+      "p1": "Add a highly profitable, low-competition product to your bespoke offerings. Our detailed cabinetry plans mean your first build will be as fast as your fiftieth.",
+      "p2": "We regularly pass leads to our trusted local joiners. When a customer wants a bespoke wall bed in your area, you get the job.",
+      "subtitle": "High-margin work from your existing workshop, with the same tools you already have",
+      "items": [
+        "If you build fitted wardrobes or kitchens, you already have the skills to build a wall bed — no retraining needed",
+        "We supply mechanism, cabinet designs, and technical drawings — you focus on the build and installation",
+        "Typical job value: €1,500–€4,000+ depending on finish and cabinetry complexity",
+        "We refer customer enquiries in your area directly to you — a growing source of qualified leads",
+        "Offer your clients something most local joiners can't — and charge a premium for it"
+      ]
+    },
+    "retailers": {
+      "p1": "Put a Studio Line bed in your showroom and watch it sell itself. Wall beds are a high-ticket item that draw footfall and solve real problems for your customers.",
+      "p2": "Because our TypeFlex mechanism handles both vertical and horizontal orientations across all sizes, you don't need to hold vast amounts of varied stock.",
+      "subtitle": "A high-demand, high-margin product that sells itself on demonstration",
+      "items": [
+        "The Studio Range is ready to display in your showroom straight out of the box — customers try it and sell themselves",
+        "TypeFlex means less stock to hold — the same unit covers vertical and horizontal configurations",
+        "No minimum order quantities and fast delivery from our distribution centres in Germany, UK, and Spain (coming soon)",
+        "Professional photography and marketing materials provided for your website and in-store displays",
+        "Limited partners per region — we protect your territory from oversaturation"
+      ]
+    },
+    "designers": {
+      "p1": "Specify reliable, heavy-duty hardware that your contractors will love working with. Perfect for micro-apartments, hotel refits, and multi-purpose rooms.",
+      "p2": "Access our CAD files, detailed schematics, and load-bearing data to make specifying Wall Bed King risk-free and straightforward.",
+      "subtitle": "Specify wall beds with confidence on every space-saving project",
+      "items": [
+        "Solve your clients' space problems with a solution that's engineered to last and backed by a lifetime warranty",
+        "We provide CAD files, technical specifications, and furniture designs for your projects",
+        "Connect your preferred joiner with our trade team, or recommend our approved local installers",
+        "18 standard sizes, custom sizing available, and TypeFlex orientation flexibility for complex layouts",
+        "Bespoke configurations for high-end residential and commercial projects — we work with you on the details"
+      ]
+    },
+    "btn": "Apply for Trade Partner Status",
+    "tag": "Who we work with",
+    "cta1": "Apply as an Installer Partner",
+    "cta2": "Apply as a Retail Partner",
+    "cta3": "Apply as a Design Partner"
+  },
+  "logistics": {
+    "tag": "Stock & delivery",
+    "title": "Fast, flexible, no minimum orders",
+    "items": [
+      {
+        "title": "Start with 1 Unit",
+        "desc": "Start with a single mechanism. Many of our busiest partners started with exactly one unit. No pressure to commit to volume upfront."
+      },
+      {
+        "title": "Fast European Delivery",
+        "desc": "Available for collection or delivery from Passau (Germany), London (UK), and Alicante (Spain, coming soon). Delivery within days in most cases."
+      },
+      {
+        "title": "Well Packaged & Protected",
+        "desc": "Multiple layers of cardboard packaging. Low damage risk in transit. Spare parts available, and most issues covered under warranty."
+      }
+    ]
+  },
+  "how": {
+    "title": "How to Get Started",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Apply",
+        "desc": "Fill in the form below — takes 2 minutes. We review every application within 24 hours."
+      },
+      {
+        "num": "02",
+        "title": "Get Approved",
+        "desc": "We'll contact you to discuss pricing, territory, and answer your questions. Most accounts approved same day."
+      },
+      {
+        "num": "03",
+        "title": "Order Your First Mechanism",
+        "desc": "No minimum quantity. Try it risk-free with our 60-day money-back guarantee — yes, it applies to trade customers too."
+      },
+      {
+        "num": "04",
+        "title": "Build, Install, Profit",
+        "desc": "Use our designs, install guides, and technical support. Then watch the customer referrals start coming in."
+      }
+    ],
+    "tag": "Getting started"
+  },
+  "guarantee": {
+    "title": "The 60-Day Trial Guarantee",
+    "sub": "We know that putting a new product into your manufacturing line is a big decision.",
+    "p1": "That is why we offer new trade partners a risk-free trial. Order your first Classic Line mechanism. Unbox it. Look at the steel gauge. Test the Stabilus gas struts.",
+    "p2": "If you don't agree that it is the best, simplest, most heavy-duty wall bed hardware you have ever seen, pack it back up within 60 days. We will arrange the return collection and refund you in full."
+  },
+  "market": {
+    "title": "Who's buying wall beds?",
+    "sub": "Your potential customers are already out there — and most of them can't find a qualified local installer. That's where you come in.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "desc": "Turning spare rooms into dual-purpose home offices and guest bedrooms."
+      },
+      {
+        "title": "Airbnbs & Rentals",
+        "desc": "Increasing the sleeping capacity (and yield) of rental properties."
+      },
+      {
+        "title": "Interior Designers",
+        "desc": "Specifying space-saving solutions for modern, compact city apartments."
+      },
+      {
+        "title": "Loft & Garage Conversions",
+        "desc": "Maximising the utility of newly created spaces."
+      },
+      {
+        "title": "Campervans & Boats",
+        "desc": "Bespoke builders using our mechanisms for mobile living."
+      },
+      {
+        "title": "Tiny Home Builders",
+        "desc": "Integrating full-size beds into micro-living architectural projects."
+      }
+    ],
+    "tag": "The market"
+  },
+  "coming": {
+    "title": "Coming Soon: The Modular Sofa",
+    "desc": "A purpose-built modular sofa system designed to integrate perfectly with the front of our wall beds. One mechanism. Infinite configurations. More upsell opportunities for you."
+  },
+  "apply": {
+    "title": "Apply for a Trade Account",
+    "sub": "Takes 2 minutes. We review every application within 24 hours. 60-day money-back guarantee on your first order.",
+    "labels": {
+      "name": "Your Name *",
+      "company": "Company Name *",
+      "email": "Email Address *",
+      "phone": "Phone Number",
+      "type": "I am a... *",
+      "country": "Country & Region *",
+      "message": "Anything else you'd like us to know?"
+    },
+    "placeholders": {
+      "name": "Your full name",
+      "company": "Your company name",
+      "email": "you@company.com",
+      "phone": "+49 123 456 7890",
+      "country": "e.g. Bavaria, Germany",
+      "message": "e.g. We already sell beds and mattresses and would like to add wall beds to our range..."
+    },
+    "types": [
+      "Joiner / Cabinet Maker",
+      "Carpenter",
+      "Furniture Retailer",
+      "Interior Designer",
+      "Architect",
+      "Other"
+    ],
+    "btn": "Submit Application",
+    "btnSubmitting": "Submitting...",
+    "note": "We'll review your application and get back to you within 24 hours. No spam, no obligation.",
+    "errorFill": "Please fill out all required fields.",
+    "errorGen": "An error occurred. Please try again later.",
+    "successTitle": "Application Received",
+    "successDesc": "Thank you! We've received your application and will review it within 24 hours. One of our trade team will be in touch to discuss pricing, territory, and next steps."
+  },
+  "contact": {
+    "title": "Questions before applying?",
+    "desc": "Contact our Trade Team at trade@wallbedking.com and we'll be happy to help."
+  },
+  "footer": {
+    "copyright": "© 2025 Wall Bed King. All Rights Reserved.",
+    "desc": "Europe's leading manufacturer of high-quality wall bed mechanisms.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us",
+    "impressum": "Impressum"
+  },
+  "usps": {
+    "tag": "Why Wall Bed King",
+    "title": "A better product. The same price point.",
+    "desc": "Our mechanisms are competitively priced against the market — but with a feature set, build quality, and warranty that no competitor currently matches. You sell on value, not price.",
+    "features": [
+      {
+        "title": "Lifetime Warranty",
+        "desc": "No other wall bed manufacturer offers this. For your customers, it removes all hesitation. For you, it's the most powerful closing argument in the room."
+      },
+      {
+        "title": "Stabilus Gas Pistons",
+        "desc": "The same premium German pistons used in automotive engineering. Smooth, controlled, one-hand operation. Dual-piston safety — the bed will never drop unexpectedly."
+      },
+      {
+        "title": "TypeFlex (Patent Pending)",
+        "desc": "Same mechanism installs vertically or horizontally. A Wall Bed King exclusive. Less stock to hold, more configurations to offer. No competitor has this."
+      },
+      {
+        "title": "18 Sizes + Custom",
+        "desc": "The widest size range on the market. Plus custom sizing from the factory, or on-site adjustment with basic tools. No other manufacturer offers this flexibility."
+      }
+    ]
+  },
+  "cookie_banner": {
+    "message": "We use cookies to analyze web traffic and improve your experience. By clicking 'Accept', you consent to our use of cookies.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last updated on 11 September 2023.",
+      "overview": "Overview",
+      "p1": "This website is operated by IZN Limited (a company registered in England and Wales (company number 08141005), whose registered office is at Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT.",
+      "p2": "All references to ‘Wall Bed King', 'our', 'us' or 'we' within this policy are references to either IZN Limited, or any of our group companies and suppliers which provide services to us or you, as appropriate.",
+      "p3": "This privacy policy applies to those of our websites on which it is displayed.",
+      "p4": "This privacy policy sets out how Wall Bed King uses and protects any information that you give when you use this website. Wall Bed King is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Wall Bed King may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.",
+      "controlling": "Controlling your personal information",
+      "c1": "You may choose to restrict the collection or use of your personal information in the following ways:",
+      "c2": "whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes",
+      "c3": "if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@wallbedking.co.uk",
+      "c4": "We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.",
+      "c5": "You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to contact@wallbedking.co.uk",
+      "c6": "If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.",
+      "what": "What we do with the information we gather",
+      "w1": "We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:",
+      "w2": "Internal record keeping.",
+      "w3": "We may use the information to improve our products and services.",
+      "w4": "We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.",
+      "w5": "From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.",
+      "security": "Security",
+      "s1": "We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.",
+      "links": "Links to other websites",
+      "l1": "Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.",
+      "personal": "Personal Information",
+      "p_collect": "What we collect",
+      "p_collect_1": "We may collect the following information:",
+      "p_collect_2": "name and job title",
+      "p_collect_3": "contact information including email address",
+      "p_collect_4": "demographic information such as postcode, preferences and interests",
+      "p_collect_5": "other information relevant to customer surveys and/or offers",
+      "cookies": "Cookies",
+      "cookies_h": "How we use cookies",
+      "cookies_1": "A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences."
+    },
+    "impressum": {
+      "title": "Impressum",
+      "company_name": "IZN Limited",
+      "registered_office": "Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT, UK",
+      "company_number": "Company Number: 08141005 (Registered in England and Wales)",
+      "contact": "Contact",
+      "email": "Email: contact@wallbedking.co.uk",
+      "phone": "Phone: +44 123 456 7890",
+      "represented_by": "Represented by",
+      "director": "Managing Director: Imre Zsolt Nagy",
+      "vat": "VAT ID",
+      "vat_id": "GB138486383"
+    }
+  },
+  "coming_soon": {
+    "tag": "Coming Q3 2025",
+    "title": "Modular Sofa Range",
+    "desc": "A complete, freestanding modular sofa system engineered specifically to integrate with our wall beds. Available to select retail partners."
+  }
+}

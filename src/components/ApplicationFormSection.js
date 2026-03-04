@@ -8,6 +8,11 @@ export default function ApplicationFormSection() {
   const handleSubmit = (e) => {
     e.preventDefault();
     setFormSubmitted(true);
+    
+    // Trigger Facebook Pixel Lead event
+    if (typeof window !== 'undefined' && window.fbq) {
+      window.fbq('track', 'Lead');
+    }
   };
 
   return (

@@ -9,50 +9,11 @@ export default function ApplicationFormSection({ dict }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const fname = e.target.fname?.value;
-    const fcompany = e.target.fcompany?.value;
-    const femail = e.target.femail?.value;
-    const fphone = e.target.fphone?.value;
-    const flocation = e.target.flocation?.value;
-    const fmessage = e.target.fmessage?.value;
-
-    if (!fname || !fcompany || !femail || !selectedType || !flocation) {
-      setError(dict.apply.errorFill);
-      return;
-    }
-
-    setLoading(true);
-    setError("");
-
-    try {
-      const res = await fetch("/api/contact", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: fname,
-          company: fcompany,
-          email: femail,
-          phone: fphone,
-          type: selectedType,
-          location: flocation,
-          message: fmessage,
-        }),
-      });
-
-      const data = await res.json();
-      if (res.ok) {
-        setFormSubmitted(true);
-        // Trigger Facebook Pixel Lead event
-        if (typeof window !== 'undefined' && window.fbq) {
-          window.fbq('track', 'Lead');
-        }
-      } else {
-        setError(data.error || dict.apply.errorGen);
-      }
-    } catch (err) {
-      setError(dict.apply.errorGen);
-    } finally {
-      setLoading(false);
+    setFormSubmitted(true);
+    
+    // Trigger Facebook Pixel Lead event
+    if (typeof window !== 'undefined' && window.fbq) {
+      window.fbq('track', 'Lead');
     }
   };
 

@@ -9,11 +9,50 @@ export default function ApplicationFormSection({ dict }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setFormSubmitted(true);
-    
-    // Trigger Facebook Pixel Lead event
-    if (typeof window !== 'undefined' && window.fbq) {
-      window.fbq('track', 'Lead');
+    const fname = e.target.fname?.value;
+    const fcompany = e.target.fcompany?.value;
+    const femail = e.target.femail?.value;
+    const fphone = e.target.fphone?.value;
+    const flocation = e.target.flocation?.value;
+    const fmessage = e.target.fmessage?.value;
+
+    if (!fname || !fcompany || !femail || !selectedType || !flocation) {
+      setError(dict.apply.errorFill);
+      return;
+    }
+
+    setLoading(true);
+    setError("");
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: fname,
+          company: fcompany,
+          email: femail,
+          phone: fphone,
+          type: selectedType,
+          location: flocation,
+          message: fmessage,
+        }),
+      });
+
+      const data = await res.json();
+      if (res.ok) {
+        setFormSubmitted(true);
+        // Trigger Facebook Pixel Lead event
+        if (typeof window !== 'undefined' && window.fbq) {
+          window.fbq('track', 'Lead');
+        }
+      } else {
+        setError(data.error || dict.apply.errorGen);
+      }
+    } catch (err) {
+      setError(dict.apply.errorGen);
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -28,46 +67,46 @@ export default function ApplicationFormSection({ dict }) {
               guarantee on your first order.</p>
           </div>
           {!formSubmitted ? (
-          <form className="form-box" id="formBox" onSubmit={handleSubmit}>
-            <div className="form-grid">
-              <div><label className="form-label">{dict.apply.labels.name}</label><input className="form-input" id="fname"
-                placeholder={dict.apply.placeholders.name} /></div>
-              <div><label className="form-label">{dict.apply.labels.company}</label><input className="form-input" id="fcompany"
-                placeholder={dict.apply.placeholders.company} /></div>
-              <div><label className="form-label">{dict.apply.labels.email}</label><input className="form-input" id="femail"
-                placeholder={dict.apply.placeholders.email} type="email" /></div>
-              <div><label className="form-label">{dict.apply.labels.phone}</label><input className="form-input" id="fphone"
-                placeholder={dict.apply.placeholders.phone} /></div>
-              <div className="form-full">
-                <label className="form-label">{dict.apply.labels.type}</label>
-                <div className="type-btns" id="typeBtns">
-                  <button type="button" className={`type-btn ${selectedType === dict.apply.types[0] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[0])}>{dict.apply.types[0]}</button>
-                  <button type="button" className={`type-btn ${selectedType === dict.apply.types[1] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[1])}>{dict.apply.types[1]}</button>
-                  <button type="button" className={`type-btn ${selectedType === dict.apply.types[2] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[2])}>{dict.apply.types[2]}</button>
-                  <button type="button" className={`type-btn ${selectedType === dict.apply.types[3] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[3])}>{dict.apply.types[3]}</button>
-                  <button type="button" className={`type-btn ${selectedType === dict.apply.types[4] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[4])}>{dict.apply.types[4]}</button>
-                  <button type="button" className={`type-btn ${selectedType === dict.apply.types[5] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[5])}>{dict.apply.types[5]}</button>
+            <form className="form-box" id="formBox" onSubmit={handleSubmit}>
+              <div className="form-grid">
+                <div><label className="form-label">{dict.apply.labels.name}</label><input className="form-input" id="fname"
+                  placeholder={dict.apply.placeholders.name} /></div>
+                <div><label className="form-label">{dict.apply.labels.company}</label><input className="form-input" id="fcompany"
+                  placeholder={dict.apply.placeholders.company} /></div>
+                <div><label className="form-label">{dict.apply.labels.email}</label><input className="form-input" id="femail"
+                  placeholder={dict.apply.placeholders.email} type="email" /></div>
+                <div><label className="form-label">{dict.apply.labels.phone}</label><input className="form-input" id="fphone"
+                  placeholder={dict.apply.placeholders.phone} /></div>
+                <div className="form-full">
+                  <label className="form-label">{dict.apply.labels.type}</label>
+                  <div className="type-btns" id="typeBtns">
+                    <button type="button" className={`type-btn ${selectedType === dict.apply.types[0] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[0])}>{dict.apply.types[0]}</button>
+                    <button type="button" className={`type-btn ${selectedType === dict.apply.types[1] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[1])}>{dict.apply.types[1]}</button>
+                    <button type="button" className={`type-btn ${selectedType === dict.apply.types[2] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[2])}>{dict.apply.types[2]}</button>
+                    <button type="button" className={`type-btn ${selectedType === dict.apply.types[3] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[3])}>{dict.apply.types[3]}</button>
+                    <button type="button" className={`type-btn ${selectedType === dict.apply.types[4] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[4])}>{dict.apply.types[4]}</button>
+                    <button type="button" className={`type-btn ${selectedType === dict.apply.types[5] ? 'active' : ''}`} onClick={() => setSelectedType(dict.apply.types[5])}>{dict.apply.types[5]}</button>
+                  </div>
+                </div>
+                <div className="form-full"><label className="form-label">{dict.apply.labels.country}</label><input className="form-input"
+                  id="flocation" placeholder={dict.apply.placeholders.country} /></div>
+                <div className="form-full"><label className="form-label">{dict.apply.labels.message}</label><textarea
+                  className="form-input" id="fmessage" rows="3"
+                  placeholder={dict.apply.placeholders.message}></textarea>
                 </div>
               </div>
-              <div className="form-full"><label className="form-label">{dict.apply.labels.country}</label><input className="form-input"
-                id="flocation" placeholder={dict.apply.placeholders.country} /></div>
-              <div className="form-full"><label className="form-label">{dict.apply.labels.message}</label><textarea
-                className="form-input" id="fmessage" rows="3"
-                placeholder={dict.apply.placeholders.message}></textarea>
-              </div>
-            </div>
-            {error && <p className="form-error" style={{ color: '#ff4d4f', marginTop: '15px', fontWeight: '500' }}>{error}</p>}
-            <button type="submit" className="form-submit" disabled={loading}>
-              {loading ? dict.apply.btnSubmitting : dict.apply.btn}
-            </button>
-            <p className="form-note">{dict.apply.note}</p>
-          </form>
+              {error && <p className="form-error" style={{ color: '#ff4d4f', marginTop: '15px', fontWeight: '500' }}>{error}</p>}
+              <button type="submit" className="form-submit" disabled={loading}>
+                {loading ? dict.apply.btnSubmitting : dict.apply.btn}
+              </button>
+              <p className="form-note">{dict.apply.note}</p>
+            </form>
           ) : (
-          <div className="success-box" id="successBox" style={{ display: 'flex' }}>
-            <div className="success-icon">✓</div>
-            <div className="success-title">{dict.apply.successTitle}</div>
-            <p className="success-text">{dict.apply.successDesc}</p>
-          </div>
+            <div className="success-box" id="successBox" style={{ display: 'flex' }}>
+              <div className="success-icon">✓</div>
+              <div className="success-title">{dict.apply.successTitle}</div>
+              <p className="success-text">{dict.apply.successDesc}</p>
+            </div>
           )}
         </div>
       </section>

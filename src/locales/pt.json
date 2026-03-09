@@ -1,0 +1,407 @@
+{
+    "nav": {
+        "brand": "Wall Bed King",
+        "portal": "PARCEIROS COMERCIAIS",
+        "why": "Porquê Camas Ocultas",
+        "profit": "O Seu Lucro",
+        "products": "Produtos",
+        "how": "Como Funciona",
+        "apply": "Solicite uma Conta",
+        "sub": "Parceiros Comerciais"
+    },
+    "stats": {
+        "years": {
+            "num": "30+",
+            "label": "Anos de Fabrico"
+        },
+        "sold": {
+            "num": "40,000+",
+            "label": "Mecanismos Vendidos"
+        },
+        "sizes": {
+            "num": "18",
+            "label": "Tamanhos Padrão + a Medida"
+        },
+        "countries": {
+            "num": "15",
+            "label": "Países Abastecidos"
+        }
+    },
+    "hero": {
+        "badge": "A recrutar parceiros comerciais em toda a Europa",
+        "h1": "Fornecemos o mecanismo,<br />o design e os clientes.<br /><span>Fica com a margem.</span>",
+        "sub": "A Wall Bed King é a marca especialista europeia de mecanismos de camas ocultas. Trabalhamos com marceneiros e lojistas: fornecemos as peças essenciais, os esquemas e os contactos dos clientes. O parceiro instala e lucra.",
+        "proof": "Mais de <strong>40.000 mecanismos vendidos</strong> em <strong>15 países</strong>. Produzidos desde <strong>1994</strong>. <strong>Garantia vitalícia</strong>.",
+        "btnApply": "Pedir Conta Comercial",
+        "btnProfit": "Veja o Seu Potencial"
+    },
+    "opportunity": {
+        "title": "Se já vende móveis à medida, tem a fábrica preparada para vender Camas Ocultas.",
+        "p1": "As camas de embutir são a adição mais lucrativa que um marceneiro pode introduzir na oferta. Os clientes compram o valioso espaço: um quarto para hóspedes extra ou escritório perfeitamente funcional.",
+        "p2": "Se constrói móveis, tem o necessário: as mesmas ferramentas, materiais e habilidades essenciais. Tem à mão altas margens com investimento mínimo.",
+        "p3": "Os parceiros atingem margens de lucro 30 a 60% superiores à montagem de armários tradicionais normais."
+    },
+    "profit": {
+        "tag": "O Seu Lucro Líquido",
+        "title": "Projeto Módulo Bed típico",
+        "sub": "Os Números reais. Sem suposições.",
+        "calcs": [
+            {
+                "label": "Custos do mecanismo",
+                "value": "desde €448",
+                "desc": "Preço líquido Ex-works<br />Direto da nossa fábrica"
+            },
+            {
+                "label": "Mão de obra e os Materiais",
+                "value": "~€200–400",
+                "desc": "Armário em material + inst<br />Gasto entre 4 a 8h totais"
+            },
+            {
+                "label": "O cliente vai pagar",
+                "value": "até €2.200",
+                "desc": "Valor standard no mercado<br />para projeto à medida"
+            }
+        ],
+        "gross_label": "Lucro bruto de projeto",
+        "gross_value": "mais de €1.700",
+        "gross_sub": "Vendendo só 2 projectos por mês fatura por ano mais de 40.000 euros nestes encaixes de alta procuria de rentabilidade máxima.",
+        "note": "Atenção: <strong>Todos comprarão camas no competidor caso não introduza.</strong><br/>Quer os números reais ao cêntimo?",
+        "note_cta": "Consulte a equipa."
+    },
+    "benefits": {
+        "tag": "Mais Valias do Parceiro",
+        "title": "O fornecimento ultrapassa apenas as ferragens",
+        "sub": "Damos o material e passamos os futuros clientes. Põe em prática a sua vocação artística.",
+        "items": [
+            {
+                "title": "Sem Custo de Intermediários",
+                "desc": "Diretos do balcão original para as mãos profissionais a um nível net imbatível sem comissões pelo caminho até si próprio no seu país na margem."
+            },
+            {
+                "title": "Layout e Medição em Modelos CAD",
+                "desc": "Móveis e madeiras perfeitamente guiadas pelos esquemas grátis na plataforma base para arranques. Adapta na tua estrutura a pedido sem erro de milímetros."
+            },
+            {
+                "title": "Encaminhar O Seu Novo Cliente",
+                "desc": "O cliente habitacional prefere local! Como não instalamos, indicamos à mão para ti. Lucram ambas entidades sem taxas. "
+            },
+            {
+                "title": "Geolocalização Reservada",
+                "desc": "Número exclusivo protegido ao redor do teu distrito em protecção de preços da nossa rede europei parcei."
+            },
+            {
+                "title": "Biblioteca de Materiais de Fotografia",
+                "desc": "Marketing garantido, usa na loja, redes, sem pagar royalties pelas tuas visualizaç."
+            },
+            {
+                "title": "Equipas de Assistência a 1 Minuto",
+                "desc": "Seja na montagens, para dúvidas ao balcão e vídeos detalhaf. Nós guiamoss se necessário a si agora."
+            }
+        ]
+    },
+    "why": {
+        "title": "As ferragens da Bed Kings Europe têm prestígio garantido?",
+        "sub": "Sem medo a ruir das placas pesares por decada e meia que for com aberturas bruscas nas madrug.",
+        "features": [
+            {
+                "title": "Para A Vida Em Segurança Total",
+                "desc": "O fator mais impressionantes aos clientes a tranquilisar dumas inseguranças totais das camas fecho nos móvei."
+            },
+            {
+                "title": "Bomba Hidráulicas Alemãs – As Stabilus",
+                "desc": "Engenhairia dos automóveis a amortecer fechamento pesado sem esforçar com dedas as puxadora leves e fortes a seguro dupla."
+            },
+            {
+                "title": "Rotacionavel T-Flex (Em processo do patente.)",
+                "desc": "Virà por vertical? Bem. Vira pro horitzontala à estantes baixas dos teto mansardadas das aguas roubad sem ser preciso compra nova?"
+            },
+            {
+                "title": "Size Flex para tudo ao cêntimetro.",
+                "desc": "Muitas medições entre 18. E custom às medida que pretenda."
+            }
+        ],
+        "tag": "A Oportunidade Pela Mão"
+    },
+    "ranges": {
+        "tag": "Seleção Dos Ofertas Básicas Da Empresa.",
+        "title": "Do clássicas puro de ferragem as mobílias fechada prontas de montar na habitação à entrega no local.",
+        "sub": "Todas têm em comum um factor: a força de mecânica a vida d'alemão.",
+        "classic": {
+            "name": "Peças Classicas",
+            "tagline": "A moldura nua a instalar a parede ou betão",
+            "desc": "Prontinhas a entrar e forradas de madeir de artesões da oficina e serralheiros ou aplicadas puras ao dormitórios básicos militares. Sem madeira.",
+            "trade": "<strong>Lucrando mais:</strong> Adicionando em marcenarias frentes lacades de madeira num acabados perfeits cobras valores elevadas pela as customizações únicas que não temos."
+        },
+        "studio": {
+            "name": "Paineis Estúdios",
+            "tagline": "Modelo Central",
+            "desc": "Fecha rentes ao muro. Cama e a Frente do Armária num único modulo. As montras encantam as vistas d'compradores sem demorar um minut na instalações.",
+            "trade": "<strong>Montras Altas:</strong> Se tem lojas, a melhor venda em stock é pôr ao olhos os nossos produtos fáceis pra bater metas"
+        },
+        "integrated": {
+            "name": "Conjunto Integral Cheio",
+            "tagline": "Mobiliário Prontos e Cortade Da Fabrica Euro",
+            "desc": "Não exigi o artesãos: Tudo cortado e chegas planas à casa da compradora na hora num conjuntos integral em que o serviço ao montadore de casa fatura alto com entregue s.",
+            "trade": "<strong>Entrega no local da casa do dono ao consumidor do finais sem perda do tempo.</strong>"
+        }
+    },
+    "who": {
+        "title": "Ao Dispores Desde De Cima Acima E Construções A Níveis",
+        "tabs": [
+            "No Balcões Oficina A Marcenaria",
+            "Retalhes de Mostruário Localiza E Media Empresas",
+            "Aos Arquitectura de Interiores d'Espaço e 3Ds"
+        ],
+        "joiners": {
+            "p1": "Foca-tas num design alto a render à porta fechada na rua da lojas das oficinas porque a gente das as plantas para não comeres horas e madeiras avulses da conta.",
+            "p2": "Cliente vem? Referenciastes as localizacoes, é enviades, é tu a instalar e não a Wall Bed europeia. Fechas as cobraces e dinheiradas totais teuas.",
+            "subtitle": "Os projectadas faturament",
+            "items": [
+                "Tem CNC, mdfs e prensadors de portas na oficina local? Tens a fábrica à nossa camas também tu ociosa sem uso total das tuas ferramentas sem pararem ao lucro limpe a margem.",
+                "Desenhs da fábrica ofereci nos kits para vocês não stressar."
+            ]
+        },
+        "retailers": {
+            "p1": "Custa a creres que vende sozinho até demonstrare no vossos pisos do andadas ds galeris das tuas.",
+            "p2": "Ganha chãos de metras e sem amontoar 10 peças no inventários nas devoluções porque só 1 e basta ao giraras vertical as modelos! Sim",
+            "subtitle": "As tuas propostas a clientes normais sem mais esfor.",
+            "items": [
+                "Apresentas e Vendes as tuas e o lucro do margin ao retalh",
+                "Uma só unidad pro horizontal/Vert.",
+                "Entregads s/ mins aos lotes."
+            ]
+        },
+        "designers": {
+            "p1": "Tectinhos e cantinhas estreitis na urbanização nova sãos salvadas no Autocard vossos e aprovada o plan aos câmara se mostrar os desegn a engenheiros ao predio construcoes de luxo. Garantido na vida pela metalurgia. Usos pesadas. Espaços limit.",
+            "p2": "As downloads a clique dum segundos a voss no computador e aprovaces. Tranquilaz os contrates aos teu do cantiers de montages do blocos todos das cidades d e urbanizaçao nas frentes litorais e centros capital nos alojamentos locais dos hostel e de estudantes. Rendiment",
+            "subtitle": "Confianças As Tuas Specs Sem Falhar Os Montante.",
+            "items": [
+                "Cad gratis ao sites de login seu a 3D de Auto cad e Revtis format",
+                "Typeflxs salva espaco vertical nos teus projeto teto baixe.",
+                "Liga o teu ebaniste de confiança que nós ensinais os passos e videos de borlas."
+            ]
+        },
+        "btn": "Torna um Partner",
+        "tag": "As Vocacoes Da Area Tua",
+        "cta1": "Cont. de Oficina / Carpentaria a Madeira a Custom",
+        "cta2": "Conta e Vendas na Exposição ao Público as Lojas",
+        "cta3": "Conta as Planos d'Urbanizadora A Desenhador ou Modelador de Archit Ouro"
+    },
+    "logistics": {
+        "tag": "Stocks Rotações no Europa",
+        "title": "Logistica Leves Mas Pressionante Ao Rápides Da Transportadoras.",
+        "items": [
+            {
+                "title": "Inicie 1 Só e Ve",
+                "desc": "Um único. E não exigimes armazns plens das vós às empates de dinheir a banco s."
+            },
+            {
+                "title": "Entreg Rápida do Noss",
+                "desc": "Espanh proximments os UK a Allemanys cobram Europ d'imedihat."
+            },
+            {
+                "title": "Pactos Protegid",
+                "desc": "Grosso os cardboards nas furgons das transitárias. Segured pela nossas e pagaments nossos e garant em faltas da avarias ou rachads se do metal ou piston"
+            }
+        ]
+    },
+    "how": {
+        "title": "Passages Ao Partner.",
+        "steps": [
+            {
+                "num": "01",
+                "title": "Dás no forms à Baix das Infos",
+                "desc": "Espera dia ulti ao mail."
+            },
+            {
+                "num": "02",
+                "title": "Recebes",
+                "desc": "Preçaris direct e discute nos telef as duvidas q queras a exclusividade e tudo nos territóres e a área e margem perante as tua da negócio de momento q es."
+            },
+            {
+                "num": "03",
+                "title": "Encomendes De Ensai",
+                "desc": "Sem minim de lot. Avalias metal a espessuras pesades no metales se acreditas sena devolve-nes com gastes nos de transpost á Alem. e nós devoil"
+            },
+            {
+                "num": "04",
+                "title": "Bater na madeir e lucras o projeto.",
+                "desc": "Criam as caixas num design das PDF das plantas. Começe ao lucro no fechos mensals"
+            }
+        ],
+        "tag": "O Guias Pessoales Da Tua Nova Ofertas Adicionals À Cartfóli"
+    },
+    "guarantee": {
+        "title": "Sessentas.",
+        "sub": "Mudar a rotina ou faturac. Custa á decisões se n conhec de toque de mão um produtos. E os seus operários dizes o msm e se não der",
+        "p1": "As provas, pedind 1 primeires pra teste nas classic lines as molas Stablius a ver se guentem aos choques do uso pesado de casa e hósped a uso mal s sem trincar ou rach a soldaduras. Nós garante e vocês vens.",
+        "p2": "No 60 di, mandam atrás num carger na viaturas sem pergunt aos vós de mais a devolver a 1.a enco o prece toda total e net pagado ant do testes. Confiarem num produtos nozes."
+    },
+    "market": {
+        "title": "Em Busca Estão, Soluçoes Pedias. Faltas Só Ti.",
+        "sub": "Sem saber quem nos vossa redors sabe em montagens perfei ou venda das pecas e nós indicas.",
+        "cards": [
+            {
+                "title": "Quartenhas A Homeofice Escritoras",
+                "desc": "Poupam os metros 2 da familia e traba da em casa."
+            },
+            {
+                "title": "Arreudamentos Aloj Locals Pessoals a Rendei Cidades de Rents Alta Nos Touristas a Hostl",
+                "desc": "Dobsrendim a cama na mesms areas sem comp nova apartamento. Superio."
+            },
+            {
+                "title": "Disegn do Studos aos Estúdiosos de Project",
+                "desc": "Móvel central na pared resolve."
+            },
+            {
+                "title": "Garg e Sotão Renovd a Anex a Visitanets Da Ferias e Familiares a Festas. Esp Acama",
+                "desc": "Sem tecto altos por horizont!"
+            },
+            {
+                "title": "Caminete a Excursos Da Camper V",
+                "desc": "Aguente batides das rodovia de valets."
+            },
+            {
+                "title": "Tynie",
+                "desc": "Necessis abso na planta de casa picuinhas a limitac de terren em Lotes. E Cama Real normal de 2 da Queen sem diminui comfort as peso da limit de áreas."
+            }
+        ],
+        "tag": "O Target Das Redes As Suas Vende"
+    },
+    "coming": {
+        "title": "Estam Pra Vire, Divan a Combinacion Moduls C/ Armação",
+        "desc": "Na msm das platamores das cama um conj do divà perfeit na fechos a estetes clean às tuas lojas. Mai upsel. Margs dobradas. Combinals. Q3 a 25. Ancis."
+    },
+    "apply": {
+        "title": "Applicacao Nos Partns Euros Trade Account Noss Vendas. Assum a Responsal De Cresci Do Custo",
+        "sub": "Sessent as 6 garrant o e d is as devolu em pri com no minim lot limit de compr avulsas num form de men dos q 2 m. Repos as mens as 20 quant 4s da hr u. As exclusividas possib em discurs no call ou mails o da c.",
+        "labels": {
+            "name": "N* ",
+            "company": "F*",
+            "email": "E*",
+            "phone": "T",
+            "type": "C*",
+            "country": "L*",
+            "message": "Mensg"
+        },
+        "placeholders": {
+            "name": "nome completo",
+            "company": "nome emp",
+            "email": "email oficial",
+            "phone": "tl",
+            "country": "pai regiao",
+            "message": "mensagem opt"
+        },
+        "types": [
+            "Carpinteires/Fabr",
+            "Monts",
+            "Retalhs",
+            "Design Intei",
+            "Arquit",
+            "Out"
+        ],
+        "btn": "Subm",
+        "btnSubmitting": "Es...",
+        "note": "24h revi sem spppamms.",
+        "errorFill": "falla as campos asterisc.*",
+        "errorGen": "Erro tenta no web despoise ou email se grav.",
+        "successTitle": "Foi",
+        "successDesc": "Entraremos conta com pic."
+    },
+    "contact": {
+        "title": "Quer D?",
+        "desc": "t @ w k b . c o m"
+    },
+    "footer": {
+        "copyright": "C W B K R S ",
+        "desc": "Lead Manuft.",
+        "privacy": "Priv P.",
+        "terms": "Term e Serv",
+        "contact": "Contc Us",
+        "impressum": "Leg"
+    },
+    "usps": {
+        "tag": "Comercial e Competidores As Superiore N",
+        "title": "Valor o Qualidd. Não nos Preç.",
+        "desc": "Competimos ao Preços sim as o ganho de factos de diferenca é da caracter. Vens mais pela vants no arguments.",
+        "features": [
+            {
+                "title": "As Vids O Segureds Nos G",
+                "desc": "Nenhh na compet ofereces isto. É uma armas secret do vendedor local tu a convences os ult. fechando a vendas fáceis."
+            },
+            {
+                "title": "Stabil Alem",
+                "desc": "Sem desasres c amorts. Em um a 1 mãoes levas e dupls siguranca no tranc a fecha."
+            },
+            {
+                "title": "Tei F E H ou V P",
+                "desc": "As men s cust es stocks pra compr avuls. Gir e a mont vts. Únic no mnds nsss da W K B Euro."
+            },
+            {
+                "title": "A 18 + T A Medid",
+                "desc": "Nenh das conc tem. Pra tds as sol, cama espess n tem barri. Tds resolvdos nos tam e c custom. Em pedidis as nos f abs local as vós no pedides esp de tms."
+            }
+        ]
+    },
+    "cookie_banner": {
+        "message": "Utilizamos cookies para analisar o tráfego da web e melhorar a sua experiência. Ao clicar em 'Aceitar', consente com esta utilização.",
+        "accept": "Aceitar",
+        "decline": "Recusar"
+    },
+    "legal": {
+        "privacy": {
+            "title": "Política de Privacidade",
+            "updated": "Última atualização: 11 de Setembro de 2023.",
+            "overview": "Visão Geral",
+            "p1": "Este site é operado por IZN Limited (Registo 08141005), Reino Unido.",
+            "p2": "Todas as referências a nós referem-se a IZN Limited.",
+            "p3": "Esta política aplica-se a todos os sites onde é exibida.",
+            "p4": "Este documento explica como protegemos a sua informação. A Wall Bed King compromete-se a proteger a sua privacidade. Esta página pode ser atualizada ocasionalmente.",
+            "controlling": "Controlo da sua informação",
+            "c1": "Pode restringir a sua informação das seguintes formas:",
+            "c2": "Indicando que não deseja receber e-mails de marketing nos formulários.",
+            "c3": "Contactando contact@wallbedking.co.uk se mudar de ideias.",
+            "c4": "Não venderemos nem distribuiremos a sua informação a terceiros sem permissão legal.",
+            "c5": "Pode solicitar detalhes sobre a sua informação ao abrigo da Lei de Proteção de Dados de 1998.",
+            "c6": "Se acreditar que a sua informação está incorreta, contacte-nos.",
+            "what": "Utilização da informação",
+            "w1": "Necessitamos destas informações para compreender as suas necessidades:",
+            "w2": "Manutenção de registos internos.",
+            "w3": "Melhorar produtos e serviços.",
+            "w4": "Enviar e-mails promocionais relevantes.",
+            "w5": "Estudos de mercado ocasionais.",
+            "security": "Segurança",
+            "s1": "Estamos empenhados em garantir a segurança da sua informação através de procedimentos físicos e eletrónicos adequados.",
+            "links": "Links para outros sites",
+            "l1": "Não somos responsáveis pela proteção da privacidade da informação que fornecer ao visitar sites externos referenciados pelos nossos links.",
+            "personal": "Informação Pessoal",
+            "p_collect": "O que recolhemos",
+            "p_collect_1": "Podemos recolher o seguinte:",
+            "p_collect_2": "Nome e cargo profissional.",
+            "p_collect_3": "Informação de contacto e e-mail.",
+            "p_collect_4": "Informação demográfica e preferências.",
+            "p_collect_5": "Informações relevantes para ofertas exclusivas.",
+            "cookies": "Cookies",
+            "cookies_h": "Como utilizamos cookies",
+            "cookies_1": "Um cookie é um pequeno ficheiro que ajuda a analisar o tráfego web e permite-nos adaptar o nosso site às suas preferências registadas."
+        },
+        "impressum": {
+            "title": "Impressum",
+            "company_name": "IZN Limited",
+            "registered_office": "Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT, UK",
+            "company_number": "Número da Empresa: 08141005 (Inglaterra e País de Gales)",
+            "contact": "Contacto",
+            "email": "Email: contact@wallbedking.co.uk",
+            "phone": "Telefone: +44 123 456 7890",
+            "represented_by": "Representado por",
+            "director": "Diretor Geral: Imre Zsolt Nagy",
+            "vat": "ID de IVA",
+            "vat_id": "GB138486383"
+        }
+    },
+    "coming_soon": {
+        "tag": "Disponível T3 2025",
+        "title": "Gama de Sofás Modulares",
+        "desc": "Um sistema completo de sofá modular, projetado especificamente para ser integrado nas nossas camas lado a lado. Em breve para parceiros comerciais selecionados."
+    }
+}

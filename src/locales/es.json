@@ -1,0 +1,414 @@
+{
+    "nav": {
+        "brand": "Wall Bed King",
+        "portal": "SOCIOS COMERCIALES",
+        "why": "Por qué Wall Beds",
+        "profit": "Su Beneficio",
+        "products": "Productos",
+        "how": "Cómo Funciona",
+        "apply": "Solicite una Cuenta Comercial",
+        "sub": "Socios Comerciales"
+    },
+    "stats": {
+        "years": {
+            "num": "30+",
+            "label": "Años Fabricando"
+        },
+        "sold": {
+            "num": "40,000+",
+            "label": "Mecanismos Vendidos"
+        },
+        "sizes": {
+            "num": "18",
+            "label": "Tamaños Estándar + a Medida"
+        },
+        "countries": {
+            "num": "15",
+            "label": "Países Servidos"
+        }
+    },
+    "hero": {
+        "badge": "Ahora reclutando socios comerciales en toda Europa",
+        "h1": "Nosotros suministramos el mecanismo,<br />el diseño y los clientes.<br /><span>Usted se queda el margen.</span>",
+        "sub": "Wall Bed King es el fabricante europeo especialista en mecanismos de camas abatibles. Nos asociamos con carpinteros, fabricantes de muebles y diseñadores: suministramos los herrajes, diseños y clientes potenciales. Usted construye, instala y se beneficia.",
+        "proof": "Más de <strong>40.000 mecanismos vendidos</strong> en <strong>15 países</strong>. Fabricando desde <strong>1994</strong>. <strong>Garantía de por vida</strong> en cada mecanismo.",
+        "btnApply": "Solicite una Cuenta Comercial",
+        "btnProfit": "Vea su Potencial de Beneficios"
+    },
+    "opportunity": {
+        "title": "Si ya vende muebles a medida, ya tiene la configuración para vender camas abatibles.",
+        "p1": "Las camas abatibles son una de las adiciones más rentables que un carpintero o minorista puede hacer a su oferta. Los clientes no solo compran una cama; compran un espacio valioso en sus hogares: una habitación extra, una oficina funcional o un apartamento más habitable.",
+        "p2": "Si construye muebles a medida, ya tiene exactamente lo necesario: las mismas herramientas, habilidades y materiales. Al agregar nuestros mecanismos, abre una fuente de ingresos de alto margen con configuración mínima.",
+        "p3": "Muchos de nuestros socios afirman lograr márgenes de beneficio un 30-60% más altos en instalaciones de camas abatibles respecto a armarios estándar."
+    },
+    "profit": {
+        "tag": "Su beneficio",
+        "title": "Un proyecto típico de cama abatible",
+        "sub": "Números reales. Sin suposiciones.",
+        "calcs": [
+            {
+                "label": "Costo del mecanismo",
+                "value": "desde €448",
+                "desc": "Precio neto, Ex-works<br />Directo de fábrica"
+            },
+            {
+                "label": "Materiales y mano de obra",
+                "value": "~€200–400",
+                "desc": "Material del mueble + instalación<br />Medio a un día completo"
+            },
+            {
+                "label": "El cliente paga",
+                "value": "hasta €2,200",
+                "desc": "Estándar de mercado para<br />una cama a medida"
+            }
+        ],
+        "gross_label": "Su beneficio bruto por proyecto",
+        "gross_value": "más de €1,700",
+        "gross_sub": "Con solo 2 proyectos al mes, son más de €40,000 en ingresos extra anuales, de un producto que quizá aún no ofrece.",
+        "note": "Además: <strong>cada cliente que encarga una cama abatible iría a un competidor si no la ofrece.</strong><br />¿Quiere ver cálculos para un proyecto específico?",
+        "note_cta": "Contáctenos"
+    },
+    "benefits": {
+        "tag": "Qué aportamos a la asociación",
+        "title": "Suministramos más que solo el mecanismo",
+        "sub": "La mayoría de clientes buscan muebles a medida. Suministramos el mecanismo, los diseños y las solicitudes. Usted aporta la artesanía.",
+        "items": [
+            {
+                "title": "Directo de Fábrica — Sin Intermediarios",
+                "desc": "Somos dueños de la fábrica. Compra directo a precio de fábrica. Sin importadores ni recargos. Su margen está protegido."
+            },
+            {
+                "title": "Diseños de Muebles Incluidos",
+                "desc": "Damos diseños y dibujos técnicos para cada tamaño: úselos tal cual o como base para proyectos a medida. Resultando en un acabado profesional rápido."
+            },
+            {
+                "title": "Le Enviamos Clientes",
+                "desc": "Recibimos consultas regulares que buscan instalación local. No instalamos muebles: remitimos estos clientes directamente a nuestros socios en su área."
+            },
+            {
+                "title": "Territorio Exclusivo",
+                "desc": "Aceptamos un número limitado de socios por región. Según su ubicación, puede haber oportunidad de exclusividad."
+            },
+            {
+                "title": "Soporte de Marketing y Ventas",
+                "desc": "Fotos profesionales, especificaciones técnicas y material de marketing para su web y tienda. También lo listamos como socio aprobado."
+            },
+            {
+                "title": "Soporte Técnico",
+                "desc": "Línea de soporte dedicada, guías de instalación y videos. Le ayudaremos en su primer montaje si lo necesita."
+            }
+        ]
+    },
+    "why": {
+        "title": "¿Por qué elegir Herrajes Wall Bed King?",
+        "sub": "Construimos mecanismos para durar más que los muebles. Cuando su reputación está en juego, necesita herrajes de confianza.",
+        "features": [
+            {
+                "title": "Garantía de Por Vida",
+                "desc": "El único fabricante que ofrece garantía de por vida en el mecanismo. Instale con total confianza."
+            },
+            {
+                "title": "Pistones de Gas Stabilus",
+                "desc": "Impulsados por pistones alemanes de primera calidad Stabilus para un funcionamiento suave y seguro."
+            },
+            {
+                "title": "Sistema TypeFlex",
+                "desc": "El mismo mecanismo se instala vertical U horizontalmente. Menos stock y más opciones de construcción."
+            },
+            {
+                "title": "Ultimate SizeFlex",
+                "desc": "Disponible en 18 tamaños. Un único mecanismo sirve para camas individuales, dobles y King."
+            }
+        ],
+        "tag": "La oportunidad"
+    },
+    "ranges": {
+        "tag": "Gamas de productos",
+        "title": "Una solución para cada situación",
+        "sub": "Tres gamas, un sistema de mecanismo. Cada gama utiliza la misma plataforma Stabilus y TypeFlex con garantía de por vida.",
+        "classic": {
+            "name": "Gama Classic",
+            "tagline": "Solo el mecanismo",
+            "desc": "Construcción de acero europea. Listo para integrar en muebles a medida o fijarse directamente al suelo/pared sin marco.",
+            "trade": "<strong>Oportunidad comercial:</strong> Margen comercial modesto solo en el mecanismo. La verdadera oportunidad es agregar el panel frontal para aumentar su margen."
+        },
+        "studio": {
+            "name": "Gama Studio",
+            "tagline": "Mecanismo + Panel Frontal",
+            "desc": "Plataforma lista para usar. Estética moderna y limpia. Queda al ras de la pared al cerrarse. Ideal para salas de exhibición.",
+            "trade": "<strong>Oportunidad comercial:</strong> Mayor valor de pedido inicial y excelente producto minorista."
+        },
+        "integrated": {
+            "name": "Gama Integrada",
+            "tagline": "Mecanismo + Mueble Completo",
+            "desc": "Solución completa de mobiliario. Material europeo de alta calidad. Llega en paquete plano con todos los herrajes.",
+            "trade": "<strong>Oportunidad comercial:</strong> La forma más rápida de entregar un producto terminado sin necesidad de trabajos de carpintería."
+        }
+    },
+    "who": {
+        "title": "Diseñado para su negocio",
+        "tabs": [
+            "Carpinteros y Ebanistas",
+            "Minoristas de Muebles",
+            "Diseñadores y Arquitectos"
+        ],
+        "joiners": {
+            "p1": "Añada un producto de alta rentabilidad a sus ofertas. Nuestros planos de armarios logran que el primer montaje sea rápido.",
+            "p2": "Pasamos clientes potenciales a nuestros carpinteros locales. Cuando un cliente quiere una cama abatible a medida en su zona, usted obtiene el trabajo.",
+            "subtitle": "Trabajo de alto margen desde su taller actual con sus herramientas",
+            "items": [
+                "Si construye cocinas o armarios, ya tiene las habilidades para hacer camas abatibles.",
+                "Nosotros damos mecanismo y planos; usted la construcción e instalación.",
+                "Valor típico: €1,500–€4,000+ según acabado.",
+                "Le remitimos consultas directas de su zona.",
+                "Ofrezca algo premium y cobre por ello."
+            ]
+        },
+        "retailers": {
+            "p1": "Ponga una cama de la Gama Studio en su tienda y verá cómo se vende sola. Son productos de alto valor que atraen visitas.",
+            "p2": "Como nuestro mecanismo TypeFlex gestiona orientaciones verticales y horizontales, no necesita almacenar stock excesivo.",
+            "subtitle": "Un producto de alta demanda que se vende solo tras una demostración",
+            "items": [
+                "La Gama Studio está lista para exhibir, los clientes la prueban y se enamoran.",
+                "TypeFlex reduce el stock: la misma unidad cubre vertical y horizontal.",
+                "Sin cantidad mínima y entregas rápidas en Europa.",
+                "Ofrecemos fotos y material de marketing gratis.",
+                "Protegemos su territorio contra la sobresaturación."
+            ]
+        },
+        "designers": {
+            "p1": "Especifique herrajes de uso pesado que a sus contratistas les encantará usar. Perfecto para micro-apartamentos.",
+            "p2": "Acceda a nuestros archivos CAD, esquemas y datos de carga para especificar Wall Bed King sin riesgo.",
+            "subtitle": "Especifique camas abatibles con confianza en cada proyecto de espacios",
+            "items": [
+                "Resuelva problemas de espacio con una solución respaldada por garantía de por vida.",
+                "Archivos CAD, modelos y configuraciones a medida.",
+                "Conectamos a su carpintero con nuestro equipo, o recomendamos nuestros instaladores aprobados.",
+                "18 tamaños estándar y fabricación a medida previa solicitud.",
+                "Trabajamos los detalles con usted en cada proyecto."
+            ]
+        },
+        "btn": "Solicitar Estatus de Socio Comercial",
+        "tag": "Con quién trabajamos",
+        "cta1": "Solicitar como Socio Instalador",
+        "cta2": "Solicitar como Socio Minorista",
+        "cta3": "Solicitar como Socio de Diseño"
+    },
+    "logistics": {
+        "tag": "Stock y entrega",
+        "title": "Rápido, flexible, sin pedido mínimo",
+        "items": [
+            {
+                "title": "Empiece con 1 Unidad",
+                "desc": "Muchos de nuestros socios más activos comenzaron con solo un mecanismo. Sin presión de pedir en volumen."
+            },
+            {
+                "title": "Entregas Rápidas en Europa",
+                "desc": "Disponible desde Alemania, Reino Unido y España (próximamente). Entregas en pocos días."
+            },
+            {
+                "title": "Bien Empaquetado",
+                "desc": "Capas múltiples de embalaje. Bajo riesgo de daños. Repuestos disponibles en garantía."
+            }
+        ]
+    },
+    "how": {
+        "title": "Cómo Empezar",
+        "steps": [
+            {
+                "num": "01",
+                "title": "Solicitar",
+                "desc": "Rellene el formulario en 2 minutos. Revisamos solicitudes en 24 horas."
+            },
+            {
+                "num": "02",
+                "title": "Ser Aprobado",
+                "desc": "Le contactaremos para hablar sobre precios, territorio y dudas."
+            },
+            {
+                "num": "03",
+                "title": "Pida su Primer Mecanismo",
+                "desc": "Sin cantidad mínima. Pruébelo con nuestra garantía de 60 días."
+            },
+            {
+                "num": "04",
+                "title": "Construya, Instale, Benefíciese",
+                "desc": "Utilice nuestros esquemas y soporte técnico, y vea llegar a los clientes."
+            }
+        ],
+        "tag": "Guía de inicio"
+    },
+    "guarantee": {
+        "title": "Garantía de Prueba de 60 Días",
+        "sub": "Sabemos que añadir un producto a su línea de producción es una decisión importante.",
+        "p1": "Por eso ofrecemos a los nuevos socios una prueba sin riesgos. Pida su primer mecanismo Classic. Pruebe los pistones Stabilus.",
+        "p2": "Si no está de acuerdo en que es el mecanismo más robusto y simple, devuélvalo en 60 días y le reembolsaremos."
+    },
+    "market": {
+        "title": "¿Quién compra camas abatibles?",
+        "sub": "Sus clientes potenciales ya existen. Y la mayoría no encuentra un instalador. Ahí entra usted.",
+        "cards": [
+            {
+                "title": "Propietarios",
+                "desc": "Convirtiendo habitaciones libres en oficinas/cuartos de huéspedes."
+            },
+            {
+                "title": "Alquileres Vacacionales",
+                "desc": "Maximizando el número de camas en propiedades Airbnb."
+            },
+            {
+                "title": "Diseñadores",
+                "desc": "Especificando soluciones para apartamentos urbanos compactos."
+            },
+            {
+                "title": "Reformas de Buhardillas",
+                "desc": "Maximizando utilidad en espacios de techos bajos."
+            },
+            {
+                "title": "Campers y Barcos",
+                "desc": "Construcciones a medida para vida en espacios móviles."
+            },
+            {
+                "title": "Constructores",
+                "desc": "Hogares pequeños integrando camas abatibles ocultas."
+            }
+        ],
+        "tag": "El mercado"
+    },
+    "coming": {
+        "title": "Próximamente: El Sofá Modular",
+        "desc": "Un sistema de sofá creado para integrarse con nuestras camas. Un mecanismo, combinaciones infinitas. Más ventas para usted."
+    },
+    "apply": {
+        "title": "Solicite una Cuenta Comercial",
+        "sub": "Toma 2 minutos. Revisión en 24 horas. Garantía de 60 días en su primer pedido.",
+        "labels": {
+            "name": "Su Nombre *",
+            "company": "Nombre de la Empresa *",
+            "email": "Correo Electrónico *",
+            "phone": "Teléfono",
+            "type": "Soy un... *",
+            "country": "País y Región *",
+            "message": "¿Algo más que debamos saber?"
+        },
+        "placeholders": {
+            "name": "Su nombre completo",
+            "company": "Su empresa",
+            "email": "hola@empresa.com",
+            "phone": "+34 123 456 789",
+            "country": "ej. Madrid, España",
+            "message": "ej. Ya vendemos camas y queremos añadir la solución abatible..."
+        },
+        "types": [
+            "Carpintero / Ebanista",
+            "Instalador",
+            "Comercio de Muebles",
+            "Diseñador de Interiores",
+            "Arquitecto",
+            "Otro"
+        ],
+        "btn": "Enviar Solicitud",
+        "btnSubmitting": "Enviando...",
+        "note": "Revisaremos su solicitud y responderemos en 24 horas. Sin correos basura.",
+        "errorFill": "Llene los campos requeridos.",
+        "errorGen": "Hubo un error. Reintente.",
+        "successTitle": "Solicitud Recibida",
+        "successDesc": "¡Gracias! Revisaremos su solicitud. Un miembro hablará y contactará con usted sobre precios en breve."
+    },
+    "contact": {
+        "title": "¿Preguntas previas?",
+        "desc": "Escriba a trade@wallbedking.com y le ayudaremos."
+    },
+    "footer": {
+        "copyright": "© 2025 Wall Bed King. Todos los derechos reservados.",
+        "desc": "El principal fabricante europeo de mecanismos abatibles.",
+        "privacy": "Privacidad",
+        "terms": "Términos de Servicio",
+        "contact": "Contacto",
+        "impressum": "Impressum"
+    },
+    "usps": {
+        "tag": "Por qué Wall Bed King",
+        "title": "Un mejor producto. El mismo precio.",
+        "desc": "Nuestros mecanismos compiten en precio, pero con características, calidad y garantía que ningún competidor iguala. Usted vende por valor, no por precio.",
+        "features": [
+            {
+                "title": "Garantía de Por Vida",
+                "desc": "Ningún competidor ofrece esto. Para sus clientes, elimina dudas. Para usted, es el mejor argumento de venta."
+            },
+            {
+                "title": "Pistones de Gas Stabilus",
+                "desc": "Pistones alemanes usados en automoción. Funcionamiento suave y seguro a una mano."
+            },
+            {
+                "title": "TypeFlex (Patente en trámite)",
+                "desc": "Se instala vertical u horizontal. Una exclusiva de WBK. Menos herramientas, más configuraciones."
+            },
+            {
+                "title": "18 Tamaños + A Medida",
+                "desc": "El rango más amplio del mercado. Ningún fabricante ofrece esta flexibilidad de serie."
+            }
+        ]
+    },
+    "cookie_banner": {
+        "message": "Usamos cookies para analizar el tráfico web y mejorar su experiencia. Al hacer clic en 'Aceptar', acepta su uso.",
+        "accept": "Aceptar",
+        "decline": "Rechazar"
+    },
+    "legal": {
+        "privacy": {
+            "title": "Política de Privacidad",
+            "updated": "Última actualización: 11 de Septiembre 2023.",
+            "overview": "Resumen",
+            "p1": "Sitio web operado por IZN Limited (08141005), Reino Unido.",
+            "p2": "Toda referencia a Wall Bed King o nosotros se refiere a IZN Limited.",
+            "p3": "Esta política se aplica a los sitios donde aparece.",
+            "p4": "Este documento detalla cómo protegemos su información. Wall Bed King se compromete a proteger su privacidad. Si modificamos esta política, actualizaremos esta página.",
+            "controlling": "Control de su información",
+            "c1": "Puede restringir su información de las siguientes maneras:",
+            "c2": "Indicando en los formularios que no desea correo de marketing.",
+            "c3": "Contactando con contact@wallbedking.co.uk si cambia de opinión.",
+            "c4": "No venderemos ni distribuiremos su información a terceros sin permiso o requerimiento legal.",
+            "c5": "Puede solicitar detalles de su información bajo la Ley de Protección de Datos de 1998.",
+            "c6": "Si alguna información es incorrecta, contáctenos para corregirla.",
+            "what": "Uso de la información",
+            "w1": "Para entender sus necesidades y brindar un mejor servicio:",
+            "w2": "Mantenimiento de registros internos.",
+            "w3": "Mejorar productos y servicios.",
+            "w4": "Enviar correos promocionales ocasionales.",
+            "w5": "Contactos para estudios de mercado.",
+            "security": "Seguridad",
+            "s1": "Estamos comprometidos a asegurar su información mediante procedimientos físicos y electrónicos.",
+            "links": "Enlaces a otros sitios web",
+            "l1": "No somos responsables de la protección y privacidad de información que usted proporcione al visitar sitios externos.",
+            "personal": "Información Personal",
+            "p_collect": "Lo que recopilamos",
+            "p_collect_1": "Podemos recopilar lo siguiente:",
+            "p_collect_2": "Nombre y cargo.",
+            "p_collect_3": "Información de contacto y correo electrónico.",
+            "p_collect_4": "Información demográfica y preferencias.",
+            "p_collect_5": "Información relevante de encuestas u ofertas.",
+            "cookies": "Cookies",
+            "cookies_h": "Cómo usamos las cookies",
+            "cookies_1": "Una cookie es un pequeño archivo que analiza el tráfico web y nos permite adaptar la web a sus necesidades y preferencias."
+        },
+        "impressum": {
+            "title": "Aviso Textual (Impressum)",
+            "company_name": "IZN Limited",
+            "registered_office": "Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT, UK",
+            "company_number": "Número de Compañía: 08141005 (Inglaterra y Gales)",
+            "contact": "Contacto",
+            "email": "Email: contact@wallbedking.co.uk",
+            "phone": "Teléfono: +44 123 456 7890",
+            "represented_by": "Representado por",
+            "director": "Director Gerente: Imre Zsolt Nagy",
+            "vat": "ID IVA",
+            "vat_id": "GB138486383"
+        }
+    },
+    "coming_soon": {
+        "tag": "Próximamente T3 2025",
+        "title": "Gama de Sofás Modulares",
+        "desc": "Un sistema modular completo, diseñado para integrarse con nuestras camas abatibles. Disponible próximamente para comercios seleccionados."
+    }
+}

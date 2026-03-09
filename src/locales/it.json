@@ -1,0 +1,411 @@
+{
+    "nav": {
+        "brand": "Wall Bed King",
+        "portal": "PARTNER COMMERCIALI",
+        "why": "Perché i Letti a Scomparsa",
+        "profit": "Il Tuo Profitto",
+        "products": "Prodotti",
+        "how": "Come Funziona",
+        "apply": "Richiedi Account Commerciale",
+        "sub": "Partner Commerciali"
+    },
+    "stats": {
+        "years": {
+            "num": "30+",
+            "label": "Anni di Produzione"
+        },
+        "sold": {
+            "num": "40.000+",
+            "label": "Meccanismi Venduti"
+        },
+        "sizes": {
+            "num": "18",
+            "label": "Misure Standard + Su Misura"
+        },
+        "countries": {
+            "num": "15",
+            "label": "Paesi Serviti"
+        }
+    },
+    "hero": {
+        "badge": "Ora reclutiamo partner commerciali in tutta Europa",
+        "h1": "Forniamo il meccanismo,<br />il design e i clienti.<br /><span>A te resta il margine.</span>",
+        "sub": "Wall Bed King è lo specialista europeo per la produzione di meccanismi per letti a scomparsa. Collaboriamo con falegnami, mobilieri e interior designer: forniamo la ferramenta, i progetti e anche i clienti. Tu costruisci, installi e guadagni.",
+        "proof": "Oltre <strong>40.000 meccanismi venduti</strong> in <strong>15 paesi</strong>. In produzione dal <strong>1994</strong>. <strong>Garanzia a vita</strong> su ogni meccanismo.",
+        "btnApply": "Richiedi Account Commerciale",
+        "btnProfit": "Vedi il Tuo Potenziale"
+    },
+    "opportunity": {
+        "title": "Se vendi mobili su misura, hai già tutto per vendere Letti a Scomparsa.",
+        "p1": "I letti a scomparsa sono un'aggiunta molto redditizia. I clienti non comprano solo un letto; recuperano spazio prezioso: una camera in più o un ufficio funzionale.",
+        "p2": "Se costruisci mobili, hai già gli strumenti, le abilità e i materiali. L'aggiunta dei nostri meccanismi apre un flusso di entrate ad alto margine con requisiti minimi.",
+        "p3": "Molti dei nostri partner riportano margini di profitto del 30-60% superiori rispetto ai normali progetti di armadi."
+    },
+    "profit": {
+        "tag": "Il Tuo Profitto",
+        "title": "Un progetto tipico",
+        "sub": "Numeri reali. Nessuna stima.",
+        "calcs": [
+            {
+                "label": "Costo del meccanismo",
+                "value": "da €448",
+                "desc": "Franco fabbrica, prezzo netto<br />Diretto dalla nostra officina"
+            },
+            {
+                "label": "Materiali e manodopera",
+                "value": "~€200–400",
+                "desc": "Materiale armadio + installazione<br />Mezza giornata lavorativa"
+            },
+            {
+                "label": "Il cliente paga",
+                "value": "fino a €2.200",
+                "desc": "Standard di mercato per<br />un letto su misura"
+            }
+        ],
+        "gross_label": "Profitto lordo per progetto",
+        "gross_value": "oltre €1.700",
+        "gross_sub": "Con soli 2 progetti al mese, sono oltre €40.000 di entrate aggiuntive all'anno per un prodotto che ancora non offri.",
+        "note": "Inoltre: <strong>ogni cliente che vuole un letto a scomparsa andrà dalla concorrenza se non lo offri.</strong><br />Vuoi vedere i calcoli di un progetto specifico?",
+        "note_cta": "Contattaci"
+    },
+    "benefits": {
+        "tag": "Cosa offriamo",
+        "title": "Ti forniamo più del solo meccanismo",
+        "sub": "I clienti cercano mobili su misura. Noi ti forniamo il meccanismo e le richieste. Tu ci metti l'artigianato.",
+        "items": [
+            {
+                "title": "Diretto dalla Fabbrica",
+                "desc": "Compri diretto a prezzi franco fabbrica. Nessun intermediario. Il tuo margine è protetto fin dall'inizio."
+            },
+            {
+                "title": "Progetti e Disegni Inclusi",
+                "desc": "Disegni tecnici per ogni misura. Usali come base per progetti personalizzati e velocizza il lavoro."
+            },
+            {
+                "title": "Ti Inviamo i Clienti",
+                "desc": "Riceviamo richieste per installazioni locali. Inoltriamo questi clienti direttamente ai nostri partner."
+            },
+            {
+                "title": "Territorio Esclusivo",
+                "desc": "Accettiamo partner limitati per regione, offrendo opportunità di esclusività territoriale."
+            },
+            {
+                "title": "Supporto Marketing",
+                "desc": "Foto professionali e materiali per il tuo sito o showroom. Ti elenchiamo come partner approvato."
+            },
+            {
+                "title": "Supporto Tecnico",
+                "desc": "Linea telefonica dedicata, guide e video. Non sarai mai lasciato solo alla prima installazione."
+            }
+        ]
+    },
+    "why": {
+        "title": "Perché Scegliere l'Hardware Wall Bed King?",
+        "sub": "Costruiamo meccanismi progettati per durare più dei mobili stessi. Quando c'è in gioco la tua reputazione, hai bisogno di qualità.",
+        "features": [
+            {
+                "title": "Garanzia a Vita",
+                "desc": "L'unico produttore a offrire una vera garanzia a vita sul meccanismo. Installa con totale sicurezza."
+            },
+            {
+                "title": "Pistoni a Gas Stabilus",
+                "desc": "Pistoni tedeschi Stabilus premium per un funzionamento sempre fluido e sicuro."
+            },
+            {
+                "title": "Sistema TypeFlex",
+                "desc": "Lo stesso meccanismo si installa in verticale OR in orizzontale. Meno scorte, più opzioni."
+            },
+            {
+                "title": "Ultimate SizeFlex",
+                "desc": "18 misure standard. Anche su misura. Serve letti singoli, doppi e King (materassi fino a 30cm)."
+            }
+        ],
+        "tag": "L'opportunità"
+    },
+    "ranges": {
+        "tag": "Le nostre gamme",
+        "title": "Una soluzione per ogni esigenza",
+        "sub": "Tre gamme, un meccanismo che sfrutta Stabilus e TypeFlex con garanzia a vita.",
+        "classic": {
+            "name": "Gamma Classic",
+            "tagline": "Solo il meccanismo",
+            "desc": "Costruzione in acciaio nudo. Pronto per essere integrato nei mobili su misura da te progettati.",
+            "trade": "<strong>Opportunità commerciale:</strong> Usalo costruendo attorno la struttura e massimizza incredibilmente la parcella."
+        },
+        "studio": {
+            "name": "Gamma Studio",
+            "tagline": "Meccanismo + Pannello",
+            "desc": "Pannello pulito. A filo con la parete. Ideale in esposizione o pronto in vendita immediata.",
+            "trade": "<strong>Opportunità commerciale:</strong> Altissimo potenziale indipendente di rivendita allo showroom."
+        },
+        "integrated": {
+            "name": "Gamma Integrated",
+            "tagline": "Meccanismo + Armadiatura Completa",
+            "desc": "Soluzione d'arredo completa. Materiale europeo premium. Kit imballato e pronto per esser solo montato a casa.",
+            "trade": "<strong>Opportunità commerciale:</strong> Rapidità estrema. Per montatori che desiderano zero lavoro su misura."
+        }
+    },
+    "who": {
+        "title": "Costruito per il tuo business",
+        "tabs": [
+            "Falegnami e Artigiani",
+            "Rivenditori di Mobili",
+            "Designer e Architetti"
+        ],
+        "joiners": {
+            "p1": "Aggiungi un prodotto molto redditizio ai tuoi servizi. I nostri piani d'armadio rendono il primo montaggio velocissimo.",
+            "p2": "Inoltriamo lead diretti: quando un cliente cercherà in zona, chiamerà direttamente la tua officina.",
+            "subtitle": "Lavoro ad alto margine usando la tua officina e attrezzatura",
+            "items": [
+                "Se fai armadi su misura, hai già le abilità adatte senza retrain.",
+                "Forniamo noi piani, meccanismi e disegni CAD.",
+                "Margine tipico per lavoro finito attorno a €1.500-€4.000.",
+                "Ti raccomandiamo sul nostro sito ufficiale ai nostri clienti."
+            ]
+        },
+        "retailers": {
+            "p1": "Mostra un letto Studio e osserva le vendite esplodere in showroom.",
+            "p2": "TypeFlex gestisce le opzioni verticali/orizzontali, diminuendo per te il carico obbligato in giacenza a deposito.",
+            "subtitle": "Un prodotto ad alta domanda venduto alla sola visione del test",
+            "items": [
+                "Un prodotto pronto in showroom che il cliente usa da sé.",
+                "Unità singole riducono i carichi di inventario.",
+                "Evasioni e spedizioni veloci immediate dall'Europa.",
+                "Kit di foto HQ compresi.",
+                "Area commerciale d'opera tutelata in esclusiva."
+            ]
+        },
+        "designers": {
+            "p1": "Usa una cerniera tedesca fidata da posizionare in hotel d'appartamenti piccoli ad alte esigenze in stress.",
+            "p2": "Lavora in piena efficienza utilizzando i file AutoCAD scaricabili e render integrabili senza alcun errore e sforzo.",
+            "subtitle": "Ispirazione a colpo sicuro nei piccoli metri quadrati",
+            "items": [
+                "Un sistema massiccio certificato a vita intera.",
+                "Misure di 18 formati, flessibile a modifiche per progettare liberissimo ed al meglio.",
+                "Forniture CAD complete dal sito e scarico veloce sui layout civili residenziali in prova per investitori."
+            ]
+        },
+        "btn": "Avvia Richiesta Profilo",
+        "tag": "Chi affianchiamo:",
+        "cta1": "Come Officina Affiliata",
+        "cta2": "Per il Negozio Ufficiale",
+        "cta3": "Progettazione Aggiuntiva"
+    },
+    "logistics": {
+        "tag": "Spedizioni",
+        "title": "Flessibilità rapida europea",
+        "items": [
+            {
+                "title": "Acquista Solo 1 Articolo",
+                "desc": "Puoi saggiare l'intero potenziale da uno prelevato isolato in spedizione sciolta in prova. Anche al primissimo acquisto senza carichi d'ammonto forzato minimo."
+            },
+            {
+                "title": "Inoltro a Rapidità",
+                "desc": "Dai terminal logistici passanti a tutto l'iter doganale dell'Unione o verso sud senza ostacolare le agende dei vostri lavori locali o i calendari montaggio ad ore d'andata ed arrivo sul camion rapido logistico con pedana."
+            },
+            {
+                "title": "Imballo Extra Resistente",
+                "desc": "Cartoni doppi multistrato massici. Per assorbire senza colpi duri le escursioni sui corrieri standard."
+            }
+        ]
+    },
+    "how": {
+        "title": "Guida d'Avvio al Contratto",
+        "steps": [
+            {
+                "num": "01",
+                "title": "Domanda Online B2B",
+                "desc": "Candidatura esaminata ad ore velocissime (un giorno utile in norma)."
+            },
+            {
+                "num": "02",
+                "title": "Ricevi le Tabelle e Tariffe",
+                "desc": "Inoltro file via chiamata con le delibere per la territoriali a sconti dedicati personalizzati e confidenziali in tariffa speciale del giorno stesso in questione per il calcolo ed operatività aperta."
+            },
+            {
+                "num": "03",
+                "title": "Inizio",
+                "desc": "Rimborso totale al primo test meccanico entro limite sessanta gg per riprova test sul campo ad hoc. Se le saldature od il ferro non convince basta un sollevo sul furgone di ritiro di dietro e niente trattenute sulle spese versate!"
+            },
+            {
+                "num": "04",
+                "title": "A Fini Lavoro L'Utile",
+                "desc": "Raccogli dai disegni la produzione netta dell'operato mensile da capogiro sui soliti lavori di tavole nude che prima vi limitavate ad eseguire e incrocia il margine superiore del pezzo."
+            }
+        ],
+        "tag": "Tappe d'Ammissione"
+    },
+    "guarantee": {
+        "title": "Garanzie Sessanta Rimborsi",
+        "sub": "Capiamo. Integravere il nuovo ad inventario è serio alle attività quotidiane di ritmi scanditi del falegname e dei responsabili ufficio appalti.",
+        "p1": "Così vi prestiamo le merci a prove adocchiabili alle strutture massice metalliche prima che impegniate le ditte a voi vincolanti ai clienti. Prendi e monta sul fianco un modello metallico della Classic, analizza la qualità Premium German di Stabilus al vero tocco.",
+        "p2": "Se lamento giunge dal personale o non ritiene vero la maneggevolezza di fronte a noi invia indietreggio sui camion europe a resi esenti rimborso."
+    },
+    "market": {
+        "title": "Chi Ne Ricerca Unità Ora?",
+        "sub": "Un'incredibile mole latente nel raggio europeo al cittadino o all'impresa che in fiera od a casa desidera spazio senza sapere a chi fare appello in loco a mano locale affidandosi a voi nel nostro indirizzario affiliati diretti per far erigere ai carpentieri la struttura perfetta.",
+        "cards": [
+            {
+                "title": "Gli Abitanti Regolari dei Residenziali ai Condomini Multipli Piani",
+                "desc": "Per avere uffici privati e ospiti temporanei e relax serali in pace d'appartamento per figli cresciuti alle famiglie attive e piene."
+            },
+            {
+                "title": "Appartamentini Air&BnB Nelle Case di Turisti D'Urgenza Pieno Centro D'Arte o Al Mare Estate Inverno.",
+                "desc": "Per ospitare famiglie o la sesta entrata monetaria dai visitatori. E d'immediato il revenue rate vola e recupere di costo d'allestimento si ha per incanto nell'ottimo e veloce ROI alle ditte che ospitano brevi durate per villeggiatura su siti internet notturni!"
+            },
+            {
+                "title": "Interior ed Appalti Per Micro Living E D'Acquisti Per Immobili Di Lusso E D'Investimento In Alto Prezzo e Piccola Base Quadrato All'Interno. Urban Area.",
+                "desc": "Nei massimali."
+            },
+            {
+                "title": "Le Capanne Eco.",
+                "desc": "Su tetti minimi e piccole case estive, dacia a legname e piccoli spiazzi e camper da roulottes viaggia ad onde marine dove i sobbalzi o ammortizzatori Stabilus per tenutar si fan duri."
+            },
+            {
+                "title": "Estetiche a Spazio Inusuale alle Mansardature",
+                "desc": "Uso delle varianti TypeFlex del Classic per posizioni con poco spazio per altezze ma largo a pavimentazione in angoli bui."
+            },
+            {
+                "title": "Aziendale in Generale O Altrove",
+                "desc": "Ospit."
+            }
+        ],
+        "tag": "Sui Bisogni e Nicchie Clientela"
+    },
+    "coming": {
+        "title": "A Brevissimo Al Mercato in Arrivo: Kit Completo Componenti Sofa O Da Divano Seduta.",
+        "desc": "Un sistema sofà componibile a più estensioni pronto per interfacciarsi assolute a filo dell'abbattuta. Più cross-sell."
+    },
+    "apply": {
+        "title": "Richiedi Il Conto Da Grossisti B2B e Appalti Diretti Sui Listini D'Affiliazone A Noi e Compagni al Marchio",
+        "sub": "Due min alle letture. Approv ai ritmi celero d'Europe in Europa per pratiche amministraziones in contatti ditte.",
+        "labels": {
+            "name": "Nome e Generalità *",
+            "company": "Firma e Ditta (Denominativo dell'Esercente) *",
+            "email": "Le Vostres Postes *",
+            "phone": "Telecom / Num Linea Tel.",
+            "type": "Opero Nel.. *",
+            "country": "In Stato, Area, Paese EU *",
+            "message": "Da Note in Più (Spazio Liber in Opinioni O Commentare ai Test) - Se Preferisci Da Opzional in Letturas Ai Rapresentanti Nostri e Operatori Alle Telefonates D'Accordo O Pattuizioni in Esclusiva A Breves"
+        },
+        "placeholders": {
+            "name": "Es: Mario C",
+            "company": "Es: C. S.R.L. a Roma o Rossi Falegn.",
+            "email": "a ufficio info",
+            "phone": "+39 --",
+            "country": "Rome, IT",
+            "message": "Es: Oltre ad altri a letti ora vogli..."
+        },
+        "types": [
+            "Operativ Artig e Fresa",
+            "Soli Montaggios Esterni o Lavoro All'Edificabile in Posa in Opera E Montature Sul Domicilio o Di Appalti G e M.",
+            "Mostre ed Arredi in Ret",
+            "Interiors Arch & Des",
+            "Agli Stud e Allos Ingegner",
+            "A Misti O Var."
+        ],
+        "btn": "Dalla Pressione Invia Candidatar",
+        "btnSubmitting": "Attend All Operatio Meno M..",
+        "note": "Mai si spam e vi manda scartofie false a frode.",
+        "errorFill": "Rimpo O Completa In Rosso L Formula Obb*",
+        "errorGen": "Bloc.",
+        "successTitle": "Trasm.",
+        "successDesc": "Entr a un dí i rep e contt a tariffa spec in telef o mail al b2b in apert di confidents e sconti su scala."
+    },
+    "contact": {
+        "title": "Dubb?",
+        "desc": "trade@wallbedking.com a te"
+    },
+    "footer": {
+        "copyright": "C Wall B K D",
+        "desc": "Europa Lead B2B.",
+        "privacy": "Priv P.",
+        "terms": "Tb2b.",
+        "contact": "Contact",
+        "impressum": "LeG/ Impr - UK."
+    },
+    "usps": {
+        "tag": "Il Vantaggio Di W.B.K. In Vendita",
+        "title": "Un prodotto migliore. Allo stesso prezzo.",
+        "desc": "I nostri meccanismi competono sul prezzo, ma con caratteristiche e una garanzia che nessun concorrente uguaglia. Tu vendi il valore, non il prezzo.",
+        "features": [
+            {
+                "title": "Garanzia a Vita",
+                "desc": "Nessun altro produttore la offre. Elimina ogni dubbio al cliente ed è l'argomento di vendita più forte in assoluto."
+            },
+            {
+                "title": "Pistoni a Gas Stabilus",
+                "desc": "Pistoni premium tedeschi del settore automotive. Funzionamento sicuro e a una sola mano. Il letto non cadrà mai all'improvviso."
+            },
+            {
+                "title": "TypeFlex (Brevetto in corso)",
+                "desc": "Stesso meccanismo si installa in verticale e in orizzontale. Meno giacenze e più configurazioni. Un'esclusiva per noi."
+            },
+            {
+                "title": "18 Taglie + Su Misura",
+                "desc": "La gamma di misure più vasta del mercato. Soluzioni flessibili sempre disponibili alle esigenze dimensionali del lavoro e materasso in opera o all'ordini di precisione industriali e dell'artigiano locale od europeo al top di listini sul continente europeo attuale e futuro ai concorrenti sul mercato generale."
+            }
+        ]
+    },
+    "cookie_banner": {
+        "message": "Utilizziamo i cookie per analizzare il traffico web e migliorare la tua esperienza. Cliccando su 'Accetta', acconsenti al nostro uso dei cookie.",
+        "accept": "Accetta",
+        "decline": "Rifiuta"
+    },
+    "legal": {
+        "privacy": {
+            "title": "Politica sulla Privacy",
+            "updated": "Ultimo aggiornamento: 11 Settembre 2023.",
+            "overview": "Panoramica",
+            "p1": "Questo sito web è gestito da IZN Limited (08141005), UK.",
+            "p2": "Tutti i riferimenti a noi nella documentazione si riferiscono a IZN Limited.",
+            "p3": "Questa politica si applica ai siti sui quali viene mostrata.",
+            "p4": "Spiega come proteggiamo le tue informazioni. Wall Bed King si impegna a garantire la tua privacy. Questa politica può essere soggetta a modifiche future.",
+            "controlling": "Controllo delle tue informazioni personali",
+            "c1": "Puoi scegliere di limitare la raccolta e uso dei tuoi dati di base:",
+            "c2": "Spuntando l'opzione corretta nei moduli online.",
+            "c3": "Contattando contact@wallbedking.co.uk qualora cambiassi idea.",
+            "c4": "Non venderemo o distribuiremo i tuoi dati personali a terzi senza il permesso o obbligo di legge.",
+            "c5": "Puoi richiedere i dettagli delle tue informazioni tramite il Data Protection Act 1998.",
+            "c6": "Se qualche informazione è inesatta, ti preghiamo di scriverci per rettificarla.",
+            "what": "Uso delle informazioni raccolte",
+            "w1": "Richiediamo queste informazioni per capire i tuoi bisogni:",
+            "w2": "Mantenimento dei registri aziendali.",
+            "w3": "Migliorare servizi e prodotti fisici.",
+            "w4": "Inviare offerte periodiche via mail.",
+            "w5": "Indagini di mercato esclusive.",
+            "security": "Sicurezza dei Dati",
+            "s1": "Preveniamo accessi non autorizzati mettendo in atto procedure fisiche, elettroniche e aziendali.",
+            "links": "Collegamenti verso siti terzi",
+            "l1": "Il nostro sito web può contenere link a siti terzi di cui noi non abbiamo giurisdizione ai fini della privacy.",
+            "personal": "Dati Personali",
+            "p_collect": "Cosa Raccogliamo",
+            "p_collect_1": "Raccogliamo nel sito:",
+            "p_collect_2": "nome completo",
+            "p_collect_3": "contatti, tra cui l'email",
+            "p_collect_4": "dati anagrafici per la localizzazione base",
+            "p_collect_5": "altri dati per completare l'offerta e sconti",
+            "cookies": "I Cookies",
+            "cookies_h": "Come usiamo i cookies",
+            "cookies_1": "Un file utile e passivo che ci permette un tracciamento leggero volto unicamente a garantire la funzionalità logica intera al sito."
+        },
+        "impressum": {
+            "title": "Impressum",
+            "company_name": "IZN Limited",
+            "registered_office": "Rae House, Dane Street, Bishop's Stortford, Hertfordshire, CM23 3BT, UK",
+            "company_number": "Company Number: 08141005 (UK)",
+            "contact": "Contatti",
+            "email": "Email: contact@wallbedking.co.uk",
+            "phone": "Telefono: +44 123 456 7890",
+            "represented_by": "Rappresentato Da",
+            "director": "Direttore Generale: Imre Zsolt Nagy",
+            "vat": "ID Fiscale (VAT)",
+            "vat_id": "GB138486383"
+        }
+    },
+    "coming_soon": {
+        "tag": "In Arrivo Terzo Trimestre 2025",
+        "title": "Area Sofa Modulare",
+        "desc": "Un kit professionale di divani pronti perfettamente combinabili ai frontali dei moduli a scomparsa. Dedicati ai rivenditori certificati europei B2B dal Q3."
+    }
+}

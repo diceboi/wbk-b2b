@@ -26,6 +26,9 @@ export default function Navbar({ dict, lang }) {
                         <Link href="/en" className={`nav-lang-item ${(!lang || lang === 'en') ? 'active' : ''}`}>English (EN)</Link>
                         <Link href="/de" className={`nav-lang-item ${lang === 'de' ? 'active' : ''}`}>Deutsch (DE)</Link>
                         <Link href="/fr" className={`nav-lang-item ${lang === 'fr' ? 'active' : ''}`}>Français (FR)</Link>
+                        <Link href="/es" className={`nav-lang-item ${lang === 'es' ? 'active' : ''}`}>Español (ES)</Link>
+                        <Link href="/pt" className={`nav-lang-item ${lang === 'pt' ? 'active' : ''}`}>Português (PT)</Link>
+                        <Link href="/it" className={`nav-lang-item ${lang === 'it' ? 'active' : ''}`}>Italiano (IT)</Link>
                     </div>
                 </div>
                 <a href="#apply" className="nav-cta">{dict.nav.apply}</a>

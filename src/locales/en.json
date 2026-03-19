@@ -410,5 +410,100 @@
     "tag": "Coming Q3 2025",
     "title": "Modular Sofa Range",
     "desc": "A complete, freestanding modular sofa system engineered specifically to integrate with our wall beds. Available to select retail partners."
+  },
+  "profession_popup": {
+    "title": "What is your profession?",
+    "btn_default": "Trade Partner",
+    "btn_interior_designer": "Interior Designer"
+  },
+  "profession_labels": {
+    "default": "Trade Partner",
+    "interior_designer": "Interior Designer"
+  },
+  "interior_designer": {
+    "hero": {
+      "h1": "Turn your designs into scalable, premium furniture — without compromise",
+      "sub": "We manufacture. You design. From one-off interiors to multi-unit developments.",
+      "proof": "Install a wall bed in your office or showroom and experience it in practice. Backed by our 90-day money-back guarantee — if it’s not the right fit, we’ll take it back.",
+      "btnApply": "Showcase one in your showroom — risk free",
+      "btnProfit": "See Your Profit Potential"
+    },
+    "opportunity": {
+      "title": "A manufacturing partner built around your work",
+      "p1": "Wall Bed King is a European manufacturer of premium wall bed mechanisms and furniture, with fully owned production, warehousing, and logistics across the UK and EU.",
+      "p2": "Everything we produce is manufactured in Europe, and we manage the entire process in-house — from mechanism engineering to finished furniture and delivery.",
+      "p3": "This means you get consistency, reliability, and full control — at any scale."
+    },
+    "benefits": {
+      "tag": "What we bring to the partnership",
+      "title": "More than a product — a complete system for your projects",
+      "sub": "From modular furniture to production and support — everything built to scale your work.",
+      "items": [
+        {
+          "title": "Modular wall bed system",
+          "desc": "This isn’t a single product — it’s a system. A growing range of wall beds, components, and configurations designed to work together seamlessly. You can combine, adapt, and evolve designs over time — creating new solutions from the same foundation."
+        },
+        {
+          "title": "Matching modular sofa system",
+          "desc": "Our upcoming modular sofa range is built on the same component logic — enabling you to design cohesive, space-efficient interiors across multiple products."
+        },
+        {
+          "title": "Custom mattresses — your brand included",
+          "desc": "We manufacture mattresses tailored to your specifications, with the option to include your own branding — elevating your final product and client experience."
+        },
+        {
+          "title": "Full in-house production",
+          "desc": "From mechanism engineering to finished furniture, everything is handled in our own facilities — ensuring consistency, quality, and reliable delivery at any scale."
+        },
+        {
+          "title": "From one unit to 1,000+",
+          "desc": "Whether you’re working on a single interior or a large development, your designs can be engineered once and reproduced consistently."
+        },
+        {
+          "title": "Test it in your own showroom",
+          "desc": "Install a unit, present it to clients, and see how it performs — backed by our 90-day money-back guarantee."
+        }
+      ]
+    },
+    "market": {
+      "title": "Who’s driving demand for space-saving design?",
+      "sub": "Your clients are already looking for smarter use of space — but often struggle to find solutions that meet both design and quality expectations. This is where you can offer something better.",
+      "cards": [
+        {
+          "title": "Homeowners",
+          "desc": "Turning spare rooms into dual-purpose home offices and guest bedrooms."
+        },
+        {
+          "title": "Airbnbs & Rentals",
+          "desc": "Increasing the sleeping capacity (and yield) of rental properties."
+        },
+        {
+          "title": "Hospitality & Hotels",
+          "desc": "Maximising room flexibility and guest capacity without compromising on design or comfort."
+        },
+        {
+          "title": "Loft & Garage Conversions",
+          "desc": "Maximising the utility of newly created spaces."
+        },
+        {
+          "title": "Campervans & Boats",
+          "desc": "Bespoke builders using our mechanisms for mobile living."
+        },
+        {
+          "title": "Tiny Home Builders",
+          "desc": "Integrating full-size beds into micro-living architectural projects."
+        }
+      ]
+    },
+    "stockist": {
+      "tag": "Become a stockist",
+      "title": "Become a stockist — and own your local market",
+      "p1": "If you have a showroom or physical space, you can become a Wall Bed King stockist — giving your clients the opportunity to see, experience, and understand the product in a real setting.",
+      "p2": "Display a unit, present it in your projects, and turn your space into a working sales tool.",
+      "p3": "We work with a limited number of partners in each region, meaning there may be an opportunity for territory exclusivity — helping you secure your position locally.",
+      "highlight": "Show it. Use it. Sell it.",
+      "secondary": "Start by installing a unit in your showroom — backed by our 90-day money-back guarantee.",
+      "btn": "Apply to become a stockist"
+    }
   }
 }

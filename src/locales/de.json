@@ -410,5 +410,100 @@
     "tag": "Erscheint Q3 2025",
     "title": "Modulares Sofasystem",
     "desc": "Ein komplettes, freistehendes modulares Sofasystem, das speziell für unsere Schrankbetten entwickelt wurde. Bald für ausgewählte Handelspartner verfügbar."
+  },
+  "profession_popup": {
+    "title": "Was ist Ihr Beruf?",
+    "btn_default": "Handelspartner",
+    "btn_interior_designer": "Innenarchitekt"
+  },
+  "profession_labels": {
+    "default": "Handelspartner",
+    "interior_designer": "Innenarchitekt"
+  },
+  "interior_designer": {
+    "hero": {
+      "h1": "Verwandeln Sie Ihre Designs in skalierbare Premium-Möbel — ohne Kompromisse",
+      "sub": "Wir fertigen. Sie entwerfen. Von individuellen Inneneinrichtungen bis hin zu Großprojekten.",
+      "proof": "Installieren Sie ein Schrankbett in Ihrem Büro oder Showroom und erleben Sie es in der Praxis. Abgesichert durch unsere 90-Tage-Geld-zurück-Garantie — wenn es nicht zu Ihnen passt, nehmen wir es zurück.",
+      "btnApply": "Risikofrei im eigenen Showroom ausstellen",
+      "btnProfit": "Gewinnpotenzial testen"
+    },
+    "opportunity": {
+      "title": "Ein Fertigungspartner, der auf Ihre Arbeit zugeschnitten ist",
+      "p1": "Wall Bed King ist ein europäischer Hersteller von Premium-Schrankbettmechanismen und -möbeln mit eigener Produktion, Lagerung und Logistik in Großbritannien und der EU.",
+      "p2": "Alles, was wir produzieren, wird in Europa hergestellt, und wir verwalten den gesamten Prozess intern — von der Entwicklung des Beschlags bis zum fertigen Möbelstück und der Lieferung.",
+      "p3": "Das bedeutet für Sie Konsistenz, Zuverlässigkeit und volle Kontrolle — in jeder Größenordnung."
+    },
+    "benefits": {
+      "tag": "Was wir in die Partnerschaft einbringen",
+      "title": "Mehr als ein Produkt — ein komplettes System für Ihre Projekte",
+      "sub": "Von modularen Möbeln bis hin zu Produktion und Support — alles darauf ausgelegt, Ihre Arbeit zu skalieren.",
+      "items": [
+        {
+          "title": "Modulares Schrankbettsystem",
+          "desc": "Dies ist kein einzelnes Produkt — es ist ein System. Ein wachsendes Sortiment an Schrankbetten, Komponenten und Konfigurationen, die nahtlos zusammenarbeiten. Sie können Designs im Laufe der Zeit kombinieren, anpassen und weiterentwickeln — und so neue Lösungen auf derselben Basis schaffen."
+        },
+        {
+          "title": "Passendes modulares Sofasystem",
+          "desc": "Unser angekündigtes modulares Sofasortiment baut auf derselben Komponentenlogik auf — so können Sie zusammenhängende, platzsparende Einrichtungskonzepte über mehrere Produkte hinweg gestalten."
+        },
+        {
+          "title": "Maßgeschneiderte Matratzen — Ihr Branding inklusive",
+          "desc": "Wir fertigen Matratzen nach Ihren Spezifikationen, mit der Möglichkeit, Ihr eigenes Branding hinzuzufügen — was Ihr Endprodukt und das Kundenerlebnis aufwertet."
+        },
+        {
+          "title": "Eigene Komplettfertigung",
+          "desc": "Von der Beschlagentwicklung bis zum fertigen Möbel wird alles in unseren eigenen Anlagen abgewickelt — was Konsistenz, Qualität und zuverlässige Lieferung in jeder Größenordnung gewährleistet."
+        },
+        {
+          "title": "Von einem Stück bis 1.000+",
+          "desc": "Egal, ob Sie an einer einzelnen Einrichtung oder an einem Großprojekt arbeiten, Ihre Entwürfe können einmal konstruiert und konstant reproduziert werden."
+        },
+        {
+          "title": "Risikofrei im eigenen Showroom testen",
+          "desc": "Installieren Sie ein Muster, präsentieren Sie es Ihren Kunden und sehen Sie, wie es wirkt — abgesichert durch unsere 90-Tage-Geld-zurück-Garantie."
+        }
+      ]
+    },
+    "market": {
+      "title": "Wer treibt die Nachfrage nach platzsparendem Design an?",
+      "sub": "Ihre Kunden suchen bereits nach intelligenteren Raumnutzungslösungen — haben jedoch oft Mühe, Optionen zu finden, die sowohl Design- als auch Qualitätsansprüche erfüllen. Hier können Sie etwas Besseres anbieten.",
+      "cards": [
+        {
+          "title": "Privatkunden",
+          "desc": "Verwandeln freie Zimmer in vielseitig nutzbare Home-Offices und Gästezimmer."
+        },
+        {
+          "title": "Airbnbs & Mietobjekte",
+          "desc": "Erhöhen die Schlafkapazität (und den Ertrag) von Mietobjekten."
+        },
+        {
+          "title": "Hotellerie & Gastgewerbe",
+          "desc": "Maximierung der Raumflexibilität und Gästekapazität ohne Kompromisse bei Design oder Komfort."
+        },
+        {
+          "title": "Umbauten & Renovierungen",
+          "desc": "Maximieren den Nutzen neu geschaffener Räume."
+        },
+        {
+          "title": "Wohnmobile & Boote",
+          "desc": "Maßgeschneiderte Fahrzeugbauer nutzen unsere Mechanismen für mobiles Wohnen."
+        },
+        {
+          "title": "Tiny Houses",
+          "desc": "Integration vollwertiger Betten in Mikro-Wohnarchitekturprojekte."
+        }
+      ]
+    },
+    "stockist": {
+      "tag": "Werden Sie Partner",
+      "title": "Werden Sie Fachhändler — und erobern Sie Ihren lokalen Markt",
+      "p1": "Wenn Sie einen Showroom oder Geschäftsräumlichkeiten haben, können Sie Wall Bed King-Händler werden — und Ihren Kunden die Möglichkeit geben, das Produkt in einer realen Umgebung zu sehen, zu erleben und zu verstehen.",
+      "p2": "Stellen Sie ein Bett aus, integrieren Sie es in Ihre Projekte und machen Sie Ihre Räumlichkeiten zu einem echten Verkaufsinstrument.",
+      "p3": "Wir arbeiten in jeder Region nur mit einer begrenzten Anzahl von Partnern zusammen. Das bedeutet, dass es Möglichkeiten für exklusiven Gebietsschutz gibt — um Ihre Position vor Ort zu sichern.",
+      "highlight": "Zeigen Sie es. Nutzen Sie es. Verkaufen Sie es.",
+      "secondary": "Beginnen Sie mit der Installation eines Bettes in Ihrem Showroom — abgesichert durch unsere 90-Tage-Geld-zurück-Garantie.",
+      "btn": "Als Handelspartner bewerben"
+    }
   }
 }

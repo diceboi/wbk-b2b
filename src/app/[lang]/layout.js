@@ -11,6 +11,7 @@ export const metadata = {
 import { getDictionary } from "../../dictionaries";
 import CookieBanner from "../../components/CookieBanner";
 import { FacebookPixel } from "../../components/FacebookPixel";
+import { ProfessionProvider } from "../../components/ProfessionContext";
 
 import Script from "next/script";
 
@@ -26,8 +27,10 @@ export default async function RootLayout(props) {
         <FacebookPixel />
       </head>
       <body className={inter.className}>
-        {children}
-        <CookieBanner dict={dict} />
+        <ProfessionProvider>
+          {children}
+          <CookieBanner dict={dict} />
+        </ProfessionProvider>
       </body>
     </html>
   );

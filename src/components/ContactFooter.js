@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function ContactFooter({ dict, lang }) {
   return (
     <>
@@ -13,11 +15,11 @@ export default function ContactFooter({ dict, lang }) {
         <div className="footer-inner">
           <div>{dict.footer.copyright}</div>
           <div className="footer-links">
-            <a href={lang ? `/${lang}/privacy` : "/privacy"} className="footer-link" style={{ color: '#888', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.privacy}</a>
+            <a href={lang ? `/${lang}/privacy` : "/privacy"} className="footer-link" style={{ color: '#fff', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.privacy}</a>
             <span className="footer-separator" style={{ color: '#ccc' }}>|</span>
-            <a href={lang ? `/${lang}/impressum` : "/impressum"} className="footer-link" style={{ color: '#888', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.impressum}</a>
+            <a href={lang ? `/${lang}/impressum` : "/impressum"} className="footer-link" style={{ color: '#fff', textDecoration: 'none', transition: 'color 0.2s' }}>{dict.footer.impressum}</a>
             <span className="footer-separator" style={{ color: '#ccc' }}>|</span>
-            <span>wallbedking.com</span>
+            <Link href="https://wallbedking.com" target="_blank" className="footer-link" style={{ color: '#fff', textDecoration: 'none', transition: 'color 0.2s' }}>wallbedking.com</Link>
           </div>
         </div>
       </footer>

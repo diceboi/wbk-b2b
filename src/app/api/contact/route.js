@@ -1,4 +1,5 @@
 import nodemailer from "nodemailer";
+import { google } from "googleapis";
 
 export async function POST(request) {
   try {
@@ -31,6 +32,43 @@ export async function POST(request) {
         <p><small>This email was sent via the B2B contact form.</small></p>
       `,
     });
+
+    // Google Sheets mentés
+    try {
+      const auth = new google.auth.GoogleAuth({
+        credentials: {
+          client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+          // A .env fájlban lévő \n karaktereket igazi sortörésekké kell alakítani
+          private_key: process.env.GOOGLE_PRIVATE_KEY?.replace(/\\n/g, "\n"),
+        },
+        scopes: ["https://www.googleapis.com/auth/spreadsheets"],
+      });
+
+      const sheets = google.sheets({ version: "v4", auth });
+
+      await sheets.spreadsheets.values.append({
+        spreadsheetId: process.env.GOOGLE_SPREADSHEET_ID,
+        range: "A1", // A táblázat első oszlopától kezdve keresse meg az első üres sort
+        valueInputOption: "USER_ENTERED",
+        requestBody: {
+          values: [
+            [
+              new Date().toLocaleString("hu-HU"), // Dátum
+              name,
+              company,
+              email,
+              phone || "-",
+              type,
+              location,
+              message || "-"
+            ],
+          ],
+        },
+      });
+    } catch (sheetError) {
+      console.error("Google Sheets hiba:", sheetError);
+      // Ha a táblázatba mentés sikertelen, attól még az email elment, így nem dobunk 500-as hibát a usernek.
+    }
 
     return new Response(JSON.stringify({ success: true }), {
       status: 200,

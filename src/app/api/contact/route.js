@@ -4,7 +4,17 @@ import { google } from "googleapis";
 export async function POST(request) {
   try {
     const data = await request.json();
-    const { name, company, email, phone, type, location, message } = data;
+    const { name, company, email, phone, type, location, message, lang } = data;
+
+    const langMap = {
+      'en': 'English',
+      'fr': 'France',
+      'de': 'German',
+      'es': 'Spanish',
+      'it': 'Italian',
+      'pt': 'Portuguese'
+    };
+    const sheetName = lang ? (langMap[lang] || 'English') : 'English';
 
     const transporter = nodemailer.createTransport({
       service: "gmail",
@@ -48,7 +58,7 @@ export async function POST(request) {
 
       await sheets.spreadsheets.values.append({
         spreadsheetId: process.env.GOOGLE_SPREADSHEET_ID,
-        range: "A1", // A táblázat első oszlopától kezdve keresse meg az első üres sort
+        range: `${sheetName}!A1`, // append to the specific sheet
         valueInputOption: "USER_ENTERED",
         requestBody: {
           values: [

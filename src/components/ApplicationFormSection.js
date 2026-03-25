@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export default function ApplicationFormSection({ dict }) {
+export default function ApplicationFormSection({ dict, lang }) {
   const [selectedType, setSelectedType] = useState("");
   const [formSubmitted, setFormSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -36,6 +36,7 @@ export default function ApplicationFormSection({ dict }) {
           type: selectedType,
           location: flocation,
           message: fmessage,
+          lang: lang || 'en',
         }),
       });
 

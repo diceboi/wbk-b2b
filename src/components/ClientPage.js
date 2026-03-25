@@ -49,7 +49,7 @@ export default function ClientPage({ baseDict, lang }) {
       <MarketOpportunitySection dict={dict} />
       <StockistSection dict={dict} />
       <ComingSoonSection dict={dict} />
-      <ApplicationFormSection dict={dict} />
+      <ApplicationFormSection dict={dict} lang={lang} />
       <ContactFooter dict={dict} lang={lang} />
       <ProfessionPopup dict={dict} />
     </>

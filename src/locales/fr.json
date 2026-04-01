@@ -414,11 +414,13 @@
   "profession_popup": {
     "title": "Quelle est votre profession ?",
     "btn_default": "Partenaire commercial",
-    "btn_interior_designer": "Architecte d'intérieur"
+    "btn_interior_designer": "Architecte d'intérieur",
+    "btn_influencer": "Influenceur"
   },
   "profession_labels": {
     "default": "Partenaire commercial",
-    "interior_designer": "Architecte d'intérieur"
+    "interior_designer": "Architecte d'intérieur",
+    "influencer": "Influenceur"
   },
   "interior_designer": {
     "hero": {
@@ -504,6 +506,125 @@
       "highlight": "Montrez-le. Utilisez-le. Vendez-le.",
       "secondary": "Commencez par installer une unité dans votre showroom — avec notre garantie satisfait ou remboursé de 90 jours.",
       "btn": "Postuler pour devenir revendeur"
+    }
+  },
+  "influencer": {
+    "hero": {
+      "badge": "Nous recherchons des créateurs en France pour donner vie à un habitat intelligent et optimisé.",
+      "h1": "Créez du contenu home d'exception.",
+      "sub": "Développez votre audience + gagnez de l'argent avec nous. Gardez le produit. Soyez payé.",
+      "proof": "",
+      "btnApply": "Postuler maintenant",
+      "btnProfit": ""
+    },
+    "opportunity": {
+      "title": "Ce que nous recherchons",
+      "p1": "Nous recherchons actuellement des créateurs qui :",
+      "list": [
+        "Vivent en France ou dans un pays francophone",
+        "Créent du contenu autour de la maison, du lifestyle, de la déco, de la rénovation ou du smart living",
+        "Sont à l'aise pour raconter une histoire devant la caméra",
+        "Savent produire du contenu propre, engageant et de haute qualité",
+        "Vivent dans un espace qui bénéficierait réellement d'une solution gain de place"
+      ],
+      "p3": ""
+    },
+    "benefits": {
+      "tag": "L'opportunité",
+      "title": "Ce que vous recevez",
+      "sub": "",
+      "items": [
+        {
+          "title": "🛏 Un lit escamotable premium pour votre espace",
+          "desc": "Un système de lit escamotable design et haut de gamme qui transforme la fonctionnalité de votre pièce."
+        },
+        {
+          "title": "💸 Opportunités de collaboration rémunérées",
+          "desc": "Selon la campagne, nous proposons du contenu payé, une commission, ou les deux."
+        },
+        {
+          "title": "🎥 Fort potentiel de contenu",
+          "desc": "Parfait pour les avant/après, les relookings de pièces, le contenu lifestyle et le storytelling smart living."
+        },
+        {
+          "title": "🤝 Le soutien de notre équipe",
+          "desc": "Nous vous accompagnons tout au long du processus pour une collaboration fluide et réussie."
+        }
+      ]
+    },
+    "market": {
+      "title": "Pourquoi cette campagne fonctionne si bien pour les créateurs",
+      "sub": "Les lits escamotables font partie de ces rares produits à la fois visuellement impressionnants et véritablement utiles. Cela signifie que votre contenu peut naturellement inclure :",
+      "cards": [
+        {
+          "title": "Transformations de pièces",
+          "desc": "Montrez l'espace avant et après le lit escamotable."
+        },
+        {
+          "title": "Home styling",
+          "desc": "Aménager la pièce avec du mobilier gain de place."
+        },
+        {
+          "title": "Habitat multifonctionnel",
+          "desc": "Démontrer la pièce à usages multiples."
+        },
+        {
+          "title": "Solutions petits espaces",
+          "desc": "Parfait pour maximiser chaque mètre carré."
+        },
+        {
+          "title": "Résolution de problèmes réels",
+          "desc": "Des solutions dont votre audience a vraiment besoin."
+        }
+      ],
+      "tag": "En d'autres termes : du contenu que votre audience veut vraiment voir."
+    },
+    "who": {
+      "title": "Quelques points à garder en tête",
+      "tabs": [
+        "Conditions"
+      ],
+      "joiners": {
+        "p1": "Nous recherchons des créateurs dont l'audience et le style correspondent naturellement à la marque.",
+        "p2": "S'agissant d'une collaboration basée sur un produit, les espaces seront examinés avant la sélection pour s'assurer que la campagne convient aux deux parties. Les places sont limitées.",
+        "subtitle": "",
+        "items": []
+      },
+      "btn": "Postuler pour collaborer",
+      "tag": "Détails importants",
+      "cta1": "Postuler maintenant",
+      "cta2": "",
+      "cta3": ""
+    },
+    "apply": {
+      "title": "Postulez pour collaborer avec WallBedKing",
+      "sub": "Parlez-nous un peu de vous et de votre contenu.",
+      "labels": {
+        "name": "Nom complet",
+        "email": "Adresse e-mail",
+        "socialLinks": "Liens Instagram / TikTok / YouTube",
+        "country": "Où êtes-vous basé(e) ?",
+        "contentInfo": "Parlez-nous de votre contenu",
+        "fitReason": "Pourquoi WallBedKing serait-il un bon choix pour votre espace ?",
+        "roomTransformation": "Avez-vous une pièce en tête pour la transformation ?",
+        "interest": "Vous êtes intéressé(e) par :"
+      },
+      "placeholders": {
+        "name": "Marie Dupont",
+        "email": "marie@exemple.fr",
+        "socialLinks": "Liens vers vos profils",
+        "country": "ex. Paris, France",
+        "contentInfo": "Décrivez brièvement votre niche et votre audience",
+        "fitReason": "Pourquoi notre produit ?",
+        "roomTransformation": "Quelle pièce a besoin d'un lit escamotable ?"
+      },
+      "btn": "Envoyer la candidature",
+      "btnSubmitting": "Envoi en cours...",
+      "note": "",
+      "errorFill": "Veuillez remplir tous les champs obligatoires.",
+      "errorGen": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+      "successTitle": "Candidature reçue",
+      "successDesc": "Merci ! Nous examinerons votre candidature et votre espace. Nous vous recontacterons !"
     }
   }
 }

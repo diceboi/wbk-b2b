@@ -79,6 +79,29 @@ export default function ProfessionPopup({ dict }) {
           >
             {dict.profession_popup?.btn_interior_designer || "Interior Designer"}
           </button>
+          <button 
+            className="profession-popup-btn"
+            onClick={() => changeProfession('influencer')}
+            style={{
+              background: 'transparent',
+              border: '2px solid rgba(255,255,255,0.2)',
+              color: '#fff',
+              padding: '16px',
+              borderRadius: '12px',
+              fontSize: '18px',
+              fontWeight: '600',
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '12px',
+              transition: 'all 0.2s ease'
+            }}
+            onMouseOver={(e) => { e.currentTarget.style.borderColor = '#e94560'; e.currentTarget.style.background = 'rgba(233,69,96,0.1)'; }}
+            onMouseOut={(e) => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.2)'; e.currentTarget.style.background = 'transparent'; }}
+          >
+            {dict.profession_popup?.btn_influencer || "Influencer"}
+          </button>
         </div>
       </div>
     </div>

@@ -407,11 +407,13 @@
   "profession_popup": {
     "title": "Qual é a sua profissão?",
     "btn_default": "Parceiro comercial",
-    "btn_interior_designer": "Designer de Interiores"
+    "btn_interior_designer": "Designer de Interiores",
+    "btn_influencer": "Influenciador"
   },
   "profession_labels": {
     "default": "Parceiro comercial",
-    "interior_designer": "Designer de Interiores"
+    "interior_designer": "Designer de Interiores",
+    "influencer": "Influenciador"
   },
   "interior_designer": {
     "hero": {
@@ -497,6 +499,125 @@
       "highlight": "Mostre. Use. Venda.",
       "secondary": "Comece agora com a instalação de uma unidade apoiado pela nossa política de 90 dias de reembolso.",
       "btn": "Inscrever-se como revendedor"
+    }
+  },
+  "influencer": {
+    "hero": {
+      "badge": "Procuramos criadores em Portugal para dar vida ao lar inteligente e otimizado.",
+      "h1": "Crie conteúdo home de excelência.",
+      "sub": "Cresça a sua audiência + ganhe dinheiro connosco. Fique com o produto. Seja pago.",
+      "proof": "",
+      "btnApply": "Candidatar-se agora",
+      "btnProfit": ""
+    },
+    "opportunity": {
+      "title": "O que procuramos",
+      "p1": "Procuramos atualmente criadores que:",
+      "list": [
+        "Residam em Portugal ou no Brasil",
+        "Criem conteúdo sobre casa, lifestyle, decoração, renovação ou smart living",
+        "Se sintam confortáveis a contar histórias em câmara",
+        "Consigam criar conteúdo limpo, cativante e de alta qualidade",
+        "Vivam num espaço que beneficiaria genuinamente de uma transformação para poupar espaço"
+      ],
+      "p3": ""
+    },
+    "benefits": {
+      "tag": "A oportunidade",
+      "title": "O que vai receber",
+      "sub": "",
+      "items": [
+        {
+          "title": "🛏 Uma cama oculta premium para o seu espaço",
+          "desc": "Um sistema de cama oculta de alta qualidade e design que transforma a funcionalidade do seu quarto."
+        },
+        {
+          "title": "💸 Oportunidades de colaboração remuneradas",
+          "desc": "Dependendo da campanha, oferecemos conteúdo pago, comissão, ou ambos."
+        },
+        {
+          "title": "🎥 Grande potencial de conteúdo",
+          "desc": "Perfeito para antes/depois, makeovers de divisões, conteúdo lifestyle e storytelling de smart living."
+        },
+        {
+          "title": "🤝 Apoio da nossa equipa",
+          "desc": "Vamos guiá-lo ao longo de todo o processo para uma colaboração fluida e bem-sucedida."
+        }
+      ]
+    },
+    "market": {
+      "title": "Porque é que esta campanha funciona tão bem para criadores",
+      "sub": "As camas ocultas são um daqueles produtos raros que são visualmente impressionantes e genuinamente úteis. Isso significa que o seu conteúdo pode naturalmente incluir:",
+      "cards": [
+        {
+          "title": "Transformações de divisões",
+          "desc": "Mostre o espaço antes e depois da cama oculta."
+        },
+        {
+          "title": "Home styling",
+          "desc": "Decorar a divisão com móveis que poupam espaço."
+        },
+        {
+          "title": "Vida multifuncional",
+          "desc": "Demonstre a divisão de usos múltiplos."
+        },
+        {
+          "title": "Soluções para espaços pequenos",
+          "desc": "Perfeito para maximizar a utilidade."
+        },
+        {
+          "title": "Resolução de problemas reais",
+          "desc": "Soluções de que a sua audiência precisa."
+        }
+      ],
+      "tag": "Por outras palavras: conteúdo que a sua audiência realmente quer ver."
+    },
+    "who": {
+      "title": "Alguns aspetos a ter em conta",
+      "tabs": [
+        "Requisitos"
+      ],
+      "joiners": {
+        "p1": "Procuramos criadores cuja audiência e estilo combinem naturalmente com a marca.",
+        "p2": "Sendo uma colaboração baseada num produto, os espaços serão analisados antes da seleção para garantir que a campanha é adequada para ambas as partes. Os lugares são limitados.",
+        "subtitle": "",
+        "items": []
+      },
+      "btn": "Candidatar-se para colaborar",
+      "tag": "Detalhes importantes",
+      "cta1": "Candidatar-se agora",
+      "cta2": "",
+      "cta3": ""
+    },
+    "apply": {
+      "title": "Candidate-se para colaborar com a WallBedKing",
+      "sub": "Conte-nos um pouco sobre si e o seu conteúdo.",
+      "labels": {
+        "name": "Nome completo",
+        "email": "Endereço de e-mail",
+        "socialLinks": "Links do Instagram / TikTok / YouTube",
+        "country": "Onde está localizado/a?",
+        "contentInfo": "Conte-nos sobre o seu conteúdo",
+        "fitReason": "Porque é que a WallBedKing seria uma boa escolha para o seu espaço?",
+        "roomTransformation": "Tem uma divisão em mente para a transformação?",
+        "interest": "Está interessado/a em:"
+      },
+      "placeholders": {
+        "name": "Maria Silva",
+        "email": "maria@exemplo.pt",
+        "socialLinks": "Links para os seus perfis",
+        "country": "ex. Lisboa, Portugal",
+        "contentInfo": "Descreva brevemente o seu nicho e audiência",
+        "fitReason": "Porquê o nosso produto?",
+        "roomTransformation": "Que divisão precisa de uma cama oculta?"
+      },
+      "btn": "Enviar candidatura",
+      "btnSubmitting": "A enviar...",
+      "note": "",
+      "errorFill": "Por favor, preencha todos os campos obrigatórios.",
+      "errorGen": "Ocorreu um erro. Por favor, tente novamente mais tarde.",
+      "successTitle": "Candidatura recebida",
+      "successDesc": "Obrigado! Vamos analisar a sua candidatura e o seu espaço. Entraremos em contacto!"
     }
   }
 }

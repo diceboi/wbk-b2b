@@ -11,7 +11,7 @@ export default function HeroSection({ dict }) {
           <p className="hero-proof" dangerouslySetInnerHTML={{ __html: dict.hero.proof }}></p>
           <div className="hero-btns">
             <a href="#apply" className="btn-primary">{dict.hero.btnApply}</a>
-            <a href="#profit" className="btn-secondary">{dict.hero.btnProfit}</a>
+            {dict.hero.btnProfit && <a href="#profit" className="btn-secondary">{dict.hero.btnProfit}</a>}
           </div>
         </div>
       </section>

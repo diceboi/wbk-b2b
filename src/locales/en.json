@@ -414,11 +414,13 @@
   "profession_popup": {
     "title": "What is your profession?",
     "btn_default": "Trade Partner",
-    "btn_interior_designer": "Interior Designer"
+    "btn_interior_designer": "Interior Designer",
+    "btn_influencer": "Influencer"
   },
   "profession_labels": {
     "default": "Trade Partner",
-    "interior_designer": "Interior Designer"
+    "interior_designer": "Interior Designer",
+    "influencer": "Influencer"
   },
   "interior_designer": {
     "hero": {
@@ -504,6 +506,125 @@
       "highlight": "Show it. Use it. Sell it.",
       "secondary": "Start by installing a unit in your showroom — backed by our 90-day money-back guarantee.",
       "btn": "Apply to become a stockist"
+    }
+  },
+  "influencer": {
+    "hero": {
+      "badge": "We're looking for UK creators to bring smart, space-saving living to life.",
+      "h1": "Create standout home content.",
+      "sub": "Grow your audience + earn money with us. Keep the product. Get paid.",
+      "proof": "",
+      "btnApply": "Apply Now",
+      "btnProfit": ""
+    },
+    "opportunity": {
+      "title": "What we're looking for",
+      "p1": "We're currently looking for creators who are:",
+      "list": [
+        "Based in the UK",
+        "Creating content around home, lifestyle, interiors, renovation, or smart living",
+        "Comfortable telling a story on camera",
+        "Able to create clean, engaging, high-quality content",
+        "Living in a space that could genuinely benefit from a space-saving transformation"
+      ],
+      "p3": ""
+    },
+    "benefits": {
+      "tag": "The opportunity",
+      "title": "What you'll get",
+      "sub": "",
+      "items": [
+        {
+          "title": "🛏 A premium wall bed for your space",
+          "desc": "A high-quality, design-led wall bed system that transforms how your room functions."
+        },
+        {
+          "title": "💸 Paid collaboration opportunities",
+          "desc": "Depending on the campaign, we may offer paid content, commission, or both."
+        },
+        {
+          "title": "🎥 Strong content potential",
+          "desc": "Perfect for before/after reveals, room makeovers, lifestyle content, and smart living storytelling."
+        },
+        {
+          "title": "🤝 Support from our team",
+          "desc": "We'll guide you through the process and help make the collaboration smooth and successful."
+        }
+      ]
+    },
+    "market": {
+      "title": "Why this campaign works so well for creators",
+      "sub": "Wall beds are one of those rare products that are both visually impressive and genuinely useful. That means your content can naturally include:",
+      "cards": [
+        {
+          "title": "Room transformations",
+          "desc": "Show the space before and after the wall bed."
+        },
+        {
+          "title": "Home styling",
+          "desc": "Styling the room with space-saving furniture."
+        },
+        {
+          "title": "Multifunctional living",
+          "desc": "Demonstrate the multi-use room."
+        },
+        {
+          "title": "Small-space solutions",
+          "desc": "Perfect for maximizing utility."
+        },
+        {
+          "title": "Real-life problem solving",
+          "desc": "Solutions your audience needs."
+        }
+      ],
+      "tag": "In other words: content your audience actually wants to watch."
+    },
+    "who": {
+      "title": "A few things to keep in mind",
+      "tabs": [
+        "Requirements"
+      ],
+      "joiners": {
+        "p1": "We're looking for creators whose audience and style feel like a strong fit for the brand.",
+        "p2": "Because this is a product-based collaboration, spaces will be reviewed before selection to make sure the campaign is right for both sides. Spots are limited.",
+        "subtitle": "",
+        "items": []
+      },
+      "btn": "Apply to Collaborate",
+      "tag": "Important details",
+      "cta1": "Apply Now",
+      "cta2": "",
+      "cta3": ""
+    },
+    "apply": {
+      "title": "Apply to collaborate with WallBedKing",
+      "sub": "Please tell us a little about yourself and your content.",
+      "labels": {
+        "name": "Full name",
+        "email": "Email address",
+        "socialLinks": "Instagram / TikTok / YouTube links",
+        "country": "Where are you based?",
+        "contentInfo": "Tell us about your content",
+        "fitReason": "Why would WallBedKing be a good fit for your space?",
+        "roomTransformation": "Do you have a room in mind for the transformation?",
+        "interest": "Are you interested in:"
+      },
+      "placeholders": {
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "socialLinks": "Links to your profiles",
+        "country": "e.g. London, UK",
+        "contentInfo": "Briefly describe your niche and audience",
+        "fitReason": "Why our product?",
+        "roomTransformation": "Which room needs a wall bed?"
+      },
+      "btn": "Submit Application",
+      "btnSubmitting": "Submitting...",
+      "note": "",
+      "errorFill": "Please fill out all required fields.",
+      "errorGen": "An error occurred. Please try again later.",
+      "successTitle": "Application Received",
+      "successDesc": "Thank you! We'll review your application and space. We'll be in touch!"
     }
   }
 }

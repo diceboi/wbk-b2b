@@ -414,11 +414,13 @@
   "profession_popup": {
     "title": "Was ist Ihr Beruf?",
     "btn_default": "Handelspartner",
-    "btn_interior_designer": "Innenarchitekt"
+    "btn_interior_designer": "Innenarchitekt",
+    "btn_influencer": "Influencer"
   },
   "profession_labels": {
     "default": "Handelspartner",
-    "interior_designer": "Innenarchitekt"
+    "interior_designer": "Innenarchitekt",
+    "influencer": "Influencer"
   },
   "interior_designer": {
     "hero": {
@@ -504,6 +506,125 @@
       "highlight": "Zeigen Sie es. Nutzen Sie es. Verkaufen Sie es.",
       "secondary": "Beginnen Sie mit der Installation eines Bettes in Ihrem Showroom — abgesichert durch unsere 90-Tage-Geld-zurück-Garantie.",
       "btn": "Als Handelspartner bewerben"
+    }
+  },
+  "influencer": {
+    "hero": {
+      "badge": "Wir suchen Content-Creator aus der DACH-Region, die smartes, platzsparendes Wohnen zum Leben erwecken.",
+      "h1": "Erstelle einzigartigen Home-Content.",
+      "sub": "Vergrößere deine Reichweite + verdiene Geld mit uns. Behalte das Produkt. Werde bezahlt.",
+      "proof": "",
+      "btnApply": "Jetzt bewerben",
+      "btnProfit": ""
+    },
+    "opportunity": {
+      "title": "Wen wir suchen",
+      "p1": "Wir suchen aktuell Creator, die:",
+      "list": [
+        "In Deutschland, Österreich oder der Schweiz leben",
+        "Content zu Home, Lifestyle, Einrichtung, Renovierung oder smartem Wohnen erstellen",
+        "Sich wohlfühlen, vor der Kamera Geschichten zu erzählen",
+        "Sauberen, ansprechenden, hochwertigen Content produzieren können",
+        "In einem Raum leben, der wirklich von einer platzsparenden Lösung profitieren würde"
+      ],
+      "p3": ""
+    },
+    "benefits": {
+      "tag": "Die Möglichkeit",
+      "title": "Was du bekommst",
+      "sub": "",
+      "items": [
+        {
+          "title": "🛏 Ein Premium-Schrankbett für deinen Raum",
+          "desc": "Ein hochwertiges, designorientiertes Schrankbettsystem, das die Funktion deines Raumes transformiert."
+        },
+        {
+          "title": "💸 Bezahlte Kooperationsmöglichkeiten",
+          "desc": "Je nach Kampagne bieten wir bezahlten Content, Provision oder beides an."
+        },
+        {
+          "title": "🎥 Starkes Content-Potenzial",
+          "desc": "Perfekt für Vorher/Nachher-Videos, Raum-Makeovers, Lifestyle-Content und Smart-Living-Storytelling."
+        },
+        {
+          "title": "🤝 Unterstützung von unserem Team",
+          "desc": "Wir begleiten dich durch den gesamten Prozess und sorgen für eine reibungslose und erfolgreiche Zusammenarbeit."
+        }
+      ]
+    },
+    "market": {
+      "title": "Warum diese Kampagne so gut für Creator funktioniert",
+      "sub": "Schrankbetten gehören zu den seltenen Produkten, die sowohl visuell beeindruckend als auch wirklich nützlich sind. Das bedeutet, dein Content kann ganz natürlich folgendes beinhalten:",
+      "cards": [
+        {
+          "title": "Raum-Transformationen",
+          "desc": "Zeige den Raum vorher und nachher mit dem Schrankbett."
+        },
+        {
+          "title": "Home-Styling",
+          "desc": "Den Raum mit platzsparenden Möbeln gestalten."
+        },
+        {
+          "title": "Multifunktionales Wohnen",
+          "desc": "Den vielseitigen Raum in Aktion zeigen."
+        },
+        {
+          "title": "Kleine-Räume-Lösungen",
+          "desc": "Perfekt um den Nutzen zu maximieren."
+        },
+        {
+          "title": "Echte Problemlösungen",
+          "desc": "Lösungen, die dein Publikum wirklich braucht."
+        }
+      ],
+      "tag": "Mit anderen Worten: Content, den dein Publikum wirklich sehen will."
+    },
+    "who": {
+      "title": "Ein paar Dinge, die du beachten solltest",
+      "tabs": [
+        "Anforderungen"
+      ],
+      "joiners": {
+        "p1": "Wir suchen Creator, deren Publikum und Stil gut zur Marke passen.",
+        "p2": "Da es sich um eine produktbasierte Kooperation handelt, werden die Räume vor der Auswahl geprüft, um sicherzustellen, dass die Kampagne für beide Seiten passt. Die Plätze sind begrenzt.",
+        "subtitle": "",
+        "items": []
+      },
+      "btn": "Jetzt bewerben",
+      "tag": "Wichtige Details",
+      "cta1": "Jetzt bewerben",
+      "cta2": "",
+      "cta3": ""
+    },
+    "apply": {
+      "title": "Bewirb dich für eine Zusammenarbeit mit WallBedKing",
+      "sub": "Erzähl uns ein wenig über dich und deinen Content.",
+      "labels": {
+        "name": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "socialLinks": "Instagram / TikTok / YouTube Links",
+        "country": "Wo bist du ansässig?",
+        "contentInfo": "Erzähl uns von deinem Content",
+        "fitReason": "Warum passt WallBedKing gut zu deinem Raum?",
+        "roomTransformation": "Hast du einen Raum für die Verwandlung im Sinn?",
+        "interest": "Woran bist du interessiert:"
+      },
+      "placeholders": {
+        "name": "Max Mustermann",
+        "email": "max@beispiel.de",
+        "socialLinks": "Links zu deinen Profilen",
+        "country": "z.B. Berlin, Deutschland",
+        "contentInfo": "Beschreibe kurz deine Nische und dein Publikum",
+        "fitReason": "Warum unser Produkt?",
+        "roomTransformation": "Welcher Raum braucht ein Schrankbett?"
+      },
+      "btn": "Bewerbung absenden",
+      "btnSubmitting": "Wird gesendet...",
+      "note": "",
+      "errorFill": "Bitte fülle alle erforderlichen Felder aus.",
+      "errorGen": "Ein Fehler ist aufgetreten. Bitte versuche es später erneut.",
+      "successTitle": "Bewerbung eingegangen",
+      "successDesc": "Vielen Dank! Wir prüfen deine Bewerbung und deinen Raum. Wir melden uns bei dir!"
     }
   }
 }

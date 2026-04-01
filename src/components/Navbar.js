@@ -16,10 +16,20 @@ export default function Navbar({ dict, lang }) {
                 </div>
             </div>
             <div className="nav-links">
-                <a href="#why">{dict.nav.why}</a>
-                <a href="#profit">{dict.nav.profit}</a>
-                <a href="#products">{dict.nav.products}</a>
-                <a href="#how-it-works">{dict.nav.how}</a>
+                {profession === 'influencer' ? (
+                    <>
+                        <a href="#why">{dict.why?.tag || 'The Opportunity'}</a>
+                        <a href="#products">{dict.nav.products}</a>
+                        <a href="#requirements">{dict.who?.tag || 'Requirements'}</a>
+                    </>
+                ) : (
+                    <>
+                        <a href="#why">{dict.nav.why}</a>
+                        <a href="#profit">{dict.nav.profit}</a>
+                        <a href="#products">{dict.nav.products}</a>
+                        <a href="#how-it-works">{dict.nav.how}</a>
+                    </>
+                )}
                 
                 <div className="nav-dropdowns">
                     <div className="nav-lang-dropdown profession-dropdown" tabIndex="0">
@@ -35,6 +45,9 @@ export default function Navbar({ dict, lang }) {
                             </button>
                             <button className={`nav-lang-item ${profession === 'interior_designer' ? 'active' : ''}`} onClick={() => changeProfession('interior_designer')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
                                 {dict.profession_labels?.interior_designer || "Interior Designer"}
+                            </button>
+                            <button className={`nav-lang-item ${profession === 'influencer' ? 'active' : ''}`} onClick={() => changeProfession('influencer')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
+                                {dict.profession_labels?.influencer || "Influencer"}
                             </button>
                         </div>
                     </div>

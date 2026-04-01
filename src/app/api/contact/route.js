@@ -4,7 +4,7 @@ import { google } from "googleapis";
 export async function POST(request) {
   try {
     const data = await request.json();
-    const { name, company, email, phone, type, location, message, lang } = data;
+    const { name, company, email, phone, type, location, message, lang, socialLinks, contentInfo, fitReason, roomTransformation, interest, profession } = data;
 
     const langMap = {
       'en': 'English',
@@ -24,24 +24,46 @@ export async function POST(request) {
       },
     });
 
+    let emailHtml = `
+      <h3>New B2B Trade Account Application</h3>
+      <p><strong>Name:</strong> ${name}</p>
+      <p><strong>Company:</strong> ${company}</p>
+      <p><strong>Email:</strong> ${email}</p>
+      <p><strong>Phone:</strong> ${phone || "N/A"}</p>
+      <p><strong>Type:</strong> ${type}</p>
+      <p><strong>Location/Country:</strong> ${location}</p>
+      <p><strong>Message:</strong> ${message || "N/A"}</p>
+    `;
+
+    if (profession === 'influencer' || type === 'Influencer') {
+      emailHtml += `
+        <hr/>
+        <h4>Influencer Details</h4>
+        <p><strong>Social Links:</strong> ${socialLinks || "N/A"}</p>
+        <p><strong>Content Info:</strong> ${contentInfo || "N/A"}</p>
+        <p><strong>Fit Reason:</strong> ${fitReason || "N/A"}</p>
+        <p><strong>Room Transformation:</strong> ${roomTransformation || "N/A"}</p>
+        <p><strong>Interest:</strong> ${interest || "N/A"}</p>
+      `;
+    }
+
+    emailHtml += `
+      <hr/>
+      <p><small>This email was sent via the B2B contact form.</small></p>
+    `;
+
     await transporter.sendMail({
       from: `"Wall Bed King B2B" <${process.env.GMAIL_USER}>`,
       to: "delivery@wallbedking.co.uk",
       replyTo: email,
       subject: `New B2B Application - ${company}`,
-      html: `
-        <h3>New B2B Trade Account Application</h3>
-        <p><strong>Name:</strong> ${name}</p>
-        <p><strong>Company:</strong> ${company}</p>
-        <p><strong>Email:</strong> ${email}</p>
-        <p><strong>Phone:</strong> ${phone || "N/A"}</p>
-        <p><strong>Type:</strong> ${type}</p>
-        <p><strong>Location/Country:</strong> ${location}</p>
-        <p><strong>Message:</strong> ${message || "N/A"}</p>
-        <hr/>
-        <p><small>This email was sent via the B2B contact form.</small></p>
-      `,
+      html: emailHtml,
     });
+
+    let sheetMessage = message || "-";
+    if (profession === 'influencer' || type === 'Influencer') {
+      sheetMessage = `Social Links: ${socialLinks}\nContent Info: ${contentInfo}\nFit Reason: ${fitReason}\nRoom Transformation: ${roomTransformation}\nInterest: ${interest}`;
+    }
 
     // Google Sheets mentés
     try {
@@ -70,7 +92,7 @@ export async function POST(request) {
               phone || "-",
               type,
               location,
-              message || "-"
+              sheetMessage
             ],
           ],
         },

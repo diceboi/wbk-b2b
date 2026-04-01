@@ -20,6 +20,7 @@ import ApplicationFormSection from './ApplicationFormSection';
 import ContactFooter from './ContactFooter';
 import ProfessionPopup from './ProfessionPopup';
 import StockistSection from './StockistSection';
+import { InfluencerOpportunity, InfluencerBenefits, InfluencerMarket, InfluencerRequirements, InfluencerDarkWrapper } from './InfluencerSections';
 
 export default function ClientPage({ baseDict, lang }) {
   const { profession, mounted } = useProfession();
@@ -35,20 +36,42 @@ export default function ClientPage({ baseDict, lang }) {
     <>
       <Navbar dict={dict} lang={lang} />
       <HeroSection dict={dict} />
-      <StatsSection dict={dict} />
-      <VideoSection dict={dict} />
-      <WhyWallBedsSection dict={dict} />
-      <ProfitCalculatorSection dict={dict} />
-      <PartnershipBenefitsSection dict={dict} />
+      {profession !== 'influencer' && <StatsSection dict={dict} />}
+      {profession !== 'influencer' && <VideoSection dict={dict} />}
+      {profession !== 'influencer' && <WhyWallBedsSection dict={dict} />}
+      {profession !== 'influencer' && <ProfitCalculatorSection dict={dict} />}
+      
+      {profession === 'influencer' ? (
+        <>
+          <InfluencerOpportunity dict={dict} />
+          <InfluencerDarkWrapper>
+            <InfluencerBenefits dict={dict} />
+            <InfluencerMarket dict={dict} />
+          </InfluencerDarkWrapper>
+        </>
+      ) : (
+        <PartnershipBenefitsSection dict={dict} />
+      )}
+      
       <UspsSection dict={dict} />
       <ProductRangesSection dict={dict} />
-      <WhoWeWorkWithSection dict={dict} />
-      <LogisticsSection dict={dict} />
-      <HowItWorksSection dict={dict} />
-      <GuaranteeSection dict={dict} />
-      <MarketOpportunitySection dict={dict} />
-      <StockistSection dict={dict} />
-      <ComingSoonSection dict={dict} />
+      
+      {profession === 'influencer' ? (
+        <InfluencerRequirements dict={dict} />
+      ) : (
+        <WhoWeWorkWithSection dict={dict} />
+      )}
+
+      {profession !== 'influencer' && (
+        <>
+          <LogisticsSection dict={dict} />
+          <HowItWorksSection dict={dict} />
+          <GuaranteeSection dict={dict} />
+          <MarketOpportunitySection dict={dict} />
+          <StockistSection dict={dict} />
+          <ComingSoonSection dict={dict} />
+        </>
+      )}
       <ApplicationFormSection dict={dict} lang={lang} />
       <ContactFooter dict={dict} lang={lang} />
       <ProfessionPopup dict={dict} />

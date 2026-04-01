@@ -414,11 +414,13 @@
   "profession_popup": {
     "title": "¿Cuál es su profesión?",
     "btn_default": "Socio comercial",
-    "btn_interior_designer": "Diseñador de interiores"
+    "btn_interior_designer": "Diseñador de interiores",
+    "btn_influencer": "Influencer"
   },
   "profession_labels": {
     "default": "Socio comercial",
-    "interior_designer": "Diseñador de interiores"
+    "interior_designer": "Diseñador de interiores",
+    "influencer": "Influencer"
   },
   "interior_designer": {
     "hero": {
@@ -504,6 +506,125 @@
       "highlight": "Muéstrelo. Úselo. Véndalo.",
       "secondary": "Comience instalando una unidad en su sala de exposición, respaldado por nuestra garantía de devolución de dinero de 90 días.",
       "btn": "Solicite ser distribuidor"
+    }
+  },
+  "influencer": {
+    "hero": {
+      "badge": "Buscamos creadores en España para dar vida al hogar inteligente y optimizado.",
+      "h1": "Crea contenido home excepcional.",
+      "sub": "Haz crecer tu audiencia + gana dinero con nosotros. Quédate el producto. Cobra.",
+      "proof": "",
+      "btnApply": "Solicitar ahora",
+      "btnProfit": ""
+    },
+    "opportunity": {
+      "title": "Lo que buscamos",
+      "p1": "Actualmente buscamos creadores que:",
+      "list": [
+        "Residan en España o Latinoamérica",
+        "Creen contenido sobre hogar, lifestyle, interiorismo, renovación o smart living",
+        "Se sientan cómodos contando historias ante cámara",
+        "Puedan crear contenido limpio, atractivo y de alta calidad",
+        "Vivan en un espacio que realmente se beneficiaría de una transformación ahorradora de espacio"
+      ],
+      "p3": ""
+    },
+    "benefits": {
+      "tag": "La oportunidad",
+      "title": "Lo que recibirás",
+      "sub": "",
+      "items": [
+        {
+          "title": "🛏 Una cama abatible premium para tu espacio",
+          "desc": "Un sistema de cama abatible de alta calidad y diseño que transforma la funcionalidad de tu habitación."
+        },
+        {
+          "title": "💸 Oportunidades de colaboración pagadas",
+          "desc": "Según la campaña, ofrecemos contenido pagado, comisión o ambos."
+        },
+        {
+          "title": "🎥 Gran potencial de contenido",
+          "desc": "Perfecto para antes/después, makeovers de habitaciones, contenido lifestyle y storytelling de smart living."
+        },
+        {
+          "title": "🤝 Apoyo de nuestro equipo",
+          "desc": "Te guiaremos durante todo el proceso para que la colaboración sea fluida y exitosa."
+        }
+      ]
+    },
+    "market": {
+      "title": "Por qué esta campaña funciona tan bien para creadores",
+      "sub": "Las camas abatibles son uno de esos productos raros que son tanto visualmente impresionantes como genuinamente útiles. Eso significa que tu contenido puede incluir naturalmente:",
+      "cards": [
+        {
+          "title": "Transformaciones de habitaciones",
+          "desc": "Muestra el espacio antes y después de la cama abatible."
+        },
+        {
+          "title": "Home styling",
+          "desc": "Decorar la habitación con muebles ahorradores de espacio."
+        },
+        {
+          "title": "Vida multifuncional",
+          "desc": "Demuestra la habitación multiusos."
+        },
+        {
+          "title": "Soluciones para espacios pequeños",
+          "desc": "Perfecto para maximizar la utilidad."
+        },
+        {
+          "title": "Resolución de problemas reales",
+          "desc": "Soluciones que tu audiencia necesita."
+        }
+      ],
+      "tag": "En otras palabras: contenido que tu audiencia realmente quiere ver."
+    },
+    "who": {
+      "title": "Algunas cosas a tener en cuenta",
+      "tabs": [
+        "Requisitos"
+      ],
+      "joiners": {
+        "p1": "Buscamos creadores cuya audiencia y estilo encajen naturalmente con la marca.",
+        "p2": "Al ser una colaboración basada en producto, los espacios serán revisados antes de la selección para asegurar que la campaña sea adecuada para ambas partes. Las plazas son limitadas.",
+        "subtitle": "",
+        "items": []
+      },
+      "btn": "Solicitar para colaborar",
+      "tag": "Detalles importantes",
+      "cta1": "Solicitar ahora",
+      "cta2": "",
+      "cta3": ""
+    },
+    "apply": {
+      "title": "Solicita colaborar con WallBedKing",
+      "sub": "Cuéntanos un poco sobre ti y tu contenido.",
+      "labels": {
+        "name": "Nombre completo",
+        "email": "Correo electrónico",
+        "socialLinks": "Enlaces de Instagram / TikTok / YouTube",
+        "country": "¿Dónde estás ubicado/a?",
+        "contentInfo": "Cuéntanos sobre tu contenido",
+        "fitReason": "¿Por qué WallBedKing sería buena opción para tu espacio?",
+        "roomTransformation": "¿Tienes una habitación en mente para la transformación?",
+        "interest": "¿Estás interesado/a en:"
+      },
+      "placeholders": {
+        "name": "María García",
+        "email": "maria@ejemplo.es",
+        "socialLinks": "Enlaces a tus perfiles",
+        "country": "ej. Madrid, España",
+        "contentInfo": "Describe brevemente tu nicho y audiencia",
+        "fitReason": "¿Por qué nuestro producto?",
+        "roomTransformation": "¿Qué habitación necesita una cama abatible?"
+      },
+      "btn": "Enviar solicitud",
+      "btnSubmitting": "Enviando...",
+      "note": "",
+      "errorFill": "Por favor, rellena todos los campos obligatorios.",
+      "errorGen": "Ha ocurrido un error. Por favor, inténtalo más tarde.",
+      "successTitle": "Solicitud recibida",
+      "successDesc": "¡Gracias! Revisaremos tu solicitud y tu espacio. ¡Estaremos en contacto!"
     }
   }
 }

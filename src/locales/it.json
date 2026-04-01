@@ -411,11 +411,13 @@
   "profession_popup": {
     "title": "Qual è la tua professione?",
     "btn_default": "Partner commerciale",
-    "btn_interior_designer": "Interior Designer"
+    "btn_interior_designer": "Interior Designer",
+    "btn_influencer": "Influencer"
   },
   "profession_labels": {
     "default": "Partner commerciale",
-    "interior_designer": "Interior Designer"
+    "interior_designer": "Interior Designer",
+    "influencer": "Influencer"
   },
   "interior_designer": {
     "hero": {
@@ -501,6 +503,125 @@
       "highlight": "Mostralo. Usalo. Vendilo.",
       "secondary": "Inizia installando un'unità nel tuo showroom, coperto dalla nostra garanzia rimborsabile entro 90 giorni.",
       "btn": "Invia richiesta per diventare rivenditore"
+    }
+  },
+  "influencer": {
+    "hero": {
+      "badge": "Cerchiamo creator in Italia per dare vita all'abitare intelligente e salvaspazio.",
+      "h1": "Crea contenuti home straordinari.",
+      "sub": "Fai crescere la tua audience + guadagna con noi. Tieni il prodotto. Vieni pagato.",
+      "proof": "",
+      "btnApply": "Candidati ora",
+      "btnProfit": ""
+    },
+    "opportunity": {
+      "title": "Cosa cerchiamo",
+      "p1": "Attualmente cerchiamo creator che:",
+      "list": [
+        "Risiedano in Italia",
+        "Creino contenuti su casa, lifestyle, arredamento, ristrutturazione o smart living",
+        "Si sentano a proprio agio a raccontare storie davanti alla telecamera",
+        "Sappiano creare contenuti puliti, coinvolgenti e di alta qualità",
+        "Vivano in uno spazio che trarrebbe realmente beneficio da una trasformazione salvaspazio"
+      ],
+      "p3": ""
+    },
+    "benefits": {
+      "tag": "L'opportunità",
+      "title": "Cosa riceverai",
+      "sub": "",
+      "items": [
+        {
+          "title": "🛏 Un letto a scomparsa premium per il tuo spazio",
+          "desc": "Un sistema di letto a scomparsa di alta qualità e design che trasforma la funzionalità della tua stanza."
+        },
+        {
+          "title": "💸 Opportunità di collaborazione retribuite",
+          "desc": "A seconda della campagna, offriamo contenuti pagati, commissione, o entrambi."
+        },
+        {
+          "title": "🎥 Grande potenziale di contenuti",
+          "desc": "Perfetto per prima/dopo, makeover di stanze, contenuti lifestyle e storytelling di smart living."
+        },
+        {
+          "title": "🤝 Supporto dal nostro team",
+          "desc": "Ti guideremo durante tutto il processo per una collaborazione fluida e di successo."
+        }
+      ]
+    },
+    "market": {
+      "title": "Perché questa campagna funziona così bene per i creator",
+      "sub": "I letti a scomparsa sono uno di quei rari prodotti che sono sia visivamente impressionanti che genuinamente utili. Questo significa che i tuoi contenuti possono includere naturalmente:",
+      "cards": [
+        {
+          "title": "Trasformazioni di stanze",
+          "desc": "Mostra lo spazio prima e dopo il letto a scomparsa."
+        },
+        {
+          "title": "Home styling",
+          "desc": "Arredare la stanza con mobili salvaspazio."
+        },
+        {
+          "title": "Vita multifunzionale",
+          "desc": "Dimostra la stanza multiuso."
+        },
+        {
+          "title": "Soluzioni per piccoli spazi",
+          "desc": "Perfetto per massimizzare l'utilità."
+        },
+        {
+          "title": "Risoluzione di problemi reali",
+          "desc": "Soluzioni di cui la tua audience ha bisogno."
+        }
+      ],
+      "tag": "In altre parole: contenuti che la tua audience vuole davvero guardare."
+    },
+    "who": {
+      "title": "Alcune cose da tenere a mente",
+      "tabs": [
+        "Requisiti"
+      ],
+      "joiners": {
+        "p1": "Cerchiamo creator la cui audience e il cui stile si sposino naturalmente con il brand.",
+        "p2": "Trattandosi di una collaborazione basata su prodotto, gli spazi verranno valutati prima della selezione per assicurarsi che la campagna sia adatta ad entrambe le parti. I posti sono limitati.",
+        "subtitle": "",
+        "items": []
+      },
+      "btn": "Candidati per collaborare",
+      "tag": "Dettagli importanti",
+      "cta1": "Candidati ora",
+      "cta2": "",
+      "cta3": ""
+    },
+    "apply": {
+      "title": "Candidati per collaborare con WallBedKing",
+      "sub": "Raccontaci un po' di te e dei tuoi contenuti.",
+      "labels": {
+        "name": "Nome completo",
+        "email": "Indirizzo email",
+        "socialLinks": "Link Instagram / TikTok / YouTube",
+        "country": "Dove ti trovi?",
+        "contentInfo": "Raccontaci dei tuoi contenuti",
+        "fitReason": "Perché WallBedKing sarebbe perfetto per il tuo spazio?",
+        "roomTransformation": "Hai una stanza in mente per la trasformazione?",
+        "interest": "Sei interessato/a a:"
+      },
+      "placeholders": {
+        "name": "Mario Rossi",
+        "email": "mario@esempio.it",
+        "socialLinks": "Link ai tuoi profili",
+        "country": "es. Milano, Italia",
+        "contentInfo": "Descrivi brevemente la tua nicchia e audience",
+        "fitReason": "Perché il nostro prodotto?",
+        "roomTransformation": "Quale stanza ha bisogno di un letto a scomparsa?"
+      },
+      "btn": "Invia candidatura",
+      "btnSubmitting": "Invio in corso...",
+      "note": "",
+      "errorFill": "Per favore, compila tutti i campi obbligatori.",
+      "errorGen": "Si è verificato un errore. Riprova più tardi.",
+      "successTitle": "Candidatura ricevuta",
+      "successDesc": "Grazie! Esamineremo la tua candidatura e il tuo spazio. Ti contatteremo!"
     }
   }
 }

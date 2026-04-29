@@ -4,7 +4,7 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 const ProfessionContext = createContext();
 
 export function ProfessionProvider({ children }) {
-  const [profession, setProfession] = useState('default');
+  const [profession, setProfession] = useState('fitter_installer');
   const [showPopup, setShowPopup] = useState(false);
   const [mounted, setMounted] = useState(false);
 
@@ -36,7 +36,7 @@ export function useProfession() {
 }
 
 export function mergeDict(baseDict, profession) {
-  if (profession === 'default' || !baseDict[profession]) return baseDict;
+  if (!profession || !baseDict[profession]) return baseDict;
 
   // Deep clone to avoid mutating the base dictionary
   const merged = JSON.parse(JSON.stringify(baseDict));

@@ -300,11 +300,11 @@
       "message": "e.g. We already sell beds and mattresses and would like to add wall beds to our range..."
     },
     "types": [
-      "Joiner / Cabinet Maker",
-      "Carpenter",
+      "Fitter / Installer",
+      "Furniture Maker / Joiner",
       "Furniture Retailer",
       "Interior Designer",
-      "Architect",
+      "Influencer",
       "Other"
     ],
     "btn": "Submit Application",
@@ -413,12 +413,16 @@
   },
   "profession_popup": {
     "title": "What is your profession?",
-    "btn_default": "Trade Partner",
+    "btn_fitter": "Fitter / Installer",
+    "btn_maker": "Furniture Maker / Joiner",
+    "btn_retailer": "Retailer",
     "btn_interior_designer": "Interior Designer",
     "btn_influencer": "Influencer"
   },
   "profession_labels": {
-    "default": "Trade Partner",
+    "fitter_installer": "Fitter / Installer",
+    "furniture_maker": "Furniture Maker / Joiner",
+    "retailer": "Retailer",
     "interior_designer": "Interior Designer",
     "influencer": "Influencer"
   },
@@ -625,6 +629,148 @@
       "errorGen": "An error occurred. Please try again later.",
       "successTitle": "Application Received",
       "successDesc": "Thank you! We'll review your application and space. We'll be in touch!"
+    }
+  },
+  "fitter_installer": {
+    "apply": {
+      "types": ["Independent Fitter", "Installation Company", "Property Developer", "Handyman Services"]
+    },
+    "hero": {
+      "badge": "Now recruiting installation partners across Europe",
+      "h1": "Now recruiting installation partners across Europe",
+      "sub": "At Wall Bed King, we manufacture professional wall bed mechanisms — but what we truly offer is opportunity.<br /><br />Every week, we receive enquiries from homeowners and designers looking for installation. Most of them already want the product — what they need is a reliable installer who can deliver a clean, professional result.<br /><br />That’s where you come in.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "The Opportunity",
+      "p1": "If you already install kitchens, wardrobes, or fitted furniture, you already have everything needed to install wall beds.",
+      "p2": "Wall beds are one of the highest-value installations you can add to your service offering — without changing your tools, workflow, or skillset.",
+      "p3": "You don’t need to design from scratch. You don’t need to manufacture components.",
+      "list_title": "We provide:",
+      "list": [
+        "the mechanism",
+        "the cabinet designs",
+        "the technical documentation",
+        "and even customer enquiries"
+      ],
+      "p4": "You simply install — and get paid premium rates for it.",
+      "p5": "Many of our partners report 30–60% higher margins per day compared to standard installation work."
+    },
+    "business_sense": {
+      "title": "Why This Makes Business Sense",
+      "items": [
+        { "title": "High daily earnings", "desc": "Premium installation jobs" },
+        { "title": "No production required", "desc": "Focus purely on fitting" },
+        { "title": "Ready-to-build systems", "desc": "No trial and error" },
+        { "title": "Customer referrals provided", "desc": "Less time chasing work" },
+        { "title": "Fast learning curve", "desc": "First job supported step-by-step" }
+      ]
+    }
+  },
+  "furniture_maker": {
+    "apply": {
+      "types": ["Bespoke Joiner", "Cabinet Maker", "Kitchen Manufacturer", "Furniture Factory"]
+    },
+    "hero": {
+      "badge": "Now recruiting furniture makers across Europe",
+      "h1": "Now recruiting furniture makers and joinery partners across Europe",
+      "sub": "At Wall Bed King, we manufacture professional wall bed mechanisms — but what we truly offer is opportunity.<br /><br />Every week, we receive enquiries from homeowners, developers, and designers looking for custom-built wall bed furniture. They are not looking for hardware — they are looking for a skilled furniture maker.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "The Opportunity",
+      "p1": "If you already build fitted furniture, you already have everything needed to build wall beds.",
+      "p2": "Wall beds are not just a product — they are a high-value furniture system:",
+      "list": [
+        "wardrobes",
+        "shelving",
+        "storage units",
+        "complete wall integrations"
+      ],
+      "p3": "A typical wall bed project commands significantly higher order values than standard cabinetry.",
+      "p4": "By integrating our mechanisms into your workflow, you increase project size, you increase margin, and you differentiate from competitors — without developing your own hardware."
+    },
+    "business_sense": {
+      "title": "Why This Makes Business Sense",
+      "items": [
+        { "title": "High-value bespoke projects", "desc": "€1,500–€4,000+" },
+        { "title": "Stronger margins", "desc": "Better than standard cabinetry" },
+        { "title": "Existing demand", "desc": "Customers already searching" },
+        { "title": "No engineering required", "desc": "Proven mechanism system" },
+        { "title": "Showpiece projects", "desc": "Referrals & repeat business" },
+        { "title": "Expanded portfolio", "desc": "Broaden your product range" }
+      ]
+    },
+    "framing": {
+      "title": "Partnership framing",
+      "supply_title": "We supply:",
+      "supply_items": ["mechanisms", "cabinet designs", "technical drawings", "customer enquiries"],
+      "deliver_title": "You deliver:",
+      "deliver_items": ["craftsmanship", "custom furniture", "installation"],
+      "footer": "Together, we create complete interior solutions."
+    }
+  },
+  "retailer": {
+    "apply": {
+      "types": ["Furniture Showroom", "Online Retailer", "Multi-brand Store", "Property Developer"]
+    },
+    "hero": {
+      "badge": "Now recruiting retail partners across Europe",
+      "h1": "Sell custom furniture — without custom inventory.",
+      "sub": "We supply the system, the product, and the demand.<br />You sell — and scale your revenue.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "The Opportunity",
+      "p1": "Furniture retailers today face a growing demand for space-saving, multifunctional furniture — without the ability to significantly increase inventory complexity.",
+      "p2": "Wall beds are one of the fastest-growing categories in modern interiors. Customers are not just buying a bed — they are buying flexibility, space, and multi-functional living.",
+      "p3": "With Wall Bed King, you can introduce a high-value product category that allows you to offer fully customizable furniture solutions using a standardized, modular system.",
+      "p4": "You don’t need to stock dozens of variations. You don’t need complex product development.",
+      "list_title": "We provide:",
+      "list": [
+        "a modular product system",
+        "configurable furniture solutions",
+        "reliable European manufacturing",
+        "and customer demand"
+      ],
+      "p5": "You sell complete solutions — without increasing operational complexity."
+    },
+    "business_value": {
+      "title": "Business Value",
+      "sub": "Wall bed systems offer one of the strongest value-to-space ratios in furniture retail.",
+      "items": [
+        "Increase average order value with high-ticket products (€1,500–€2,200+)",
+        "Improve margins compared to standard furniture categories",
+        "Sell complete furniture systems instead of individual items",
+        "Attract new customers looking for space-saving solutions",
+        "Differentiate your showroom with a product most competitors don’t offer"
+      ],
+      "modular": "Because the system is modular: inventory remains manageable, sales are faster, and customization is flexible. Many partners use wall beds not just as a product — but as a sales driver for full-room solutions."
+    },
+    "retail_options": {
+      "title": "Retail Model Options",
+      "sub": "Flexible ways to integrate Wall Bed King into your business:",
+      "options": [
+        {
+          "title": "1. Display & Order Model",
+          "desc": "Show a wall bed in your showroom and sell configured solutions per customer. No large inventory required."
+        },
+        {
+          "title": "2. Stocking Partner Model",
+          "desc": "Hold selected products locally for faster delivery, immediate sales, and increased conversion rates.",
+          "support": "We support stocking partners with customer referrals in your area and optional buy-back agreements to reduce risk."
+        },
+        {
+          "title": "3. Full Solution Retail",
+          "desc": "Sell complete, integrated furniture systems: wall beds + cabinetry, storage solutions, and full-room concepts. This approach maximizes order value, margin, and customer satisfaction."
+        }
+      ]
+    },
+    "extra": {
+      "title": "Expand Your Offering — Not Your Risk",
+      "p1": "Start with a single unit. Test demand in your showroom. Scale at your own pace.",
+      "list_title": "We also offer:",
+      "list": ["showroom support", "fast European delivery", "90-day money-back guarantee on initial orders"]
     }
   }
 }

@@ -4,7 +4,7 @@ import { useProfession } from './ProfessionContext';
 
 export default function Navbar({ dict, lang }) {
     const { profession, changeProfession } = useProfession();
-    const profLabel = dict.profession_labels?.[profession] || dict.profession_labels?.default || "Trade Partner";
+    const profLabel = dict.profession_labels?.[profession] || "Trade Partner";
 
     return (
         <nav className="nav">
@@ -40,8 +40,14 @@ export default function Navbar({ dict, lang }) {
                             </svg>
                         </button>
                         <div className="nav-lang-menu">
-                            <button className={`nav-lang-item ${profession === 'default' ? 'active' : ''}`} onClick={() => changeProfession('default')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
-                                {dict.profession_labels?.default || "Trade Partner"}
+                            <button className={`nav-lang-item ${profession === 'fitter_installer' ? 'active' : ''}`} onClick={() => changeProfession('fitter_installer')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
+                                {dict.profession_labels?.fitter_installer || "Fitter / Installer"}
+                            </button>
+                            <button className={`nav-lang-item ${profession === 'furniture_maker' ? 'active' : ''}`} onClick={() => changeProfession('furniture_maker')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
+                                {dict.profession_labels?.furniture_maker || "Furniture Maker / Joiner"}
+                            </button>
+                            <button className={`nav-lang-item ${profession === 'retailer' ? 'active' : ''}`} onClick={() => changeProfession('retailer')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
+                                {dict.profession_labels?.retailer || "Retailer"}
                             </button>
                             <button className={`nav-lang-item ${profession === 'interior_designer' ? 'active' : ''}`} onClick={() => changeProfession('interior_designer')} style={{width: '100%', textAlign: 'left', background: 'none', border: 'none', cursor: 'pointer'}}>
                                 {dict.profession_labels?.interior_designer || "Interior Designer"}

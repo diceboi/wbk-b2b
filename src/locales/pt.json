@@ -293,12 +293,12 @@
       "message": "ex. Já vendemos camas e colchões e gostaríamos de adicionar camas embutidas à nossa oferta..."
     },
     "types": [
-      "Carpinteires/Fabr",
-      "Monts",
-      "Retalhs",
-      "Design Intei",
-      "Arquit",
-      "Out"
+      "Instalador / Montador",
+      "Fabricante de móveis / Marceneiro",
+      "Varejista / Revendedor",
+      "Designer de Interiores",
+      "Influenciador",
+      "Outro"
     ],
     "btn": "Subm",
     "btnSubmitting": "Es...",
@@ -406,12 +406,16 @@
   },
   "profession_popup": {
     "title": "Qual é a sua profissão?",
-    "btn_default": "Parceiro comercial",
+    "btn_fitter": "Instalador / Montador",
+    "btn_maker": "Fabricante de móveis / Marceneiro",
+    "btn_retailer": "Varejista / Revendedor",
     "btn_interior_designer": "Designer de Interiores",
     "btn_influencer": "Influenciador"
   },
   "profession_labels": {
-    "default": "Parceiro comercial",
+    "fitter_installer": "Instalador / Montador",
+    "furniture_maker": "Fabricante de móveis / Marceneiro",
+    "retailer": "Varejista / Revendedor",
     "interior_designer": "Designer de Interiores",
     "influencer": "Influenciador"
   },
@@ -618,6 +622,148 @@
       "errorGen": "Ocorreu um erro. Por favor, tente novamente mais tarde.",
       "successTitle": "Candidatura recebida",
       "successDesc": "Obrigado! Vamos analisar a sua candidatura e o seu espaço. Entraremos em contacto!"
+    }
+  },
+  "fitter_installer": {
+    "apply": {
+      "types": ["Instalador independente", "Empresa de instalação", "Promotor imobiliário", "Serviços de manutenção"]
+    },
+    "hero": {
+      "badge": "Recrutamento de parceiros instaladores em toda a Europa",
+      "h1": "Recrutamento de parceiros instaladores em toda a Europa",
+      "sub": "Na Wall Bed King, fabricamos mecanismos profissionais de camas ocultas — mas o que realmente oferecemos é oportunidade.<br /><br />Toda semana, recebemos consultas de proprietários e designers que procuram instalação. A maioria deles já quer o produto — o que eles precisam é de um instalador confiável que possa entregar um resultado limpo e profissional.<br /><br />É aí que você entra.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "A Oportunidade",
+      "p1": "Se você já instala cozinhas, guarda-roupas ou móveis embutidos, já tem tudo o que é necessário para instalar camas ocultas.",
+      "p2": "As camas ocultas são uma das instalações de maior valor que você pode adicionar à sua oferta de serviços — sem mudar suas ferramentas, seu fluxo de trabalho ou suas habilidades.",
+      "p3": "Você não precisa projetar do zero. Você não precisa fabricar componentes.",
+      "list_title": "Nós fornecemos:",
+      "list": [
+        "o mecanismo",
+        "os designs do armário",
+        "a documentação técnica",
+        "e até consultas de clientes"
+      ],
+      "p4": "Você simplesmente instala — e recebe tarifas premium por isso.",
+      "p5": "Muitos de nossos parceiros relatam margens por dia de 30 a 60% superiores em comparação com trabalhos de instalação padrão."
+    },
+    "business_sense": {
+      "title": "Por que isso faz sentido comercial",
+      "items": [
+        { "title": "Altos ganhos diários", "desc": "Trabalhos de instalação premium" },
+        { "title": "Nenhuma produção necessária", "desc": "Foco puramente na montagem" },
+        { "title": "Sistemas prontos para montagem", "desc": "Sem tentativa e erro" },
+        { "title": "Consultas de clientes fornecidas", "desc": "Menos tempo gasto procurando trabalho" },
+        { "title": "Rápida curva de aprendizado", "desc": "Primeiro trabalho apoiado passo a passo" }
+      ]
+    }
+  },
+  "furniture_maker": {
+    "apply": {
+      "types": ["Marceneiro sob medida", "Fabricante de móveis", "Fabricante de cozinhas", "Fábrica de móveis"]
+    },
+    "hero": {
+      "badge": "Recrutamento de fabricantes de móveis em toda a Europa",
+      "h1": "Recrutamento de fabricantes de móveis e marceneiros em toda a Europa",
+      "sub": "Na Wall Bed King, fabricamos mecanismos profissionais de camas ocultas — mas o que realmente oferecemos é oportunidade.<br /><br />Toda semana, recebemos consultas de proprietários, incorporadores e designers que procuram móveis de cama oculta sob medida. Eles não estão procurando ferragens — eles estão procurando um fabricante de móveis qualificado.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "A Oportunidade",
+      "p1": "Se você já constrói móveis embutidos, já tem tudo o que é necessário para fabricar camas ocultas.",
+      "p2": "As camas ocultas não são apenas um produto — elas são um sistema de mobiliário de alto valor:",
+      "list": [
+        "guarda-roupas",
+        "estantes",
+        "unidades de armazenamento",
+        "integrações de parede completas"
+      ],
+      "p3": "Um projeto típico de cama oculta atinge valores de pedido significativamente mais altos do que a marcenaria padrão.",
+      "p4": "Ao integrar nossos mecanismos em seu fluxo de trabalho: você aumenta o tamanho do projeto, aumenta a margem e se diferencia dos concorrentes — sem desenvolver suas próprias ferragens."
+    },
+    "business_sense": {
+      "title": "Por que isso faz sentido comercial",
+      "items": [
+        { "title": "Projetos sob medida de alto valor", "desc": "1.500 € – 4.000 €+" },
+        { "title": "Margens mais sólidas", "desc": "Melhores do que a marcenaria padrão" },
+        { "title": "Demanda existente", "desc": "Os clientes já estão procurando" },
+        { "title": "Nenhuma engenharia necessária", "desc": "Sistema de mecanismo comprovado" },
+        { "title": "Projetos de vitrine", "desc": "Indicações e repetição de negócios" },
+        { "title": "Portfólio de produtos ampliado", "desc": "Amplie sua oferta" }
+      ]
+    },
+    "framing": {
+      "title": "Estrutura de Parceria",
+      "supply_title": "Nós fornecemos:",
+      "supply_items": ["mecanismos", "designs de armários", "desenhos técnicos", "consultas de clientes"],
+      "deliver_title": "Você entrega:",
+      "deliver_items": ["artesanato", "móveis sob medida", "instalação"],
+      "footer": "Juntos, criamos soluções de interior completas."
+    }
+  },
+  "retailer": {
+    "apply": {
+      "types": ["Showroom de móveis", "Retalhista online", "Loja multimarca", "Promotor imobiliário"]
+    },
+    "hero": {
+      "badge": "Recrutamento de parceiros revendedores em toda a Europa",
+      "h1": "Venda móveis à medida — sem inventário à medida.",
+      "sub": "Fornecemos o sistema, o produto e la demanda.<br />Você vende — e escala sua receita.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "A Oportunidade",
+      "p1": "Os varejistas de móveis enfrentam hoje uma demanda crescente por móveis multifuncionais e que economizam espaço — sem a capacidade de aumentar significativamente a complexidade do inventário.",
+      "p2": "As camas ocultas são uma das categorias de crescimento mais rápido em interiores modernos. Os clientes não compram apenas uma cama — eles compram flexibilidade, espaço e vida multifuncional.",
+      "p3": "Com a Wall Bed King, você pode introduir uma categoria de produtos de alto valor que permite oferecer soluções de mobiliário totalmente personalizáveis usando um sistema padronizado e modular.",
+      "p4": "Você não precisa estocar dezenas de variações. Você não precisa de um desenvolvimento de produto complexo.",
+      "list_title": "Nós fornecemos:",
+      "list": [
+        "um sistema de produto modular",
+        "soluções de mobiliário configuráveis",
+        "fabricação europeia confiável",
+        "e demanda dos clientes"
+      ],
+      "p5": "Você vende soluções completas — sem aumentar a complexidade operacional."
+    },
+    "business_value": {
+      "title": "Valor de Negócio",
+      "sub": "Os sistemas de camas ocultas oferecem uma das melhores relações valor-espaço no varejo de móveis.",
+      "items": [
+        "Aumente o valor médio do pedido com produtos de alto preço (1.500 € – 2.200 €+)",
+        "Melhore as margens em comparação com as categorias de móveis padrão",
+        "Venda sistemas de mobiliário completos em vez de itens individuais",
+        "Atraia novos clientes que procuram soluções para economizar espaço",
+        "Diferencie seu showroom com um produto que a maioria dos concorrentes não oferece"
+      ],
+      "modular": "Como o sistema é modular: o inventário permanece gerenciável, as vendas são mais rápidas e a personalização é flexível. Muitos parceiros usam camas ocultas não apenas como um produto — mas como um impulsionador de vendas para soluções de quarto completo."
+    },
+    "retail_options": {
+      "title": "Opções de Modelo de Varejo",
+      "sub": "Formas flexíveis de integrar a Wall Bed King em seu negócio:",
+      "options": [
+        {
+          "title": "1. Modelo de Exposição e Pedido",
+          "desc": "Mostre uma cama oculta em seu showroom e venda soluções configuradas por cliente. Nenhum inventário pesado é necessário."
+        },
+        {
+          "title": "2. Modelo de Parceiro com Estoque",
+          "desc": "Mantenha produtos selecionados localmente para: entrega mais rápida, vendas imediatas, maiores taxas de conversão.",
+          "support": "Apoiamos parceiros com estoque com: indicações de clientes em sua área, acordos de recompra opcionais para reduzir o risco."
+        },
+        {
+          "title": "3. Varejo de Solução Completa",
+          "desc": "Venda sistemas de mobiliário completos e integrados: camas ocultas + armários, soluções de armazenamento, conceitos de quarto completo. Essa abordagem maximiza: valor do pedido, margem, satisfação do cliente."
+        }
+      ]
+    },
+    "extra": {
+      "title": "Amplie sua oferta — não seu risco",
+      "p1": "Comece com uma única unidade. Teste a demanda em seu showroom. Escale no seu próprio ritmo.",
+      "list_title": "Também oferecemos:",
+      "list": ["suporte para showroom", "entrega europeia rápida", "garantia de reembolso de 90 dias em pedidos iniciais"]
     }
   }
 }

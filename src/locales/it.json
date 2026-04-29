@@ -297,12 +297,12 @@
       "message": "Es: Oltre ad altri a letti ora vogli..."
     },
     "types": [
-      "Operativ Artig e Fresa",
-      "Soli Montaggios Esterni o Lavoro All'Edificabile in Posa in Opera E Montature Sul Domicilio o Di Appalti G e M.",
-      "Mostre ed Arredi in Ret",
-      "Interiors Arch & Des",
-      "Agli Stud e Allos Ingegner",
-      "A Misti O Var."
+      "Installatore / Montatore",
+      "Produttore di mobili / Falegname",
+      "Rivenditore",
+      "Interior Designer",
+      "Influencer",
+      "Altro"
     ],
     "btn": "Dalla Pressione Invia Candidatar",
     "btnSubmitting": "Attend All Operatio Meno M..",
@@ -410,12 +410,16 @@
   },
   "profession_popup": {
     "title": "Qual è la tua professione?",
-    "btn_default": "Partner commerciale",
+    "btn_fitter": "Installatore / Montatore",
+    "btn_maker": "Produttore di mobili / Falegname",
+    "btn_retailer": "Rivenditore",
     "btn_interior_designer": "Interior Designer",
     "btn_influencer": "Influencer"
   },
   "profession_labels": {
-    "default": "Partner commerciale",
+    "fitter_installer": "Installatore / Montatore",
+    "furniture_maker": "Produttore di mobili / Falegname",
+    "retailer": "Rivenditore",
     "interior_designer": "Interior Designer",
     "influencer": "Influencer"
   },
@@ -622,6 +626,148 @@
       "errorGen": "Si è verificato un errore. Riprova più tardi.",
       "successTitle": "Candidatura ricevuta",
       "successDesc": "Grazie! Esamineremo la tua candidatura e il tuo spazio. Ti contatteremo!"
+    }
+  },
+  "fitter_installer": {
+    "apply": {
+      "types": ["Installatore indipendente", "Ditta di installazione", "Sviluppatore immobiliare", "Servizi di manutenzione"]
+    },
+    "hero": {
+      "badge": "Ricerca di partner installatori in tutta Europa",
+      "h1": "Ricerca di partner installatori in tutta Europa",
+      "sub": "In Wall Bed King, produciamo meccanismi professionali per letti a scomparsa — ma ciò che offriamo realmente è un'opportunità.<br /><br />Ogni settimana, riceviamo richieste da proprietari di case e designer alla ricerca di un'installazione. La maggior parte di loro desidera già il prodotto — ciò di cui hanno bisogno è un installatore affidabile in grado di offrire un risultato pulito e professionale.<br /><br />È qui che entri in gioco tu.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "L'opportunità",
+      "p1": "Se installi già cucine, armadi o mobili a incasso, hai già tutto il necessario per installare letti a scomparsa.",
+      "p2": "I letti a scomparsa sono una delle installazioni di maggior valore che puoi aggiungere alla tua offerta di servizi — senza cambiare i tuoi strumenti, il tuo flusso di lavoro o le tue competenze.",
+      "p3": "Non devi progettare da zero. Non devi produrre componenti.",
+      "list_title": "Forniamo:",
+      "list": [
+        "il meccanismo",
+        "i progetti dell'armadio",
+        "la documentazione tecnica",
+        "e persino le richieste dei clienti"
+      ],
+      "p4": "Tu semplicemente installi — e vieni pagato con tariffe premium per questo.",
+      "p5": "Molti dei nostri partner riportano margini giornalieri superiori del 30-60% rispetto ai lavori di installazione standard."
+    },
+    "business_sense": {
+      "title": "Perché questo ha senso commerciale",
+      "items": [
+        { "title": "Elevati guadagni giornalieri", "desc": "Lavori di installazione premium" },
+        { "title": "Nessuna produzione richiesta", "desc": "Focus puramente sul montaggio" },
+        { "title": "Sistemi pronti per il montaggio", "desc": "Nessuna prova ed errore" },
+        { "title": "Richieste dei clienti fornite", "desc": "Meno tempo dedicato alla ricerca di lavoro" },
+        { "title": "Rapida curva di apprendimento", "desc": "Primo lavoro supportato passo dopo passo" }
+      ]
+    }
+  },
+  "furniture_maker": {
+    "apply": {
+      "types": ["Falegname su misura", "Produttore di mobili", "Produttore di cucine", "Fabbrica di mobili"]
+    },
+    "hero": {
+      "badge": "Ricerca di produttori di mobili in tutta Europa",
+      "h1": "Ricerca di produttori di mobili e falegnami in tutta Europa",
+      "sub": "In Wall Bed King, produciamo meccanismi professionali per letti a scomparsa — ma ciò che offriamo realmente è un'opportunità.<br /><br />Ogni settimana, riceviamo richieste da proprietari di case, sviluppatori e designer alla ricerca di mobili per letti a scomparsa su misura. Non cercano ferramenta — cercano un produttore di mobili esperto.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "L'opportunità",
+      "p1": "Se costruisci già mobili a incasso, hai già tutto il necessario per produrre letti a scomparsa.",
+      "p2": "I letti a scomparsa non sono solo un prodotto — sono un sistema di arredo di alto valore:",
+      "list": [
+        "armadi",
+        "scaffalature",
+        "unità di stoccaggio",
+        "integrazioni a parete complete"
+      ],
+      "p3": "Un tipico progetto di letto a scomparsa raggiunge valori d'ordine significativamente più alti rispetto alla falegnameria standard.",
+      "p4": "Integrando i nostri meccanismi nel tuo flusso di lavoro: aumenti la dimensione del progetto, aumenti il margine e ti differenzi dai concorrenti — senza sviluppare la tua ferramenta."
+    },
+    "business_sense": {
+      "title": "Perché questo ha senso commerciale",
+      "items": [
+        { "title": "Progetti su misura di alto valore", "desc": "1.500 € – 4.000 €+" },
+        { "title": "Margini più solidi", "desc": "Migliori della falegnameria standard" },
+        { "title": "Domanda esistente", "desc": "I clienti stanno già cercando" },
+        { "title": "Nessuna ingegnerizzazione richiesta", "desc": "Sistema di meccanismo collaudato" },
+        { "title": "Progetti vetrina", "desc": "Referenze e affari ricorrenti" },
+        { "title": "Portafoglio prodotti ampliato", "desc": "Allarga la tua offerta" }
+      ]
+    },
+    "framing": {
+      "title": "Quadro della partnership",
+      "supply_title": "Forniamo:",
+      "supply_items": ["meccanismi", "progetti di armadi", "disegni tecnici", "richieste dei clienti"],
+      "deliver_title": "Tu fornisci:",
+      "deliver_items": ["artigianalità", "mobili su misura", "installazione"],
+      "footer": "Insieme, creiamo soluzioni d'arredo complete."
+    }
+  },
+  "retailer": {
+    "apply": {
+      "types": ["Showroom di mobili", "Rivenditore online", "Negozio multimarca", "Sviluppatore immobiliare"]
+    },
+    "hero": {
+      "badge": "Ricerca di partner rivenditori in tutta Europa",
+      "h1": "Vendi mobili su misura — senza inventario su misura.",
+      "sub": "Forniamo il sistema, il prodotto e la domanda.<br />Tu vendi — e scali i tuoi ricavi.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "L'opportunità",
+      "p1": "I rivenditori di mobili oggi si trovano ad affrontare una crescente domanda di mobili multifunzionali e salvaspazio — senza la capacità di aumentare significativamente la complessità dell'inventario.",
+      "p2": "I letti a scomparsa sono una delle categorie in più rapida crescita negli interni moderni. I clienti non comprano solo un letto — comprano flessibilità, spazio e un vivere multifunzionale.",
+      "p3": "Con Wall Bed King, puoi introdurre una categoria di prodotti di alto valore che ti consente di offrire soluzioni d'arredo completamente personalizzabili utilizzando un sistema standardizzato e modulare.",
+      "p4": "Non devi stoccare dozzine di varianti. Non hai bisogno di uno sviluppo prodotto complesso.",
+      "list_title": "Forniamo:",
+      "list": [
+        "un sistema di prodotto modulare",
+        "soluzioni d'arredo configurabili",
+        "produzione europea affidabile",
+        "e domanda dei clienti"
+      ],
+      "p5": "Vendi soluzioni complete — senza aumentare la complessità operativa."
+    },
+    "business_value": {
+      "title": "Valore commerciale",
+      "sub": "I sistemi di letti a scomparsa offrono uno dei migliori rapporti valore-spazio nella vendita al dettaglio di mobili.",
+      "items": [
+        "Aumenta il valore medio dell'ordine con prodotti ad alto prezzo (1.500 € – 2.200 €+)",
+        "Migliora i margini rispetto alle categorie di mobili standard",
+        "Vendi sistemi d'arredo completi invece di singoli articoli",
+        "Attira nuovi clienti alla ricerca di soluzioni salvaspazio",
+        "Differenzia il tuo showroom con un prodotto che la maggior parte dei concorrenti non offre"
+      ],
+      "modular": "Poiché il sistema è modulare: l'inventario rimane gestibile, le vendite sono più veloci e la personalizzazione è flessibile. Molti partner utilizzano i letti a scomparsa non solo come un prodotto — ma come un driver di vendita per soluzioni d'arredo complete."
+    },
+    "retail_options": {
+      "title": "Opzioni del modello retail",
+      "sub": "Modi flessibili per integrare Wall Bed King nel tuo business:",
+      "options": [
+        {
+          "title": "1. Modello Esposizione e Ordine",
+          "desc": "Mostra un letto a scomparsa nel tuo showroom e vendi soluzioni configurate per cliente. Non è richiesto un inventario ingente."
+        },
+        {
+          "title": "2. Modello Partner Stockista",
+          "desc": "Mantieni prodotti selezionati localmente per: consegna più rapida, vendite immediate, tassi di conversione più elevati.",
+          "support": "Supportiamo i partner stockisti con: referenze clienti nella tua zona, accordi di riacquisto opzionali per ridurre il rischio."
+        },
+        {
+          "title": "3. Vendita di soluzioni complete",
+          "desc": "Vendi sistemi d'arredo completi e integrati: letti a scomparsa + armadi, soluzioni di stoccaggio, concetti di stanza completa. Questo approccio massimizza: il valore dell'ordine, il margine, la soddisfazione del cliente."
+        }
+      ]
+    },
+    "extra": {
+      "title": "Espandi la tua offerta — Non il tuo rischio",
+      "p1": "Inizia con una singola unità. Testa la domanda nel tuo showroom. Scala al tuo ritmo.",
+      "list_title": "Offriamo inoltre:",
+      "list": ["supporto per lo showroom", "consegna rapida in tutta Europa", "garanzia di rimborso di 90 giorni sugli ordini iniziali"]
     }
   }
 }

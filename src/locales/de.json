@@ -300,11 +300,11 @@
       "message": "z.B. Wir bieten bereits Möbel an und möchten unsere Auswahl um Schrankbetten erweitern."
     },
     "types": [
-      "Tischler / Schreiner",
-      "Zimmerer",
-      "Möbelhändler",
+      "Monteur / Installateur",
+      "Möbelmacher / Tischler",
+      "Einzelhändler",
       "Innenarchitekt / Planer",
-      "Architekt",
+      "Influencer",
       "Sonstiges"
     ],
     "btn": "Bewerbung absenden",
@@ -413,12 +413,16 @@
   },
   "profession_popup": {
     "title": "Was ist Ihr Beruf?",
-    "btn_default": "Handelspartner",
+    "btn_fitter": "Monteur / Installateur",
+    "btn_maker": "Möbelmacher / Tischler",
+    "btn_retailer": "Einzelhändler",
     "btn_interior_designer": "Innenarchitekt",
     "btn_influencer": "Influencer"
   },
   "profession_labels": {
-    "default": "Handelspartner",
+    "fitter_installer": "Monteur / Installateur",
+    "furniture_maker": "Möbelmacher / Tischler",
+    "retailer": "Einzelhändler",
     "interior_designer": "Innenarchitekt",
     "influencer": "Influencer"
   },
@@ -625,6 +629,148 @@
       "errorGen": "Ein Fehler ist aufgetreten. Bitte versuche es später erneut.",
       "successTitle": "Bewerbung eingegangen",
       "successDesc": "Vielen Dank! Wir prüfen deine Bewerbung und deinen Raum. Wir melden uns bei dir!"
+    }
+  },
+  "fitter_installer": {
+    "apply": {
+      "types": ["Selbstständiger Monteur", "Montagebetrieb", "Bauträger", "Hausmeisterservice"]
+    },
+    "hero": {
+      "badge": "Jetzt Montagepartner in ganz Europa gesucht",
+      "h1": "Jetzt Montagepartner in ganz Europa gesucht",
+      "sub": "Bei Wall Bed King stellen wir professionelle Schrankbettmechanismen her – aber was wir wirklich bieten, ist eine Chance.<br /><br />Jede Woche erhalten wir Anfragen von Hausbesitzern und Designern, die eine Installation suchen. Die meisten von ihnen wollen das Produkt bereits – was sie brauchen, ist ein zuverlässiger Installateur, der ein sauberes, professionelles Ergebnis liefert.<br /><br />Hier kommen Sie ins Spiel.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "Die Chance",
+      "p1": "Wenn Sie bereits Küchen, Kleiderschränke oder Einbaumöbel installieren, haben Sie bereits alles, was für die Installation von Schrankbetten benötigt wird.",
+      "p2": "Schrankbetten sind eine der wertvollsten Installationen, die Sie Ihrem Serviceangebot hinzufügen können – ohne Ihre Werkzeuge, Ihren Arbeitsablauf oder Ihre Fähigkeiten zu ändern.",
+      "p3": "Sie müssen nicht von Grund auf neu entwerfen. Sie müssen keine Komponenten herstellen.",
+      "list_title": "Wir bieten:",
+      "list": [
+        "den Mechanismus",
+        "die Schrankdesigns",
+        "die technische Dokumentation",
+        "und sogar Kundenanfragen"
+      ],
+      "p4": "Sie installieren einfach – und erhalten dafür erstklassige Preise.",
+      "p5": "Viele unserer Partner berichten von 30–60 % höheren Margen pro Tag im Vergleich zu Standard-Installationsarbeiten."
+    },
+    "business_sense": {
+      "title": "Warum das geschäftlich Sinn macht",
+      "items": [
+        { "title": "Hoher Tagesverdienst", "desc": "Erstklassige Installationsaufträge" },
+        { "title": "Keine Produktion erforderlich", "desc": "Konzentration rein auf die Montage" },
+        { "title": "Sofort einsatzbereite Systeme", "desc": "Kein Ausprobieren" },
+        { "title": "Kundenempfehlungen bereitgestellt", "desc": "Weniger Zeit für die Kundenakquise" },
+        { "title": "Schnelle Lernkurve", "desc": "Erster Auftrag Schritt für Schritt unterstützt" }
+      ]
+    }
+  },
+  "furniture_maker": {
+    "apply": {
+      "types": ["Maßschreiner", "Möbelbauer", "Küchenhersteller", "Möbelfabrik"]
+    },
+    "hero": {
+      "badge": "Jetzt Möbelmacher in ganz Europa gesucht",
+      "h1": "Jetzt Möbelmacher und Tischlerei-Partner in ganz Europa gesucht",
+      "sub": "Bei Wall Bed King stellen wir professionelle Schrankbettmechanismen her – aber was wir wirklich bieten, ist eine Chance.<br /><br />Jede Woche erhalten wir Anfragen von Hausbesitzern, Bauträgern und Designern, die nach maßgefertigten Schrankbettmöbeln suchen. Sie suchen keine Hardware – sie suchen einen qualifizierten Möbelmacher.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "Die Chance",
+      "p1": "Wenn Sie bereits Einbaumöbel bauen, haben Sie bereits alles, was zum Bau von Schrankbetten benötigt wird.",
+      "p2": "Schrankbetten sind nicht nur ein Produkt – sie sind ein hochwertiges Möbelsystem:",
+      "list": [
+        "Kleiderschränke",
+        "Regale",
+        "Aufbewahrungseinheiten",
+        "komplette Wandintegrationen"
+      ],
+      "p3": "Ein typisches Schrankbettprojekt erzielt deutlich höhere Auftragswerte als Standard-Schränke.",
+      "p4": "Durch die Integration unserer Mechanismen in Ihren Arbeitsablauf erhöhen Sie die Projektgröße, steigern die Marge und heben sich von Wettbewerbern ab – ohne eigene Hardware zu entwickeln."
+    },
+    "business_sense": {
+      "title": "Warum das geschäftlich Sinn macht",
+      "items": [
+        { "title": "Hochwertige maßgeschneiderte Projekte", "desc": "1.500 € – 4.000 €+" },
+        { "title": "Stärkere Margen", "desc": "Besser als bei Standard-Schränken" },
+        { "title": "Bestehende Nachfrage", "desc": "Kunden suchen bereits danach" },
+        { "title": "Keine Konstruktion erforderlich", "desc": "Bewährtes Mechanismussystem" },
+        { "title": "Vorzeigeprojekte", "desc": "Empfehlungen & Folgegeschäfte" },
+        { "title": "Erweitertes Produktportfolio", "desc": "Breiteres Angebot" }
+      ]
+    },
+    "framing": {
+      "title": "Partnerschaftsrahmen",
+      "supply_title": "Wir liefern:",
+      "supply_items": ["Mechanismen", "Schrankdesigns", "technische Zeichnungen", "Kundenanfragen"],
+      "deliver_title": "Sie liefern:",
+      "deliver_items": ["Handwerkskunst", "maßgefertigte Möbel", "Installation"],
+      "footer": "Gemeinsam schaffen wir komplette Innenraumlösungen."
+    }
+  },
+  "retailer": {
+    "apply": {
+      "types": ["Möbelhaus", "Online-Händler", "Mehrmarkengeschäft", "Projektentwickler"]
+    },
+    "hero": {
+      "badge": "Jetzt Einzelhandelspartner in ganz Europa gesucht",
+      "h1": "Verkaufen Sie maßgeschneiderte Möbel – ohne eigenes Inventar.",
+      "sub": "Wir liefern das System, das Produkt und die Nachfrage.<br />Sie verkaufen – und skalieren Ihren Umsatz.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "Die Chance",
+      "p1": "Möbelhändler stehen heute vor einer wachsenden Nachfrage nach platzsparenden, multifunktionalen Möbeln – ohne die Möglichkeit, die Komplexität des Lagerbestands erheblich zu erhöhen.",
+      "p2": "Schrankbetten sind eine der am schnellsten wachsenden Kategorien in modernen Innenräumen. Kunden kaufen nicht nur ein Bett – sie kaufen Flexibilität, Platz und multifunktionales Wohnen.",
+      "p3": "Mit Wall Bed King können Sie eine hochwertige Produktkategorie einführen, die es Ihnen ermöglicht, voll anpassbare Möbellösungen mit einem standardisierten, modularen System anzubieten.",
+      "p4": "Sie müssen nicht Dutzende von Variationen auf Lager haben. Sie benötigen keine komplexe Produktentwicklung.",
+      "list_title": "Wir bieten:",
+      "list": [
+        "ein modulares Produktsystem",
+        "konfigurierbare Möbellösungen",
+        "zuverlässige europäische Fertigung",
+        "und Kundennachfrage"
+      ],
+      "p5": "Sie verkaufen komplette Lösungen – ohne die betriebliche Komplexität zu erhöhen."
+    },
+    "business_value": {
+      "title": "Geschäftswert",
+      "sub": "Schrankbettsysteme bieten eines der stärksten Wert-zu-Platz-Verhältnisse im Möbeleinzelhandel.",
+      "items": [
+        "Erhöhung des durchschnittlichen Auftragswerts mit hochpreisigen Produkten (1.500 € – 2.200 €+)",
+        "Verbesserung der Margen im Vergleich zu Standard-Möbelkategorien",
+        "Verkauf kompletter Möbelsysteme statt einzelner Artikel",
+        "Anziehen neuer Kunden, die nach platzsparenden Lösungen suchen",
+        "Abheben Ihres Showrooms mit einem Produkt, das die meisten Wettbewerber nicht anbieten"
+      ],
+      "modular": "Da das System modular ist: bleibt der Lagerbestand überschaubar, die Verkäufe sind schneller und die Anpassung ist flexibel. Viele Partner nutzen Schrankbetten nicht nur als Produkt – sondern als Verkaufstreiber für Komplettlösungen."
+    },
+    "retail_options": {
+      "title": "Einzelhandelsmodell-Optionen",
+      "sub": "Flexible Möglichkeiten, Wall Bed King in Ihr Geschäft zu integrieren:",
+      "options": [
+        {
+          "title": "1. Display & Order Modell",
+          "desc": "Zeigen Sie ein Schrankbett in Ihrem Showroom und verkaufen Sie konfigurierte Lösungen pro Kunde. Kein großer Lagerbestand erforderlich."
+        },
+        {
+          "title": "2. Lagerpartner-Modell",
+          "desc": "Halten Sie ausgewählte Produkte lokal vor für: schnellere Lieferung, sofortige Verkäufe, höhere Konversionsraten.",
+          "support": "Wir unterstützen Lagerpartner mit: Kundenempfehlungen in Ihrer Region, optionalen Rückkaufvereinbarungen zur Risikominderung."
+        },
+        {
+          "title": "3. Full Solution Retail",
+          "desc": "Verkaufen Sie komplette, integrierte Möbelsysteme: Schrankbetten + Schränke, Aufbewahrungslösungen, Ganzraumkonzepte. Dieser Ansatz maximiert: Auftragswert, Marge, Kundenzufriedenheit."
+        }
+      ]
+    },
+    "extra": {
+      "title": "Erweitern Sie Ihr Angebot – nicht Ihr Risiko",
+      "p1": "Beginnen Sie mit einer einzigen Einheit. Testen Sie die Nachfrage in Ihrem Showroom. Skalieren Sie in Ihrem eigenen Tempo.",
+      "list_title": "Wir bieten außerdem:",
+      "list": ["Showroom-Unterstützung", "schnelle europaweite Lieferung", "90-Tage-Geld-zurück-Garantie auf Erstbestellungen"]
     }
   }
 }

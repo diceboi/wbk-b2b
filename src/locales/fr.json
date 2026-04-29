@@ -300,11 +300,11 @@
       "message": "ex: Notre équipe de menuisiers chercherait des structures standards..."
     },
     "types": [
-      "Artisan Ébéniste / Menuisier",
-      "Charpentier",
-      "Distributeur (Magasin d'ameublement)",
-      "Décoration & Design d'Intérieur",
-      "Cabinet d'architectes",
+      "Installateur / Poseur",
+      "Fabricant de meubles / Menuisier",
+      "Revendeur",
+      "Architecte d'intérieur",
+      "Influenceur",
       "Autre"
     ],
     "btn": "Envoyer Les Informations",
@@ -413,12 +413,16 @@
   },
   "profession_popup": {
     "title": "Quelle est votre profession ?",
-    "btn_default": "Partenaire commercial",
+    "btn_fitter": "Installateur / Poseur",
+    "btn_maker": "Fabricant de meubles / Menuisier",
+    "btn_retailer": "Revendeur",
     "btn_interior_designer": "Architecte d'intérieur",
     "btn_influencer": "Influenceur"
   },
   "profession_labels": {
-    "default": "Partenaire commercial",
+    "fitter_installer": "Installateur / Poseur",
+    "furniture_maker": "Fabricant de meubles / Menuisier",
+    "retailer": "Revendeur",
     "interior_designer": "Architecte d'intérieur",
     "influencer": "Influenceur"
   },
@@ -625,6 +629,148 @@
       "errorGen": "Une erreur s'est produite. Veuillez réessayer plus tard.",
       "successTitle": "Candidature reçue",
       "successDesc": "Merci ! Nous examinerons votre candidature et votre espace. Nous vous recontacterons !"
+    }
+  },
+  "fitter_installer": {
+    "apply": {
+      "types": ["Poseur indépendant", "Société d'installation", "Promoteur immobilier", "Services de bricolage"]
+    },
+    "hero": {
+      "badge": "Recrutement de partenaires installateurs à travers toute l'Europe",
+      "h1": "Recrutement de partenaires installateurs à travers toute l'Europe",
+      "sub": "Chez Wall Bed King, nous fabriquons des mécanismes professionnels de lits escamotables — mais ce que nous offrons réellement, c'est une opportunité.<br /><br />Chaque semaine, nous recevons des demandes de propriétaires et de designers à la recherche d'une installation. La plupart d'entre eux veulent déjà le produit — ce dont ils ont besoin, c'est d'un installateur fiable capable de livrer un résultat propre et professionnel.<br /><br />C'est là que vous intervenez.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "L'opportunité",
+      "p1": "Si vous installez déjà des cuisines, des armoires ou des meubles encastrés, vous avez déjà tout ce qu'il faut pour installer des lits escamotables.",
+      "p2": "Les lits escamotables sont l'une des installations à plus haute valeur ajoutée que vous puissiez ajouter à votre offre de services — sans changer vos outils, votre flux de travail ou vos compétences.",
+      "p3": "Vous n'avez pas besoin de concevoir à partir de zéro. Vous n'avez pas besoin de fabriquer des composants.",
+      "list_title": "Nous fournissons :",
+      "list": [
+        "le mécanisme",
+        "les plans du meuble",
+        "la documentation technique",
+        "et même les demandes clients"
+      ],
+      "p4": "Vous installez simplement — et vous êtes payé à des tarifs premium pour cela.",
+      "p5": "Beaucoup de nos partenaires rapportent des marges par jour de 30 à 60 % supérieures à celles des travaux d'installation standard."
+    },
+    "business_sense": {
+      "title": "Pourquoi c'est pertinent pour votre entreprise",
+      "items": [
+        { "title": "Gains journaliers élevés", "desc": "Chantiers d'installation premium" },
+        { "title": "Aucune production requise", "desc": "Concentrez-vous uniquement sur la pose" },
+        { "title": "Systèmes prêts à monter", "desc": "Pas de tâtonnement" },
+        { "title": "Demandes clients fournies", "desc": "Moins de temps passé à prospecter" },
+        { "title": "Apprentissage rapide", "desc": "Premier chantier accompagné étape par étape" }
+      ]
+    }
+  },
+  "furniture_maker": {
+    "apply": {
+      "types": ["Menuisier sur mesure", "Fabricant de meubles", "Fabricant de cuisines", "Usine de meubles"]
+    },
+    "hero": {
+      "badge": "Recrutement de fabricants de meubles à travers toute l'Europe",
+      "h1": "Recrutement de fabricants de meubles et menuisiers à travers toute l'Europe",
+      "sub": "Chez Wall Bed King, nous fabriquons des mécanismes professionnels de lits escamotables — mais ce que nous offrons réellement, c'est une opportunité.<br /><br />Chaque semaine, nous recevons des demandes de propriétaires, de promoteurs et de designers à la recherche de meubles de lit escamotable sur mesure. Ils ne cherchent pas de la quincaillerie — ils cherchent un fabricant de meubles qualifié.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "L'opportunité",
+      "p1": "Si vous construisez déjà des meubles encastrés, vous avez déjà tout ce qu'il faut pour fabriquer des lits escamotables.",
+      "p2": "Les lits escamotables ne sont pas seulement un produit — ils sont un système de mobilier à haute valeur ajoutée :",
+      "list": [
+        "armoires",
+        "étagères",
+        "unités de stockage",
+        "intégrations murales complètes"
+      ],
+      "p3": "Un projet typique de lit escamotable génère des valeurs de commande nettement plus élevées que l'ébénisterie standard.",
+      "p4": "En intégrant nos mécanismes dans votre flux de travail, vous augmentez la taille des projets, vous augmentez votre marge et vous vous différenciez de vos concurrents — sans développer votre propre quincaillerie."
+    },
+    "business_sense": {
+      "title": "Pourquoi c'est pertinent pour votre entreprise",
+      "items": [
+        { "title": "Projets sur mesure à haute valeur", "desc": "1 500 € – 4 000 €+" },
+        { "title": "Marges plus fortes", "desc": "Mieux que l'ébénisterie standard" },
+        { "title": "Demande existante", "desc": "Les clients cherchent déjà" },
+        { "title": "Aucune ingénierie requise", "desc": "Système de mécanisme éprouvé" },
+        { "title": "Projets vitrines", "desc": "Recommandations & fidélisation" },
+        { "title": "Portefeuille de produits étendu", "desc": "Élargissez votre gamme" }
+      ]
+    },
+    "framing": {
+      "title": "Cadre du partenariat",
+      "supply_title": "Nous fournissons :",
+      "supply_items": ["mécanismes", "plans du meuble", "dessins techniques", "demandes clients"],
+      "deliver_title": "Vous livrez :",
+      "deliver_items": ["savoir-faire", "meubles sur mesure", "installation"],
+      "footer": "Ensemble, nous créons des solutions d'intérieur complètes."
+    }
+  },
+  "retailer": {
+    "apply": {
+      "types": ["Magasin de meubles", "Détaillant en ligne", "Magasin multimarque", "Promoteur immobilier"]
+    },
+    "hero": {
+      "badge": "Recrutement de partenaires revendeurs à travers toute l'Europe",
+      "h1": "Vendez des meubles sur mesure — sans inventaire sur mesure.",
+      "sub": "Nous fournissons le système, le produit et la demande.<br />Vous vendez — et développez votre chiffre d'affaires.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "L'opportunité",
+      "p1": "Les revendeurs de meubles sont aujourd'hui confrontés à une demande croissante de meubles multifonctionnels et gain de place — sans avoir la capacité d'augmenter significativement la complexité de leur inventaire.",
+      "p2": "Les lits escamotables sont l'une des catégories à la croissance la plus rapide dans les intérieurs modernes. Les clients n'achètent pas seulement un lit — ils achètent de la flexibilité, de l'espace et un mode de vie multifonctionnel.",
+      "p3": "Avec Wall Bed King, vous pouvez introduire une catégorie de produits à haute valeur ajoutée qui vous permet de proposer des solutions de mobilier entièrement personnalisables à l'aide d'un système standardisé et modulaire.",
+      "p4": "Vous n'avez pas besoin de stocker des dizaines de variations. Vous n'avez pas besoin d'un développement de produit complexe.",
+      "list_title": "Nous fournissons :",
+      "list": [
+        "un système de produit modulaire",
+        "des solutions de mobilier configurables",
+        "une fabrication européenne fiable",
+        "et la demande client"
+      ],
+      "p5": "Vous vendez des solutions complètes — sans augmenter la complexité opérationnelle."
+    },
+    "business_value": {
+      "title": "Valeur commerciale",
+      "sub": "Les systèmes de lits escamotables offrent l'un des meilleurs ratios valeur/espace dans la vente au détail de meubles.",
+      "items": [
+        "Augmentation de la valeur moyenne des commandes avec des produits à prix élevé (1 500 € – 2 200 €+)",
+        "Amélioration des marges par rapport aux catégories de meubles standard",
+        "Vente de systèmes de mobilier complets plutôt que d'articles individuels",
+        "Attirer de nouveaux clients à la recherche de solutions gain de place",
+        "Différencier votre showroom avec un produit que la plupart des concurrents ne proposent pas"
+      ],
+      "modular": "Parce que le système est modulaire : l'inventaire reste gérable, les ventes sont plus rapides et la personnalisation est flexible. De nombreux partenaires utilisent les lits escamotables non seulement comme un produit — mais comme un levier de vente pour des solutions d'aménagement complet."
+    },
+    "retail_options": {
+      "title": "Options de modèle de vente au détail",
+      "sub": "Moyens flexibles d'intégrer Wall Bed King dans votre entreprise :",
+      "options": [
+        {
+          "title": "1. Modèle Exposition & Commande",
+          "desc": "Exposez un lit escamotable dans votre showroom et vendez des solutions configurées par client. Aucun stock important requis."
+        },
+        {
+          "title": "2. Modèle Partenaire Stockiste",
+          "desc": "Détenez des produits sélectionnés localement pour : une livraison plus rapide, des ventes immédiates, des taux de conversion accrus.",
+          "support": "Nous soutenons les partenaires stockistes avec : des recommandations clients dans votre zone, des accords de rachat optionnels pour réduire les risques."
+        },
+        {
+          "title": "3. Vente de solution complète",
+          "desc": "Vendez des systèmes de mobilier complets et intégrés : lits escamotables + armoires, solutions de rangement, concepts de pièces complètes. Cette approche maximise : la valeur de la commande, la marge, la satisfaction client."
+        }
+      ]
+    },
+    "extra": {
+      "title": "Élargissez votre offre — pas vos risques",
+      "p1": "Commencez par une seule unité. Testez la demande dans votre showroom. Évoluez à votre rythme.",
+      "list_title": "Nous proposons également :",
+      "list": ["un soutien pour le showroom", "une livraison européenne rapide", "une garantie satisfait ou remboursé de 90 jours sur les commandes initiales"]
     }
   }
 }

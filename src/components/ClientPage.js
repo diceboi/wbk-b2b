@@ -21,6 +21,16 @@ import ContactFooter from './ContactFooter';
 import ProfessionPopup from './ProfessionPopup';
 import StockistSection from './StockistSection';
 import { InfluencerOpportunity, InfluencerBenefits, InfluencerMarket, InfluencerRequirements, InfluencerDarkWrapper } from './InfluencerSections';
+import { 
+  FitterOpportunity, 
+  BusinessSense, 
+  MakerOpportunity, 
+  MakerFraming, 
+  RetailerOpportunity, 
+  RetailerValue, 
+  RetailerOptions, 
+  RetailerExtra 
+} from './ProfessionSpecificSections';
 
 export default function ClientPage({ baseDict, lang }) {
   const { profession, mounted } = useProfession();
@@ -38,19 +48,37 @@ export default function ClientPage({ baseDict, lang }) {
       <HeroSection dict={dict} />
       {profession !== 'influencer' && <StatsSection dict={dict} />}
       {profession !== 'influencer' && <VideoSection dict={dict} />}
-      {profession !== 'influencer' && <WhyWallBedsSection dict={dict} />}
+      {profession === 'interior_designer' && <WhyWallBedsSection dict={dict} />}
+
+      {/* Profession Specific Opportunity Sections */}
+      {profession === 'fitter_installer' && <FitterOpportunity dict={dict} />}
+      {profession === 'furniture_maker' && <MakerOpportunity dict={dict} />}
+      {profession === 'retailer' && <RetailerOpportunity dict={dict} />}
+      {profession === 'influencer' && <InfluencerOpportunity dict={dict} />}
+      
+      {/* Business Sense / Value Sections */}
+      {profession === 'fitter_installer' && <BusinessSense dict={dict} profession="fitter_installer" />}
+      {profession === 'furniture_maker' && <BusinessSense dict={dict} profession="furniture_maker" />}
+      {profession === 'retailer' && <RetailerValue dict={dict} />}
+      
       {profession !== 'influencer' && <ProfitCalculatorSection dict={dict} />}
       
       {profession === 'influencer' ? (
-        <>
-          <InfluencerOpportunity dict={dict} />
-          <InfluencerDarkWrapper>
-            <InfluencerBenefits dict={dict} />
-            <InfluencerMarket dict={dict} />
-          </InfluencerDarkWrapper>
-        </>
+        <InfluencerDarkWrapper>
+          <InfluencerBenefits dict={dict} />
+          <InfluencerMarket dict={dict} />
+        </InfluencerDarkWrapper>
       ) : (
         <PartnershipBenefitsSection dict={dict} />
+      )}
+
+      {/* Additional Profession Sections */}
+      {profession === 'furniture_maker' && <MakerFraming dict={dict} />}
+      {profession === 'retailer' && (
+        <>
+          <RetailerOptions dict={dict} />
+          <RetailerExtra dict={dict} />
+        </>
       )}
       
       <UspsSection dict={dict} />

@@ -300,11 +300,11 @@
       "message": "ej. Ya vendemos camas y queremos añadir la solución abatible..."
     },
     "types": [
-      "Carpintero / Ebanista",
-      "Instalador",
-      "Comercio de Muebles",
+      "Instalador / Montador",
+      "Fabricante de muebles / Carpintero",
+      "Distribuidor / Minorista",
       "Diseñador de Interiores",
-      "Arquitecto",
+      "Influencer",
       "Otro"
     ],
     "btn": "Enviar Solicitud",
@@ -413,12 +413,16 @@
   },
   "profession_popup": {
     "title": "¿Cuál es su profesión?",
-    "btn_default": "Socio comercial",
+    "btn_fitter": "Instalador / Montador",
+    "btn_maker": "Fabricante de muebles / Carpintero",
+    "btn_retailer": "Distribuidor / Minorista",
     "btn_interior_designer": "Diseñador de interiores",
     "btn_influencer": "Influencer"
   },
   "profession_labels": {
-    "default": "Socio comercial",
+    "fitter_installer": "Instalador / Montador",
+    "furniture_maker": "Fabricante de muebles / Carpintero",
+    "retailer": "Distribuidor / Minorista",
     "interior_designer": "Diseñador de interiores",
     "influencer": "Influencer"
   },
@@ -625,6 +629,148 @@
       "errorGen": "Ha ocurrido un error. Por favor, inténtalo más tarde.",
       "successTitle": "Solicitud recibida",
       "successDesc": "¡Gracias! Revisaremos tu solicitud y tu espacio. ¡Estaremos en contacto!"
+    }
+  },
+  "fitter_installer": {
+    "apply": {
+      "types": ["Instalador independiente", "Empresa de instalación", "Promotor inmobiliario", "Servicios de mantenimiento"]
+    },
+    "hero": {
+      "badge": "Ahora reclutando socios instaladores en toda Europa",
+      "h1": "Ahora reclutando socios instaladores en toda Europa",
+      "sub": "En Wall Bed King, fabricamos mecanismos profesionales de camas abatibles — pero lo que realmente ofrecemos es oportunidad.<br /><br />Cada semana, recibimos consultas de propietarios y diseñadores que buscan instalación. La mayoría de ellos ya quieren el producto — lo que necesitan es un instalador fiable que pueda ofrecer un resultado limpio y profesional.<br /><br />Ahí es donde entra usted.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "La oportunidad",
+      "p1": "Si ya instala cocinas, armarios o muebles a medida, ya tiene todo lo necesario para instalar camas abatibles.",
+      "p2": "Las camas abatibles son una de las instalaciones de mayor valor que puede añadir a su oferta de servicios, sin cambiar sus herramientas, su flujo de trabajo o sus habilidades.",
+      "p3": "No necesita diseñar desde cero. No necesita fabricar componentes.",
+      "list_title": "Proporcionamos:",
+      "list": [
+        "el mecanismo",
+        "los diseños del armario",
+        "la documentación técnica",
+        "e incluso consultas de clientes"
+      ],
+      "p4": "Usted simplemente instala — y recibe tarifas premium por ello.",
+      "p5": "Muchos de nuestros socios reportan márgenes por día entre un 30 y un 60 % más altos en comparación con los trabajos de instalación estándar."
+    },
+    "business_sense": {
+      "title": "Por qué esto tiene sentido comercial",
+      "items": [
+        { "title": "Altos ingresos diarios", "desc": "Trabajos de instalación premium" },
+        { "title": "No requiere producción", "desc": "Enfoque puramente en el montaje" },
+        { "title": "Sistemas listos para montar", "desc": "Sin prueba y error" },
+        { "title": "Consultas de clientes proporcionadas", "desc": "Menos tiempo buscando trabajo" },
+        { "title": "Rápida curva de aprendizaje", "desc": "Primer trabajo apoyado paso a paso" }
+      ]
+    }
+  },
+  "furniture_maker": {
+    "apply": {
+      "types": ["Ebanista a medida", "Fabricante de muebles", "Fabricante de cocinas", "Fábrica de muebles"]
+    },
+    "hero": {
+      "badge": "Ahora reclutando fabricantes de muebles en toda Europa",
+      "h1": "Ahora reclutando fabricantes de muebles y carpinteros en toda Europa",
+      "sub": "En Wall Bed King, fabricamos mecanismos profesionales de camas abatibles — pero lo que realmente ofrecemos es oportunidad.<br /><br />Cada semana, recibimos consultas de propietarios, promotores y diseñadores que buscan muebles de camas abatibles a medida. No buscan herrajes — buscan un fabricante de muebles experto.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "La oportunidad",
+      "p1": "Si ya fabrica muebles a medida, ya tiene todo lo necesario para fabricar camas abatibles.",
+      "p2": "Las camas abatibles no son solo un producto — son un sistema de mobiliario de alto valor:",
+      "list": [
+        "armarios",
+        "estanterías",
+        "unidades de almacenamiento",
+        "integraciones de pared completas"
+      ],
+      "p3": "Un proyecto típico de cama abatible alcanza valores de pedido significativamente más altos que la ebanistería estándar.",
+      "p4": "Al integrar nuestros mecanismos en su flujo de trabajo: aumenta el tamaño del proyecto, aumenta el margen y se diferencia de la competencia — sin desarrollar sus propios herrajes."
+    },
+    "business_sense": {
+      "title": "Por qué esto tiene sentido comercial",
+      "items": [
+        { "title": "Proyectos a medida de alto valor", "desc": "1.500 € – 4.000 €+" },
+        { "title": "Márgenes más sólidos", "desc": "Mejores que la ebanistería estándar" },
+        { "title": "Demanda existente", "desc": "Los clientes ya están buscando" },
+        { "title": "No requiere ingeniería", "desc": "Sistema de mecanismo probado" },
+        { "title": "Proyectos de exhibición", "desc": "Referencias y repetición de negocios" },
+        { "title": "Cartera de productos ampliada", "desc": "Amplíe su oferta de productos" }
+      ]
+    },
+    "framing": {
+      "title": "Marco de asociación",
+      "supply_title": "Suministramos:",
+      "supply_items": ["mecanismos", "diseños de armarios", "dibujos técnicos", "consultas de clientes"],
+      "deliver_title": "Usted entrega:",
+      "deliver_items": ["artesanía", "muebles a medida", "instalación"],
+      "footer": "Juntos, creamos soluciones de interior completas."
+    }
+  },
+  "retailer": {
+    "apply": {
+      "types": ["Tienda de muebles", "Minorista online", "Tienda multimarca", "Promotor inmobiliario"]
+    },
+    "hero": {
+      "badge": "Ahora reclutando socios minoristas en toda Europa",
+      "h1": "Venda muebles a medida — sin inventario a medida.",
+      "sub": "Suministramos el sistema, el producto y la demanda.<br />Usted vende — y escala sus ingresos.",
+      "proof": ""
+    },
+    "opportunity": {
+      "title": "La oportunidad",
+      "p1": "Los minoristas de muebles se enfrentan hoy en día a una creciente demanda de muebles multifuncionales y que ahorran espacio — sin la capacidad de aumentar significativamente la complejidad del inventario.",
+      "p2": "Las camas abatibles son una de las categorías de más rápido crecimiento en los interiores modernos. Los clientes no solo compran una cama — compran flexibilidad, espacio y una vida multifuncional.",
+      "p3": "Con Wall Bed King, puede introducir una categoría de productos de alto valor que le permite ofrecer soluciones de mobiliario totalmente personalizables utilizando un sistema estandarizado y modular.",
+      "p4": "No necesita almacenar docenas de variaciones. No necesita un desarrollo de producto complejo.",
+      "list_title": "Proporcionamos:",
+      "list": [
+        "un sistema de producto modular",
+        "soluciones de mobiliario configurables",
+        "fabricación europea fiable",
+        "y demanda de los clientes"
+      ],
+      "p5": "Usted vende soluciones completas — sin aumentar la complejidad operativa."
+    },
+    "business_value": {
+      "title": "Valor de negocio",
+      "sub": "Los sistemas de camas abatibles ofrecen una de las mejores relaciones valor-espacio en la venta minorista de muebles.",
+      "items": [
+        "Aumente el valor medio del pedido con productos de alto precio (1.500 € – 2.200 €+)",
+        "Mejore los márgenes en comparación con las categorías de muebles estándar",
+        "Venda sistemas de mobiliario completos en lugar de artículos individuales",
+        "Atraiga a nuevos clientes que buscan soluciones para ahorrar espacio",
+        "Diferencie su showroom con un producto que la mayoría de los competidores no ofrecen"
+      ],
+      "modular": "Debido a que el sistema es modular: el inventario sigue siendo manejable, las ventas son más rápidas y la personalización es flexible. Muchos socios utilizan las camas abatibles no solo como un producto — sino como un motor de ventas para soluciones de habitación completa."
+    },
+    "retail_options": {
+      "title": "Opciones de modelo minorista",
+      "sub": "Formas flexibles de integrar Wall Bed King en su negocio:",
+      "options": [
+        {
+          "title": "1. Modelo de exhibición y pedido",
+          "desc": "Muestre una cama abatible en su sala de exposición y venda soluciones configuradas por cliente. No se requiere un gran inventario."
+        },
+        {
+          "title": "2. Modelo de socio con stock",
+          "desc": "Mantenga productos seleccionados localmente para: entrega más rápida, ventas inmediatas, mayores tasas de conversión.",
+          "support": "Apoyamos a los socios con stock con: referencias de clientes en su zona, acuerdos de recompra opcionales para reducir el riesgo."
+        },
+        {
+          "title": "3. Venta minorista de solución completa",
+          "desc": "Venda sistemas de mobiliario completos e integrados: camas abatibles + armarios, soluciones de almacenamiento, conceptos de habitación completa. Este enfoque maximiza: el valor del pedido, el margen, la satisfacción del cliente."
+        }
+      ]
+    },
+    "extra": {
+      "title": "Amplíe su oferta — No su riesgo",
+      "p1": "Comience con una sola unidad. Pruebe la demanda en su sala de exposición. Escale a su propio ritmo.",
+      "list_title": "También ofrecemos:",
+      "list": ["soporte para showroom", "entrega europea rápida", "garantía de devolución de dinero de 90 días en pedidos iniciales"]
     }
   }
 }

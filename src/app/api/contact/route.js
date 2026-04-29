@@ -24,8 +24,19 @@ export async function POST(request) {
       },
     });
 
+    const professionLabels = {
+      'fitter_installer': 'Fitter / Installer',
+      'furniture_maker': 'Furniture Maker / Joiner',
+      'retailer': 'Retailer',
+      'interior_designer': 'Interior Designer',
+      'influencer': 'Influencer',
+      'default': 'Trade Partner'
+    };
+    const profLabel = professionLabels[profession] || professionLabels['default'];
+
     let emailHtml = `
       <h3>New B2B Trade Account Application</h3>
+      <p><strong>Profession:</strong> ${profLabel}</p>
       <p><strong>Name:</strong> ${name}</p>
       <p><strong>Company:</strong> ${company}</p>
       <p><strong>Email:</strong> ${email}</p>
@@ -56,7 +67,7 @@ export async function POST(request) {
       from: `"Wall Bed King B2B" <${process.env.GMAIL_USER}>`,
       to: "delivery@wallbedking.co.uk",
       replyTo: email,
-      subject: `New B2B Application - ${company}`,
+      subject: `New B2B Application [${profLabel}] - ${company}`,
       html: emailHtml,
     });
 
@@ -64,6 +75,8 @@ export async function POST(request) {
     if (profession === 'influencer' || type === 'Influencer') {
       sheetMessage = `Social Links: ${socialLinks}\nContent Info: ${contentInfo}\nFit Reason: ${fitReason}\nRoom Transformation: ${roomTransformation}\nInterest: ${interest}`;
     }
+
+    const finalType = (type && type !== profLabel) ? `${profLabel} - ${type}` : profLabel;
 
     // Google Sheets mentés
     try {
@@ -90,7 +103,7 @@ export async function POST(request) {
               company,
               email,
               phone || "-",
-              type,
+              finalType,
               location,
               sheetMessage
             ],

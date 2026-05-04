@@ -2,7 +2,7 @@ export default function HeroSection({ dict }) {
   return (
     <>
       <section className="hero"
-        style={{ background: `linear-gradient(135deg, rgba(26, 26, 46, 0.55) 0%, rgba(22, 33, 62, 0.35) 50%, rgba(15, 51, 96, 0.2) 100%), url('/13.webp') center/cover no-repeat`, }}>
+        style={{ background: `linear-gradient(135deg, rgba(26, 26, 46, 0.8) 0%, rgba(22, 33, 62, 0.4) 25%, transparent 50%), url('/13.webp') center/cover no-repeat`, }}>
         <div className="hero-glow"></div>
         <div className="hero-inner">
 

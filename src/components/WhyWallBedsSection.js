@@ -13,7 +13,7 @@ export default function WhyWallBedsSection({ dict }) {
             </div>
           </div>
           <div className="why-visual"
-            style={{ background: `url('/wbk-b2b-opportunity.webp') center/cover no-repeat`, }}>
+            style={{ background: `url('/14.webp') center/cover no-repeat`, }}>
           </div>
         </div>
       </section>

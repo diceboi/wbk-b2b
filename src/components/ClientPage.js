@@ -20,6 +20,7 @@ import ApplicationFormSection from './ApplicationFormSection';
 import ContactFooter from './ContactFooter';
 import ProfessionPopup from './ProfessionPopup';
 import StockistSection from './StockistSection';
+import ProductShowcaseSection from './ProductShowcaseSection';
 import { InfluencerOpportunity, InfluencerBenefits, InfluencerMarket, InfluencerRequirements, InfluencerDarkWrapper } from './InfluencerSections';
 import { 
   FitterOpportunity, 
@@ -81,6 +82,7 @@ export default function ClientPage({ baseDict, lang }) {
         </>
       )}
       
+      <ProductShowcaseSection dict={dict} />
       <UspsSection dict={dict} />
       <ProductRangesSection dict={dict} />
       

@@ -48,23 +48,23 @@
     "calcs": [
       {
         "label": "Mechanism cost",
-        "value": "from €448",
+        "value": "from £448",
         "desc": "Ex-works, net price<br />Direct from our factory"
       },
       {
         "label": "Your materials & labour",
-        "value": "~€200–400",
+        "value": "~£200–400",
         "desc": "Cabinet material + installation<br />Half day to one day"
       },
       {
         "label": "Client pays",
-        "value": "up to €2,200",
+        "value": "up to £2,200",
         "desc": "Market standard for a<br />custom wall bed"
       }
     ],
     "gross_label": "Your gross profit per project",
-    "gross_value": "over €1,700",
-    "gross_sub": "With just 2 projects per month, that's over €40,000 in additional revenue per year — from a product you probably don't offer yet.",
+    "gross_value": "over £1,700",
+    "gross_sub": "With just 2 projects per month, that's over £40,000 in additional revenue per year — from a product you probably don't offer yet.",
     "note": "Plus: <strong>every customer who orders a wall bed is a customer that would otherwise go to a competitor.</strong><br />Want to see calculations for a specific project?",
     "note_cta": "Get in touch"
   },
@@ -159,7 +159,7 @@
       "items": [
         "If you build fitted wardrobes or kitchens, you already have the skills to build a wall bed — no retraining needed",
         "We supply mechanism, cabinet designs, and technical drawings — you focus on the build and installation",
-        "Typical job value: €1,500–€4,000+ depending on finish and cabinetry complexity",
+        "Typical job value: £1,500–£4,000+ depending on finish and cabinetry complexity",
         "We refer customer enquiries in your area directly to you — a growing source of qualified leads",
         "Offer your clients something most local joiners can't — and charge a premium for it"
       ]
@@ -693,7 +693,7 @@
     "business_sense": {
       "title": "Why This Makes Business Sense",
       "items": [
-        { "title": "High-value bespoke projects", "desc": "€1,500–€4,000+" },
+        { "title": "High-value bespoke projects", "desc": "£1,500–£4,000+" },
         { "title": "Stronger margins", "desc": "Better than standard cabinetry" },
         { "title": "Existing demand", "desc": "Customers already searching" },
         { "title": "No engineering required", "desc": "Proven mechanism system" },
@@ -739,7 +739,7 @@
       "title": "Business Value",
       "sub": "Wall bed systems offer one of the strongest value-to-space ratios in furniture retail.",
       "items": [
-        "Increase average order value with high-ticket products (€1,500–€2,200+)",
+        "Increase average order value with high-ticket products (£1,500–£2,200+)",
         "Improve margins compared to standard furniture categories",
         "Sell complete furniture systems instead of individual items",
         "Attract new customers looking for space-saving solutions",

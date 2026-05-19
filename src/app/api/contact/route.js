@@ -115,6 +115,24 @@ export async function POST(request) {
       // Ha a táblázatba mentés sikertelen, attól még az email elment, így nem dobunk 500-as hibát a usernek.
     }
 
+    // Webhook hívás
+    try {
+      const webhookData = {
+        ...data,
+        szabi_teszt: "szabi teszt", // Kérés alapján minden formba beletesszük
+        profLabel,
+        finalType,
+      };
+
+      await fetch("https://vps.mipartner.hu/webhook/f0651908-e879-40cc-be14-f5b720ba8d31", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(webhookData),
+      });
+    } catch (webhookError) {
+      console.error("Webhook hiba:", webhookError);
+    }
+
     return new Response(JSON.stringify({ success: true }), {
       status: 200,
       headers: { "Content-Type": "application/json" },
